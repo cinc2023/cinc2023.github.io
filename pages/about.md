@@ -1,29 +1,22 @@
 ---
-title: "About"
+title: "About the Conference"
 layout: single
 author_profile: true
 permalink: /about/
 ---
 
-Add text to elaborate on sidebar.
+![conference](/assets/img/conference_about.jpeg)<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-$$\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$
+**Computing in Cardiology**<br/>
+Computing in Cardiology is an international scientific conference that has been held annually since 1974. CinC provides a forum for scientists and professionals from the fields of medicine, physics, engineering and computer science to discuss their current research in topics pertaining to computing in clinical cardiology and cardiovascular physiology.<br/> 
+[THE CONFERENCE HISTORY](https://cinc.org/past-computing-in-cardiology-conferences/){:target="_blank"}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-$$\sum_{n=1}^\infty \frac{1}{2^n} = 1$$
+**The Sunday Symposium**<br/>
+Since 1990, each scientific meeting of CinC has been preceded by a Sunday afternoon symposium highlighting current research in an area of special interest to the local hosts. The Sunday symposium provides an opportunity for attendees to learn about topics that may be new to them, to connect them with their own research interests, and to hear about the significant contributions and ongoing research coming from the laboratories and clinical research centers of the local organizers and invited speakers.<br/> 
+[THE SYMPOSIUM HISTORY](https://cinc.org/computing-in-cardiology-sunday-symposia/){:target="_blank"} 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-$$e^{i\pi} + 1 = 0$$
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-$$\sum_{n=0}^\infty \frac{(-1)^n}{n+1} = \log 2$$
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
 

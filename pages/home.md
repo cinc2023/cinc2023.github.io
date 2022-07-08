@@ -7,7 +7,14 @@ permalink: /
 
 ![Atlanta skyline](/assets/img/skyline.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p align="center">
+We warmly invite you to the 50th Computing in Cardiology Conference 2023!! <br/>
+Atlanta, Georgia, USA<br/>
+September 24-27<br/>
+</p>
+---
+**Welcome to Atlanta**<br/>
+Atlanta is the capital of the U.S. state of Georgia. It played an important part in both the Civil War and the 1960s Civil Rights Movement. Atlanta History Center chronicles the city's past, and the Martin Luther King Jr. National Historic Site is dedicated to the African-American leader's life and times.
 
 ---
 

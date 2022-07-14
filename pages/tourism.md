@@ -1,5 +1,5 @@
 ---
-title: "Venue"
+title: "Tourism"
 layout: single
 author_profile: true
 permalink: /tourism/

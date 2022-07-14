@@ -17,20 +17,19 @@ Georgia Tech Global Learning Center is located in Midtown Atlanta where hotels, 
 	<summary style="font-size:18px">Accommodations</summary><br/>
 	
 
-	<a href="https://www.gatechhotel.com/">Georgia Tech Hotel and Conference Center</a><br/>
-	<u>800 Spring St. NW, Atlanta, GA 30308</u><br/>
+	<a href="https://www.gatechhotel.com/" class="btn btn--info" target="_blank">Georgia Tech Hotel and Conference Center</a><br/>
+	<u style="font-size:14px">800 Spring St. NW, Atlanta, GA 30308</u><br/>
 
-	<br><a href="https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/">Renaissance Atlanta Midtown Hotel</a><br/>
-	<u>866 W Peachtree St NW, Atlanta, GA 30308</u><br/>
+	<br><a href="https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/" class="btn btn--info" target="_blank">Renaissance Atlanta Midtown Hotel</a><br/>
+	<u style="font-size:14px">866 W Peachtree St NW, Atlanta, GA 30308</u><br/>
 
-	<br><a href="https://www.thegeorgianterrace.com/">The Georgian Terrace</a><br/>
-	<u>659 Peachtree St NE, Atlanta, GA 30308</u><br/>
+	<br><a href="https://www.thegeorgianterrace.com/" class="btn btn--info" target="_blank">The Georgian Terrace</a><br/>
+	<u style="font-size:14px">659 Peachtree St NE, Atlanta, GA 30308</u><br/>
 
-	<br><a href="https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX">Hotel Indigo Atlanta Midtown</a><br/>
-	<u>683 W Peachtree St NE, Atlanta, GA 30308</u><br/>
+	<br><a href="https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX" class="btn btn--info" target="_blank">Hotel Indigo Atlanta Midtown</a><br/>
+	<u style="font-size:14px">683 W Peachtree St NE, Atlanta, GA 30308</u><br/>
 	
 
-<br>is it possible to embed a map with hotels here..?
 </details>
 
 

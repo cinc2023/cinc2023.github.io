@@ -4,8 +4,25 @@ layout: single
 author_profile: true
 permalink: /registration/
 ---
+<h2>Important Dates</h2><br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<h2>Conference Fees</h2><br/>
+**IN PERSON**<br/>
+A full experience of Computing in cardiology conference including exciting social events! <u>Early registration before xxx.</u><br/>
+**IN PERSON 1 DAY**<br/>
+Registration for <u>one day in person</u> attendance of scientific sessions.<br/>
+**IN PERSON - GUEST**<br/>
+Registration for <u>guest in person</u> allows guest to attend Monday Social Event and Gala Dinner.<br/>
+**REMOTE**<br/>
+Be part of the event in an on-line environment!<br/>
+**REMOTE - STUDENTS**<br/>
+Be part of the event in an on-line environment! <u>Discounted fee for students.</u> Send a letter certifying the student status to xxx.<br/>
+
+
+<h2>Registration</h2><br/>
+
+
 
 ---
 

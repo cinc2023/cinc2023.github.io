@@ -1,12 +1,12 @@
 ---
-title: "Venue"
+title: "Conference Venue"
 layout: single
 author_profile: true
 permalink: /venue/
 ---
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-**Georgia Tech Global Learning Center**<br/>
+<h2>Georgia Tech Global Learning Center</h2>
 Georgia Tech Global Learning Center is located in Midtown Atlanta where hotels, restaurants, and recreational places are in walking distance. GTGLC is just 15 miles (24km) from Hartsfield-Jackson Atlanta International Airport. It will take 30 minutes to get GTGLC from the airport by direct subway and 20-30 minutes by Uber, Lyft, or taxi.<br/>
 ><u>Venue address</u>
 <br>800 Spring St NW, Atlanta, GA 30308
@@ -14,7 +14,7 @@ Georgia Tech Global Learning Center is located in Midtown Atlanta where hotels, 
 ---
 
 <details>
-	<summary style="font-size:18px">Accommodations</summary><br/>
+	<summary style="font-size:20px">Accommodations</summary><br/>
 	
 
 	<a href="https://www.gatechhotel.com/" class="btn btn--info" target="_blank">Georgia Tech Hotel and Conference Center</a><br/>

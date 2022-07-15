@@ -1,5 +1,5 @@
 ---
-title: "Sponsors"
+title: "Sponsorship & Partners"
 layout: single
 author_profile: true
 permalink: /sponsors/

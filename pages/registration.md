@@ -4,23 +4,28 @@ layout: single
 author_profile: true
 permalink: /registration/
 ---
-<h2>Important Dates</h2><br/>
+## Important Dates
 
 
-<h2>Conference Fees</h2><br/>
-**IN PERSON**<br/>
-A full experience of Computing in cardiology conference including exciting social events! <u>Early registration before xxx.</u><br/>
-**IN PERSON 1 DAY**<br/>
-Registration for <u>one day in person</u> attendance of scientific sessions.<br/>
-**IN PERSON - GUEST**<br/>
-Registration for <u>guest in person</u> allows guest to attend Monday Social Event and Gala Dinner.<br/>
-**REMOTE**<br/>
-Be part of the event in an on-line environment!<br/>
-**REMOTE - STUDENTS**<br/>
-Be part of the event in an on-line environment! <u>Discounted fee for students.</u> Send a letter certifying the student status to xxx.<br/>
+## Conference Fees
+
+#### IN PERSON
+A full experience of Computing in cardiology conference including exciting social events! **Early registration before xxx.**
+
+#### IN PERSON 1 DAY
+Registration for **one day in person** attendance of scientific sessions.
+
+#### IN PERSON - GUEST
+Registration for **guest in person** allows guest to attend Monday Social Event and Gala Dinner.
+
+#### REMOTE
+Be part of the event in an on-line environment!
+
+#### EMOTE - STUDENTS
+Be part of the event in an on-line environment! **Discounted fee for students.** Send a letter certifying the student status to xxx.
 
 
-<h2>Registration</h2><br/>
+## Registration
 
 
 

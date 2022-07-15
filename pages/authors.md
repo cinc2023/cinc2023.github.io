@@ -7,11 +7,11 @@ permalink: /authors/
 
 ![Author](/assets/img/Author.jpg)<br/>
 
-<h2>Deadlines</h2>
+## Deadlines
 
 ---
 
-<h2>Oral presentation - in person</h2>
+## Oral presentation - in person
 <details>
 	<summary style="font-size:18px">Upload personal bio</summary><br/>
 </details>
@@ -23,7 +23,7 @@ permalink: /authors/
 </details>
 ---
 
-<h2>Oral presentation - remote</h2>
+## Oral presentation - remote
 <details>
 	<summary style="font-size:18px">Upload personal bio</summary><br/>
 </details>
@@ -41,7 +41,7 @@ permalink: /authors/
 </details>
 ---
 
-<h2>Poster session - in person</h2>
+## Poster session - in person
 <details>
 	<summary style="font-size:18px">Prepare poster</summary><br/>
 </details>
@@ -56,7 +56,7 @@ permalink: /authors/
 </details>
 ---
 
-<h2>Poster session - remote</h2>
+## Poster session - remote
 <details>
 	<summary style="font-size:18px">Prepare poster</summary><br/>
 </details>

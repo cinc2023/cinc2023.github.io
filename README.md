@@ -45,7 +45,7 @@ You can add equations by writing something like `$$\int_0^\infty \exp{-x^2} dx =
 
 ### Sidebar, website globals, etc.
 
-Edit `_config.yml` to edit the side bar.. This file controls much more than the sidebar. Be careful.
+Edit `_config.yml` to edit the side bar. This file controls much more than the sidebar. Be careful.
 
 Edit `_data/navigation.yml` to edit the top/nagivation bar. Check the other entries for examples.
 
@@ -74,4 +74,4 @@ __Please__ view the website locally before updating anything on GitHub.
 
 You can use the usual `git pull`, `git add`, `git commit`, `git push` commands to push changes to GitHub. Remember to pull changes before you push changes.
 
-You can also upload files through your browser, but you are responsible for checking for conflicts, i.e., the file was updated after you downloaded it but before you uploaded it again.
+You can also upload files through your browser, but you are responsible for checking for and resolving conflicts or overwrites, i.e., the file was updated after you downloaded it but before you uploaded it again.

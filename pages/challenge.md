@@ -4,8 +4,10 @@ layout: single
 author_profile: true
 permalink: /challenge/
 ---
+## Challenges Overview
+PhysioNet supports open challenges, which invite participants to tackle clinically interesting questions that are either highly topical or neglected. Since the launch of PhysioNet in 1999, PhysioNet has co-hosted annual [Georg B. Moody PhysioNet Challenge](https://moody-challenge.physionet.org/) in collaboration with [Computing in Cardiology](https://cinc.org/). We also support external challenges hosted by our wider [community](https://physionet.org/about/challenge/community-challenge).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[**PhysioNet Challenge**](https://moody-challenge.physionet.org/)
 
 ---
 

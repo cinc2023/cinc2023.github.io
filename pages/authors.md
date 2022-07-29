@@ -4,72 +4,40 @@ layout: single
 author_profile: true
 permalink: /authors/
 ---
-
-![Author](/assets/img/Author.jpg)<br/>
+More Information to Come
 
 ## Deadlines
 
 ---
 
 ## Oral presentation - in person
-<details>
-	<summary style="font-size:18px">Upload personal bio</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Speech format</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">On site check-in</summary><br/>
-</details>
+1. Upload personal bio
+2. Speech format
+3. On site check-in
+
 ---
 
 ## Oral presentation - remote
-<details>
-	<summary style="font-size:18px">Upload personal bio</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Prepare video</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Record video</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Upload video</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Be live with us</summary><br/>
-</details>
+1. Upload personal bio
+2. Prepare video
+3. Record video
+4. Upload video
+5. Be live with us
+
 ---
 
 ## Poster session - in person
-<details>
-	<summary style="font-size:18px">Prepare poster</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Prepare short video</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Upload short video and poster</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">On site check-in</summary><br/>
-</details>
+1. Prepare poster
+2. Prepare short video
+3. Upload short video and poster
+4. On site check-in
+
 ---
 
 ## Poster session - remote
-<details>
-	<summary style="font-size:18px">Prepare poster</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Prepare short video</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Upload short video and poster</summary><br/>
-</details>
-<details>
-	<summary style="font-size:18px">Be live with us</summary><br/>
-</details>
-
+1. Prepare poster
+2. Prepare short video
+3. Be live with us
 
 ---
 

@@ -7,11 +7,8 @@ permalink: /
 
 ![Atlanta skyline](/assets/img/skyline.jpg)
 
-<p align="center">
-We warmly invite you to the 50th Computing in Cardiology Conference 2023!! <br/>
-Atlanta, Georgia, USA<br/>
-September 24-27<br/>
-</p>
+We warmly invite you to the **50th Computing in Cardiology Conference 2023** in Atlanta, Georgia, USA, **September 24th-27th, 2023**.
+
 
 ## Welcome to Atlanta
 Atlanta is the capital of the U.S. state of Georgia. It played an important part in both the Civil War and the 1960s Civil Rights Movement. Atlanta History Center chronicles the city's past, and the Martin Luther King Jr. National Historic Site is dedicated to the African-American leader's life and times.

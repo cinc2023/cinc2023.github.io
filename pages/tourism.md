@@ -6,6 +6,12 @@ permalink: /tourism/
 ---
 ![Piedmont Park](/assets/img/Piedmont Park.jpg)
 ## See&Do
+### Georgia Aquarium
+![Aquarium](/assets/img/aquarium.jpg) ![Aquarium](/assets/img/dolphins.jpg)\
+Georgia Aquarium, located in Atlanta, Georgia, is a scientific institution that entertains and educates, features exhibits and programs of the highest standards, and offers engaging and exciting quest experiences that promote the conservation of aquatic biodiversity throughout the world. As a third largest aquarium, Georgia Aquarium includes whale sharks, beluga whales, California sea lions, bottlenose dolphins, manta rays, sea otters, and tiger sharks. The aquarium offers you the only opportunity in the world where you can dive with whale sharks, manta rays and thousands of other sea creatures. 
+### Chattahoochee River National Water Trail
+![Kayaking](/assets/img/kayaking.jpg) ![Tubing](/assets/img/tubing.jpg)\
+The Chattahoochee River National Water Trail was the first designated National Water Trail in the country. The water trail offers 48 miles of river trail within the Chattahoochee River National Recreation Area and is available for raft, canoe, kayak, and motorboat use year around. The river remains a cool temperature year-round, rarely getting warmer than 50 degrees Fahrenheit. 
 
 ## Accommodations
 
@@ -30,10 +36,10 @@ permalink: /tourism/
 - Distance from the venue: 800M (0.5 miles), 11 minutes away
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1658.2326765018252!2d-84.38791104176369!3d33.77447919517058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7763024!2d-84.3892796!4m5!1s0x88f5046f7354fc6b%3A0xe0f03b17aaeba724!2sThe%20Georgian%20Terrace%2C%20659%20Peachtree%20St%20NE%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.772656!2d-84.3843538!5e0!3m2!1sen!2sus!4v1659557378834!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<br><a href="https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-US-_-ATLPW" class="btn btn--info" target="_blank">Crowne Plaza Atlanta</a><br/>
+<br><a href="https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/" class="btn btn--info" target="_blank">Element Atlanta Midtown</a><br/>
 - Price:
-- Distance from the venue: 800M (0.5 miles), 11 minutes away
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3316.5194282234806!2d-84.38925437417161!3d33.77308231488605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7763024!2d-84.3892796!4m5!1s0x88f50465286e7e99%3A0x30bcb5136bd62d2d!2sCrowne%20Plaza%20Atlanta%20-%20Midtown%2C%20an%20IHG%20Hotel%2C%20590%20W%20Peachtree%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.770219!2d-84.38812!5e0!3m2!1sen!2sus!4v1659559617174!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+- Distance from the venue: 800M (0.5 miles), 10 minutes away
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3126.741231812918!2d-84.38858243878008!3d33.77368988233438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7763024!2d-84.3892796!4m5!1s0x88f50538e0fd1ad5%3A0x99c56059015065ee!2sElement%20Atlanta%20Midtown%2C%20640-2%20Peachtree%20St%20NE%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7720415!2d-84.38551!5e0!3m2!1sen!2sus!4v1659560851893!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 

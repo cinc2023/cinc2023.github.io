@@ -7,14 +7,16 @@ permalink: /tourism/
 ![Piedmont Park](/assets/img/Piedmont Park.jpg)
 ## See&Do
 ### Georgia Aquarium
-![Aquarium](/assets/img/aquarium.jpg) ![Aquarium](/assets/img/dolphins.jpg)\
+![Aquarium](/assets/img/aquarium.jpg)  ![Aquarium](/assets/img/dolphins.jpg)\
 Georgia Aquarium, located in Atlanta, Georgia, is a scientific institution that entertains and educates, features exhibits and programs of the highest standards, and offers engaging and exciting quest experiences that promote the conservation of aquatic biodiversity throughout the world. As a third largest aquarium, Georgia Aquarium includes whale sharks, beluga whales, California sea lions, bottlenose dolphins, manta rays, sea otters, and tiger sharks. The aquarium offers you the only opportunity in the world where you can dive with whale sharks, manta rays and thousands of other sea creatures. 
 ### Chattahoochee River National Water Trail
-![Kayaking](/assets/img/kayaking.jpg) ![Tubing](/assets/img/tubing.jpg)\
+![Kayaking](/assets/img/kayaking.jpg)  ![Tubing](/assets/img/tubing.jpg)\
 The Chattahoochee River National Water Trail was the first designated National Water Trail in the country. The water trail offers 48 miles of river trail within the Chattahoochee River National Recreation Area and is available for raft, canoe, kayak, and motorboat use year around. The river remains a cool temperature year-round, rarely getting warmer than 50 degrees Fahrenheit. 
+### World of Coca-Cola
+![coca-cola](/assets/img/coca_cola.jpg)  ![coca-cola](/assets/img/coke90.jpg)\
+The World of Coca-Cola is a museum showcasing the history of the Coca-Cola Company. You will be able to visit The Vault in the museum where the secret formula for Coca-Cola is secured. Representing over 135 years of the history and timeless appeal of Coca-Cola, the recipe is one of the most closely guarded secrets of all time. You can try a variety of beverages from different countries around the world as you learn interesting facts and details.
 
 ## Accommodations
-
 <br><a href="https://www.gatechhotel.com/" class="btn btn--info" target="_blank">Georgia Tech Hotel and Conference Center</a><br/>
 - Price:
 - Distance from the venue: 100M (350ft), 1 minute away

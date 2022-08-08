@@ -8,18 +8,25 @@ permalink: /tourism/
 ## See&Do
 ### Georgia Aquarium
 ![Aquarium](/assets/img/aquarium.jpg)  ![Aquarium](/assets/img/dolphins.jpg)\
-Georgia Aquarium, located in Atlanta, Georgia, is a scientific institution that entertains and educates, features exhibits and programs of the highest standards, and offers engaging and exciting quest experiences that promote the conservation of aquatic biodiversity throughout the world. As a third largest aquarium, Georgia Aquarium includes whale sharks, beluga whales, California sea lions, bottlenose dolphins, manta rays, sea otters, and tiger sharks. The aquarium offers you the only opportunity in the world where you can dive with whale sharks, manta rays and thousands of other sea creatures. 
+Georgia Aquarium, located in Atlanta, Georgia, is a scientific institution that entertains and educates, features exhibits and programs of the highest standards, and offers engaging and exciting quest experiences that promote the conservation of aquatic biodiversity throughout the world. As a third largest aquarium, Georgia Aquarium includes whale sharks, beluga whales, California sea lions, bottlenose dolphins, manta rays, sea otters, and tiger sharks. The aquarium offers you the only opportunity in the world where you can dive with whale sharks, manta rays and thousands of other sea creatures.\
+**To visit [Georgia Aquarium](https://www.georgiaaquarium.org/)**
 ### Chattahoochee River National Water Trail
 ![Kayaking](/assets/img/kayaking.jpg)  ![Tubing](/assets/img/tubing.jpg)\
-The Chattahoochee River National Water Trail was the first designated National Water Trail in the country. The water trail offers 48 miles of river trail within the Chattahoochee River National Recreation Area and is available for raft, canoe, kayak, and motorboat use year around. The river remains a cool temperature year-round, rarely getting warmer than 50 degrees Fahrenheit. 
+The Chattahoochee River National Water Trail was the first designated National Water Trail in the country. The water trail offers 48 miles of river trail within the Chattahoochee River National Recreation Area and is available for raft, canoe, kayak, and motorboat use year around. The river remains a cool temperature year-round, rarely getting warmer than 50 degrees Fahrenheit.\
+**To visit [Chattahoochee River National Water Trail](https://garivers.org/water-trails-and-paddling/chattahoochee-river-water-trail/)**. 
 ### World of Coca-Cola
 ![coca-cola](/assets/img/coca_cola.jpg)  ![coca-cola](/assets/img/coke90.jpg)\
-The World of Coca-Cola is a museum showcasing the history of the Coca-Cola Company. You will be able to visit The Vault in the museum where the secret formula for Coca-Cola is secured. Representing over 135 years of the history and timeless appeal of Coca-Cola, the recipe is one of the most closely guarded secrets of all time. You can try a variety of beverages from different countries around the world as you learn interesting facts and details.
+The World of Coca-Cola is a museum showcasing the history of the Coca-Cola Company. You will be able to visit The Vault in the museum where the secret formula for Coca-Cola is secured. Representing over 135 years of the history and timeless appeal of Coca-Cola, the recipe is one of the most closely guarded secrets of all time. You can try a variety of beverages from different countries around the world as you learn interesting facts and details.\
+**To visit [World of Coca-Cola](https://www.worldofcoca-cola.com/)**
 ### Atlanta Botanical Garden
-![botanical garden](/assets/img/botanical garden.jpg)  ![garden](/assets/img/garden.jpg)
-
+![botanical garden](/assets/img/botanical garden.jpg)  ![garden](/assets/img/garden.jpg)\
+Since the Atlanta Botanical Garden opened its doors in 1976, it has become the gem hidden in Atlanta. Renowned plant collections, beautiful displays and spectacular exhibitions make the Atlanta Botanical Garden the loveliest place int the city to visit. An urban oasis in the heart of Midtown, the Garden includes 30 acres of outdoor gardens, an award-winning Children's Garden, the serene Stores Woods highlighted by a unique Canopy Walk, and the picturesque Skyline Garden.\
+**To visit [Atlanta Botanical Garden](https://atlantabg.org/)**
 ### Stone Mountain
-![Stone Mountain](/assets/img/stone mountain.jpg)  ![mountain top](/assets/img/mountain.jpg)
+![Stone Mountain](/assets/img/stone mountain.jpg)  ![mountain top](/assets/img/mountain.jpg)\
+Spread across 3,200 beautiful acres, Stone Mountain Park is Georgia’s most-visited attraction–and with good reason.  The fun never ends at Stone Mountain Park, where family activities reign during every season. Visit the park, built around the world’s largest piece of exposed granite (that’d be Stone Mountain), for Spring Fun Break, Memorial Day Weekend, the Fantastic Fourth Celebration, the Yellow Daisy Festival, Pumpkin Festival, Stone Mountain Christmas and Snow Mountain.\
+**To visit [Stone Mountain](https://www.stonemountainpark.com/)**
+
 ## Accommodations
 <br><a href="https://www.gatechhotel.com/" class="btn btn--info" target="_blank">Georgia Tech Hotel and Conference Center</a><br/>
 - Price:

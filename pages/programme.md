@@ -11,7 +11,7 @@ permalink: /programme/
 ### Health Equity with a Cardiovascular Spin
 1. When: September 24th 2023 at 12PM-5PM
 2. Where: School of Medicine, Emory University
-3. Speakers:
+3. Speakers: TO BE ANNOUNCED
 4. Gala Dinner
 - Where: Michael C. Carlos Museum at Emory
 - Time: 5PM-8PM

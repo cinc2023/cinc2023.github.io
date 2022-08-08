@@ -15,7 +15,11 @@ The Chattahoochee River National Water Trail was the first designated National W
 ### World of Coca-Cola
 ![coca-cola](/assets/img/coca_cola.jpg)  ![coca-cola](/assets/img/coke90.jpg)\
 The World of Coca-Cola is a museum showcasing the history of the Coca-Cola Company. You will be able to visit The Vault in the museum where the secret formula for Coca-Cola is secured. Representing over 135 years of the history and timeless appeal of Coca-Cola, the recipe is one of the most closely guarded secrets of all time. You can try a variety of beverages from different countries around the world as you learn interesting facts and details.
+### Atlanta Botanical Garden
+![botanical garden](/assets/img/botanical garden.jpg)  ![garden](/assets/img/garden.jpg)
 
+### Stone Mountain
+![Stone Mountain](/assets/img/stone mountain.jpg)  ![mountain top](/assets/img/mountain.jpg)
 ## Accommodations
 <br><a href="https://www.gatechhotel.com/" class="btn btn--info" target="_blank">Georgia Tech Hotel and Conference Center</a><br/>
 - Price:

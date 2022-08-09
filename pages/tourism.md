@@ -24,7 +24,7 @@ Since the Atlanta Botanical Garden opened its doors in 1976, it has become the g
 **To visit [Atlanta Botanical Garden](https://atlantabg.org/)**
 ### Stone Mountain
 ![Stone Mountain](/assets/img/stone mountain.jpg)  ![mountain top](/assets/img/mountain.jpg)\
-Spread across 3,200 beautiful acres, Stone Mountain Park is Georgia’s most-visited attraction–and with good reason.  The fun never ends at Stone Mountain Park, where family activities reign during every season. Visit the park, built around the world’s largest piece of exposed granite (that’d be Stone Mountain), for Spring Fun Break, Memorial Day Weekend, the Fantastic Fourth Celebration, the Yellow Daisy Festival, Pumpkin Festival, Stone Mountain Christmas and Snow Mountain.\
+Spread across 3,200 beautiful acres, Stone Mountain Park is Georgia’s most-visited attraction–and with good reason.  The fun never ends at Stone Mountain Park, where family activities reign during every season.\
 **To visit [Stone Mountain](https://www.stonemountainpark.com/)**
 
 ## Accommodations

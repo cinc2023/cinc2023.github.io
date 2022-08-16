@@ -5,6 +5,12 @@ author_profile: true
 permalink: /tourism/
 ---
 ![Piedmont Park](/assets/img/Piedmont Park.jpg)
+## Visa information
+A citizen of a foreign country who seeks to enter the United States generally must first obtain a U.S. visa, which is placed in the traveler's passport, a travel document issued by the traveler's country of citizenship.\
+A foreign national traveling to the United States for tourism needs a visitor visa (B-2) unless qualifying for entry under the Visa Waiver Program. Travel to the United States under the Visa Waiver Program requires ESTA Approval.
+
+To apply for B-2 visa and ESTA, please visit **[Travel State Gov](https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html)**.
+
 ## See&Do
 ### Georgia Aquarium
 ![Aquarium](/assets/img/aquarium.jpg)  ![Aquarium](/assets/img/dolphins.jpg)\

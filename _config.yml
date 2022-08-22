@@ -137,6 +137,9 @@ author:
     - label: "PhysioNet Challenge"
       icon: "fas fa-fw fa-puzzle-piece"
       url: "/challenge/"
+    - label: "FAQ"
+      icon: "fas fa-fw fa-questions"
+      url: "/faq/"
 
 
 ## Site Footer

@@ -8,16 +8,16 @@ permalink: /venue/
 
 ## Georgia Tech Global Learning Center
 Georgia Tech Global Learning Center is located in Midtown Atlanta where hotels, restaurants, and recreational places are in walking distance. GTGLC is just 15 miles (24km) from Hartsfield-Jackson Atlanta International Airport. It will take 30 minutes to get GTGLC from the airport by direct railroad (MARTA) and 20-30 minutes by Uber, Lyft, or taxi.
-
+### GLC Location
 >Venue address\
 800 Spring St NW, Atlanta, GA 30308
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13265.57908475856!2d-84.39060997567138!3d33.77630240000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center!5e0!3m2!1sen!2sus!4v1659547193971!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+### GLC Floor Map
 
+#### Hartsfield-Jackson Atlanta International Airport to GLC
+**By MARTA (Rail Network)**
 
-#### Hartsfield-Jackson Atlanta International Airport to Georgia Tech Global Learning Center
-**By MARTA (Railroad)**
-
-Both Red and Gold lines pass through Midtown, Atlanta. The train departures every 8 minutes from Hartsfield-Jackson Airport. **Midtown MARTA** station is within 10 minutes walking distance from Georgia Tech Global Learning Center.
+Both MARTA Red and Gold lines pass through Midtown, Atlanta. The train departures every 8 minutes from Hartsfield-Jackson Airport. **Midtown MARTA** station is within 10 minutes walking distance from Georgia Tech Global Learning Center.
 
 **[MARTA Ticket information](https://www.itsmarta.com/fare-programs.aspx)**
 

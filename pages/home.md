@@ -24,7 +24,7 @@ As of **June 12, 2022**, CDC will no longer require air passengers traveling fro
 <br><a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html" class="btn btn--info" target="_blank">TOO SEE MORE INFORMATION</a><br/>  
 
 ## Organizers
-![EMORY](/assets/img/emory.png)___![Georgia Tech](/assets/img/GT.png)___![Morehouse](/assets/img/MSM.png)
+![School logos](/assets/img/logos.png)
 
 ---
 

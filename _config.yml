@@ -138,7 +138,7 @@ author:
       icon: "fas fa-fw fa-puzzle-piece"
       url: "/challenge/"
     - label: "FAQ"
-      icon: "fas fa-fw fa-questions"
+      icon: "fas fa-fw fa-question"
       url: "/faq/"
 
 

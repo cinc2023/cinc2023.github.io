@@ -1,8 +1,8 @@
 ---
-title: "Registration"
+title: "Attendees"
 layout: single
 author_profile: true
-permalink: /registration/
+permalink: /attendees/
 ---
 More Information to Come
 ---

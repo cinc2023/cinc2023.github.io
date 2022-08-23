@@ -1,8 +1,8 @@
 ---
-title: "Calendar"
+title: "Atlanta, GA Travel Information"
 layout: single
 author_profile: true
-permalink: /calendar/
+permalink: /travel/
 ---
 More Information to Come
 ---

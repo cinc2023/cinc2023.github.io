@@ -129,7 +129,7 @@ author:
       icon: "fas fa-fw fa-globe-americas"
       url: "/travel/"
     - label: "Tourism"
-      icon: "fas fa-fw fa-nature"
+      icon: "fas fa-fw fa-trees"
       url: "/tourism/"
     - label: "Sponsors"
       icon: "fas fa-fw fa-money-bill"

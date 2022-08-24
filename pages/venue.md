@@ -13,7 +13,7 @@ Georgia Tech Global Learning Center is located in Midtown, Atlanta where hotels,
 800 Spring St NW, Atlanta, GA 30308
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13265.57908475856!2d-84.39060997567138!3d33.77630240000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center!5e0!3m2!1sen!2sus!4v1659547193971!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 ### Georgia Tech Global Learning Center Floor Map
-
+![First floor](/assets/img/glc1st.png)  ![Second floor](/assets/img/glc2nd.png)
 #### <a name="airport"></a>Hartsfield-Jackson Atlanta International Airport to Georgia Tech Global Learning Center
 **By MARTA (Rail Network)**
 

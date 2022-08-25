@@ -1,13 +1,15 @@
 ---
-title: "Conference Venue"
+title: "Conference Location"
 layout: single
 author_profile: true
 permalink: /venue/
 ---
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-## Georgia Tech Global Learning Center
-Georgia Tech Global Learning Center is located in Midtown, Atlanta where hotels, restaurants, and recreational places are in walking distance. Georgia Tech Global Learning Center is just 24km from Hartsfield-Jackson Atlanta International Airport. It will take 30 minutes to get Georgia Tech Global Learning Center from the airport by direct rail systems (MARTA) and 20-30 minutes by Uber, Lyft, or taxi.
+CinC 2023 conference is held in Midtown, Atlanta where the venue, [Georgia Tech Global Learning Center](#venue), [hotels](#hotel), [restaurants](#restaurants), and recreational places are in walking distance. Public transportation [MARTA](#airport) is running through Midtown which will get you to the venue from Hartsfield-Jackson Airport. 
+## Venue
+### <a name="venue"></a>Georgia Tech Global Learning Center
+Georgia Tech Global Learning Center is just 24km from Hartsfield-Jackson Atlanta International Airport. It will take 30 minutes to get to the venue from the airport by direct rail systems (MARTA) and 20-30 minutes by Uber, Lyft, or taxi.
 ### Georgia Tech Global Learning Center Location
 >Venue address\
 800 Spring St NW, Atlanta, GA 30308
@@ -23,14 +25,15 @@ Both MARTA Red and Gold lines pass through Midtown, Atlanta. The train departure
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.56066871993!2d-84.48805478391816!3d33.70849553658674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield-Jackson%20Atlanta%20International%20Airport%20(ATL)%2C%206000%20N%20Terminal%20Pkwy%2C%20Atlanta%2C%20GA%2030320!3m2!1d33.6407282!2d-84.4277001!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659546991088!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Accommodations
+## <a name="hotel"></a>Accommodations
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3316.38817699845!2d-84.3912861844987!3d33.77647273068191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f504668dbafc53%3A0xac760b611b8971d2!2sGeorgia%20Tech%20Hotel%20and%20Conference%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.776402!2d-84.38926!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659556246032!5m2!1sen!2sus" 
+align="right" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
 ### Georgia Tech Hotel and Conference Center
 - Distance from the venue: 100M (350ft), 1 minute away
 - Price: $239
 
 To reserve a room at [Georgia Tech Hotel and Conference Center](ttps://www.gatechhotel.com/)
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3316.38817699845!2d-84.3912861844987!3d33.77647273068191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f504668dbafc53%3A0xac760b611b8971d2!2sGeorgia%20Tech%20Hotel%20and%20Conference%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.776402!2d-84.38926!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659556246032!5m2!1sen!2sus" 
-width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
+
 
 ### Hotel Indigo Atlanta Midtown
 - Distance from the venue: 650M (0.4 miles), 10 minutes away
@@ -56,6 +59,8 @@ To reserve a room at [The Georgian Terrace](https://www.thegeorgianterrace.com/)
 
 To reserve a room at [Element Atlanta Midtown](https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/)
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3126.741231812918!2d-84.38858243878008!3d33.77368988233438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7763024!2d-84.3892796!4m5!1s0x88f50538e0fd1ad5%3A0x99c56059015065ee!2sElement%20Atlanta%20Midtown%2C%20640-2%20Peachtree%20St%20NE%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7720415!2d-84.38551!5e0!3m2!1sen!2sus!4v1659560851893!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## <a name="restaurants"></a>Restaurants 
 	
 ---
 

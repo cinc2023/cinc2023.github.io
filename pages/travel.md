@@ -8,12 +8,12 @@ permalink: /travel/
 A citizen of a foreign country who seeks to enter the United States generally must first obtain a U.S. visa, which is placed in the traveler's passport, a travel document issued by the traveler's country of citizenship.\
 A foreign national traveling to the United States for tourism needs a visitor visa (B-2) unless qualifying for entry under the Visa Waiver Program. Travel to the United States under the Visa Waiver Program requires ESTA Approval.
 
-To apply for B-2 visa and ESTA, please visit **[Travel State Gov](https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html)**.
+To apply for B-2 visa and ESTA, please visit **[Travel State Gov](https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html){: target="_blank"}**.
 
 ## <a name="covid"></a>COVID-19 Information
 ### Center for Disease Control and Prevention Guideline
 As of **June 12, 2022**, Center for Disease Control and Prevention will no longer require air passengers traveling from a foreign country to the United States to show a negative COVID-19 viral test or documentation of recovery from COVID-19 before they board their flight. **The vaccination requirement for foreign national travelers is still in effect.**\
-The [Georgia Department of Public Health](https://dph.georgia.gov/) provides testing, vaccination sites, and guidance on mitigating the spread.
+The [Georgia Department of Public Health](https://dph.georgia.gov/){: target="_blank"} provides testing, vaccination sites, and guidance on mitigating the spread.
 ### What You Need to Know
 1. **Make sure you are up to date with your COVID-19 vaccines before you travel internationally.**
 2. You **must** be fully vaccinated with the primary series of an accepted COVID-19 vaccine to travel to the United States by plane if you are a non-U.S. citizen, non-U.S immigrant (not a U.S. citizen, U.S. national, lawful permanent resident, or traveling to the United States on an immigrant visa). Only limited exceptions apply.
@@ -22,12 +22,12 @@ The [Georgia Department of Public Health](https://dph.georgia.gov/) provides tes
 
 ### Requirements
 1. **Proof of Vaccination**\
-All non-U.S. citizen, non-U.S. immigrants traveling to the United States by air are required to show proof of being fully vaccinated against COVID-19. Only limited exceptions apply. To see **accepted COVID-19 vaccines** and **acceptable proof** information, please visit [Center for Disease Control and Prevention website](https://www.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html#:~:text=Top%20of%20Page-,Accepted%20COVID%2D19%20Vaccines,-Accepted%20COVID%2D19).
+All non-U.S. citizen, non-U.S. immigrants traveling to the United States by air are required to show proof of being fully vaccinated against COVID-19. Only limited exceptions apply. To see **accepted COVID-19 vaccines** and **acceptable proof** information, please visit [Center for Disease Control and Prevention website](https://www.cdc.gov/coronavirus/2019-ncov/travelers/proof-of-vaccination.html#:~:text=Top%20of%20Page-,Accepted%20COVID%2D19%20Vaccines,-Accepted%20COVID%2D19){: target="_blank"}.
 2. Contact Information - ALL Travelers\
 All air passengers to the United States will also be required to provide contact information to airlines before boarding flights to the United States.\
 **CinC 2023 Contact Information**
 
-<br><a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html" class="btn btn--info" target="_blank">TO SEE MORE INFORMATION</a>
+[TO SEE MORE INFORMATION](https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html){: .btn .btn--info}{: target="_blank"}
 
 ---
 

@@ -16,7 +16,7 @@ Atlanta is the capital of the U.S. state of Georgia. It played an important part
 Same as last year the CinC 2023 conference is going to be **hybrid**. There will be both an **in-person** and **remote** version of the conference taking place at the same time. If you are participating in the conference in-person, please follow the [Centers for Disease Control and Prevention guideline](../travel#covid).
 
 ## Organizers
-![School logos](/assets/img/logos.svg)
+<img src="/assets/img/logos.svg" width="600" height="100">
 
 ---
 

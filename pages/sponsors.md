@@ -14,8 +14,6 @@ Managing Executive Director, Corporate and Foundation Relations\
 Emory University\
 <gayathris@emory.edu>
 
-## <a class="btn btn--success btn--large">2023 PLATINUM SPONSOR</a>
-## <a class="btn btn--warning btn--large">2023 EXECUTIVE SPONSOR</a>
 ---
 
 [About](../about/) &#9632; [Programme](../programme/) &#9632; [Authors](../authors) &#9632; [Attendees](../attendees/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)

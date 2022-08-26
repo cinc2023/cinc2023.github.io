@@ -12,12 +12,12 @@ Computing in Cardiology is an international scientific conference that has been 
 ## The Sunday Symposium
 Since 1990, each scientific meeting of CinC has been preceded by a Sunday afternoon symposium highlighting current research in an area of special interest to the local hosts. The Sunday symposium provides an opportunity for attendees to learn about topics that may be new to them, to connect them with their own research interests, and to hear about the significant contributions and ongoing research coming from the laboratories and clinical research centers of the local organizers and invited speakers.
 
-[THE SYMPOSIUM HISTORY](https://cinc.org/computing-in-cardiology-sunday-symposia/)
+<a href="https://cinc.org/computing-in-cardiology-sunday-symposia/" class="btn btn--info btn--large" target="_blank">THE SYMPOSIUM HISTORY</a>
 
 ## Community
 Computing in Cardiology is about more than organizing a conference, it is a society of engineers, physicians, and scientists who share a common passion for exploiting the power of computing to understand, diagnose, and treat all aspects of the heart.
 
-[JOIN THE COMMUNITY](https://cinc.org/cinc-community/)
+<a href="https://cinc.org/cinc-community/" class="btn btn--info btn--large" target="_blank">JOIN THE COMMUNITY</a>
 
 ---
 

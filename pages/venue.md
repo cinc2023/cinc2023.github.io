@@ -6,7 +6,7 @@ permalink: /venue/
 ---
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-CinC 2023 conference is held in Midtown, Atlanta where the [venue](#venue), [hotels](#hotel), and [restaurants](/tourism/#restaurants) are in walking distance. Public transportation [MARTA](#airport) is running through Midtown which will get you [from Hartsfield-Jackson Airport to the venue](#airport). 
+<a name="top"></a>CinC 2023 conference is held in Midtown, Atlanta where the [venue](#venue), [hotels](#hotel), and [restaurants](/tourism/#restaurants) are in walking distance. Public transportation [MARTA](#airport) is running through Midtown which will get you [from Hartsfield-Jackson Airport to the venue](#airport). 
 ## Venue
 ### <a name="venue"></a>Georgia Tech Global Learning Center
 Georgia Tech Global Learning Center is just 24km from Hartsfield-Jackson Atlanta International Airport. It will take 30 minutes to get to the venue from the airport by direct rail systems (MARTA) and 20-30 minutes by Uber, Lyft, or taxi.
@@ -50,8 +50,11 @@ Atlanta, GA 30308
 - Distance from the venue: 800M (0.5 miles), 11 minutes away
 > 659 Peachtree St NE,\
 Atlanta, GA 30308
+\
 
-	
+[TOP](#top){: .btn .btn--primary}
+
+
 ---
 
 [About](../about/) &#9632; [Programme](../programme/) &#9632; [Authors](../authors) &#9632; [Attendees](../attendees/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)

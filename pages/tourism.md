@@ -6,7 +6,7 @@ permalink: /tourism/
 ---
 ![Piedmont Park](/assets/img/piedmont_park.jpg)
 
-In Atlanta, there is plenty to see and do. We recommend you to visit [Georgia Aquarium](#aquarium), [Chattahoochee River National Water Trail](#river), [World of Coca-Cola](#cola), [Atlanta Botanical Garden](#garden), and [Stone Mountain](#stone) for your full experience here in Atlanta. More places to explore in Georgia are via [EXPLORE GEORGIA](https://www.exploregeorgia.org/){: target="_blank"}.\
+<a name="top"></a>In Atlanta, there is plenty to see and do. We recommend you to visit [Georgia Aquarium](#aquarium), [Chattahoochee River National Water Trail](#river), [World of Coca-Cola](#cola), [Atlanta Botanical Garden](#garden), and [Stone Mountain](#stone) for your full experience here in Atlanta. More places to explore in Georgia are via [EXPLORE GEORGIA](https://www.exploregeorgia.org/){: target="_blank"}.\
 [Restaurant and dining options](#restaurants) range from casual to fine dining in Atlanta. You will find all types of cuisines.
 ## See&Do
 ### <a name="aquarium"></a>Georgia Aquarium
@@ -65,6 +65,7 @@ Atlanta, GA 30308
 
 <pre>
 </pre>
+[TOP](#top){: .btn .btn--primary}
 
 ---
 

@@ -65,7 +65,7 @@ Atlanta, GA 30308
 
 <pre>
 </pre>
-[TOP](#top){: .btn .btn--primary}
+[TOP](#top){: .btn}
 
 ---
 

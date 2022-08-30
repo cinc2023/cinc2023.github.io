@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /faq/
 ---
-## [COVID-19 Information](../travel/#covid)
+## <a name="top"></a>[COVID-19 Information](../travel/#covid)
 ### Q. Where can I find information on COVID-19 in Georgia?
 [The Georgia Department of Public Health](https://dph.georgia.gov/){: target="_blank"} and [The Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html){: target="_blank"} are the state's leading source of information for COVID-19 in Georgia.
 ### Q. Are there any Georgia travel restrictions right now?
@@ -25,6 +25,8 @@ Please visit [MARTA fare programs](https://www.itsmarta.com/fare-programs.aspx){
 **Atlanta Streetcar**\
 Atlanta's newest transportation option. The 2.7-mile loop makes 12 stops that connect Centennial Olympic Park with the Martin Luther King, Jr. National Historical Park and nearby neighborhoods east of Downtown. With a direct connection to MARTA's Peachtree Center station and other transit services, the Atlanta Streetcar provides additional access to the city's public transportation system.\
 Visit [Atlanta Streetcar website](https://www.itsmarta.com/streetcar.aspx){: target="_blank"} for fares, schedules, safety information and a list of things to do and see along the route.
+
+[TOP](#top){: .btn}
 
 ---
 

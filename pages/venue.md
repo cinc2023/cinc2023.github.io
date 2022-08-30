@@ -52,7 +52,7 @@ Atlanta, GA 30308
 Atlanta, GA 30308
 \
 
-[TOP](#top){: .btn .btn--primary}
+[TOP](#top){: .btn}
 
 
 ---

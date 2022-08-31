@@ -4,11 +4,11 @@ layout: single
 author_profile: true
 permalink: /travel/
 ---
-## <a name="top"></a>Visa information
+## <a name="top"></a><a name="visa"></a>Visa information
 A citizen of a foreign country who seeks to enter the United States generally must first obtain a U.S. visa, which is placed in the traveler's passport, a travel document issued by the traveler's country of citizenship.\
 A foreign national traveling to the United States for tourism needs a visitor visa (B-2) unless qualifying for entry under the Visa Waiver Program. Travel to the United States under the Visa Waiver Program requires ESTA Approval.
 
-To apply for B-2 visa and ESTA, please visit **[Travel State Gov](https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html){: target="_blank"}**.
+To apply for B-2 visa or ESTA, please visit **[Travel State Gov.](https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html){: target="_blank"}**.
 
 ## <a name="covid"></a>COVID-19 Information
 ### Center for Disease Control and Prevention Guideline
@@ -29,7 +29,7 @@ All air passengers to the United States will also be required to provide contact
 
 [TO SEE MORE INFORMATION](https://www.cdc.gov/coronavirus/2019-ncov/travelers/noncitizens-US-air-travel.html){: .btn .btn--info}{: target="_blank"}
 
-[TOP](#top){: .btn}
+[TOP of Page](#top){: .btn}
 
 ---
 

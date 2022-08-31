@@ -6,7 +6,7 @@ permalink: /venue/
 ---
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-<a name="top"></a>CinC 2023 conference is held in Midtown, Atlanta where the [venue](#venue), [hotels](#hotel), and [restaurants](/tourism/#restaurants) are in walking distance. Public transportation [MARTA](#airport) is running through Midtown which will get you [from Hartsfield-Jackson Airport to the venue](#airport). 
+<a name="top"></a>CinC 2023 conference is held in Midtown, Atlanta where the [venue](#venue), [hotels](#hotel), and [restaurants](/tourism/#restaurants) are in walking distance. Public transportation [MARTA](#airport) is running through Midtown, Atlanta which will get you [from Hartsfield-Jackson Airport to the venue](#airport). 
 ## Venue
 ### <a name="venue"></a>Georgia Tech Global Learning Center
 Georgia Tech Global Learning Center is just 24km from Hartsfield-Jackson Atlanta International Airport. It will take 30 minutes to get to the venue from the airport by direct rail systems (MARTA) and 20-30 minutes by Uber, Lyft, or taxi.
@@ -28,31 +28,31 @@ Both MARTA Red and Gold lines pass through Midtown, Atlanta. The train departure
 ## <a name="hotel"></a>Accommodations 
 <iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d6632.873046963193!2d-84.39002462385793!3d33.775223903481674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!4m5!1s0x88f504668dbafc53%3A0xac760b611b8971d2!2sGeorgia%20Tech%20Hotel%20and%20Conference%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.776402!2d-84.38926!4m5!1s0x88f50467b166851b%3A0x7fb5a73bcbc0b2a0!2sRenaissance%20Atlanta%20Midtown%20Hotel%2C%20West%20Peachtree%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7784607!2d-84.38774529999999!4m5!1s0x88f5046f6ebd30f7%3A0xdd06b7e35311a20!2sHotel%20Indigo%20Atlanta%20Midtown%2C%20an%20IHG%20Hotel%2C%20Peachtree%20Street%20Northeast%2C%20Atlanta%2C%20GA!3m2!1d33.773191!2d-84.38457199999999!4m5!1s0x88f5046f7354fc6b%3A0xe0f03b17aaeba724!2sThe%20Georgian%20Terrace%2C%20Peachtree%20Street%20Northeast%2C%20Atlanta%2C%20GA!3m2!1d33.772656!2d-84.3843538!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1661530515384!5m2!1sen!2sus" align="right" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
-- Distance from the venue: 100M, 1 minute away
-- Price: $239
+- Walking distance: 1 min.
+- Price: $234
 > 800 Spring St NW,\
 Atlanta, GA 30308
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
-- Distance from the venue: 650M, 10 minutes away
+- Walking distance: 10 min.
 - Price: $164
 > 683 Peachtree St NW,\
 Atlanta, GA 30308
 
 
 [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: .btn .btn--info .btn--primary}{: target="_blank"}
-- Distance from the venue: 350M (0.2 miles), 4 minutes away
+- Walking distance: 4 min.
 > 866 W Peachtree St NW,\
 Atlanta, GA 30308
 
 
 [The Georgian Terrace](https://www.thegeorgianterrace.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
-- Distance from the venue: 800M (0.5 miles), 11 minutes away
+- Walking distance: 10 min.
 > 659 Peachtree St NE,\
 Atlanta, GA 30308
 \
 
-[TOP](#top){: .btn}
+[TOP of Page](#top){: .btn}
 
 
 ---

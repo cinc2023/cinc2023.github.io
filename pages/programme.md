@@ -24,7 +24,7 @@ The Sunday Symposium will be held in School of Medicine, Emory University. Pleas
 ## Monday Social Activities - More Information to Come
 
 
-[TOP](#top){: .btn}
+[TOP of Page](#top){: .btn}
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "About the Conference"
+title: "About CinC"
 layout: single
 author_profile: true
 permalink: /about/
 ---
-## Computing in Cardiology
+## <a name="top"></a>Computing in Cardiology
 Computing in Cardiology is an international scientific conference that has been held annually since 1974. CinC provides a forum for scientists and professionals from the fields of medicine, physics, engineering and computer science to discuss their current research in topics pertaining to computing in clinical cardiology and cardiovascular physiology.
 
 [THE CONFERENCE HISTORY](https://cinc.org/past-computing-in-cardiology-conferences/){: .btn .btn--info .btn--large}{: target="_blank"}
@@ -18,6 +18,8 @@ Since 1990, each scientific meeting of CinC has been preceded by a Sunday aftern
 Computing in Cardiology is about more than organizing a conference, it is a society of engineers, physicians, and scientists who share a common passion for exploiting the power of computing to understand, diagnose, and treat all aspects of the heart.
 
 [JOIN THE COMMUNITY](https://cinc.org/cinc-community/){: .btn .btn--info .btn--large}{: target="_blank"}
+
+[TOP of Page](#top){: .btn}
 
 ---
 

@@ -35,22 +35,24 @@ Atlanta, GA 30308
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 min.
-- Price: $164
+- Price range: $187-$209
 > 683 Peachtree St NW,\
 Atlanta, GA 30308
 
 
 [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 4 min.
+- Price range: $199-$479
 > 866 W Peachtree St NW,\
 Atlanta, GA 30308
 
 
 [The Georgian Terrace](https://www.thegeorgianterrace.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 min.
+- Price range: $175-$226
 > 659 Peachtree St NE,\
 Atlanta, GA 30308
-\
+
 
 [TOP of Page](#top){: .btn}
 

@@ -34,7 +34,7 @@ Spread across 12,949,940㎡, Stone Mountain Park is the most visited tourist sit
 ## <a name="restaurants"></a>Restaurants 
 ### THERE on Fifth
 ![fifth](/assets/img/fifth.jpg){: .align-left} 
-Dishes with locally sourced foods, local craft brews, and drinks.
+Dishes with locally sourced foods, local craft brews, and drinks
 > 22 5th St NW\
 Atlanta, GA 30308
 

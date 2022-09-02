@@ -4,29 +4,40 @@ layout: single
 author_profile: true
 permalink: /programme/
 ---
-## Conference Programme - More Information to Come
+<a name="top"></a>
+
+CinC 2023 will host a Sunday Symposium on healthy equity, Monday afternoon social events, a Monday evening gala at the world-renowned Georgia Aquarium — and three days full of the latest cardiology research.
+
+## Sunday Symposium
+
+The Sunday Symposium will address health equity with a cardiovascular spin.
+
+1. When: Sunday, 24th September 2023 at 12pm-5pm
+2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}), School of Medicine, Emory University
+3. Address: To be added
+4. Transportation: Provided, but to be announced
+
+## Sunday Reception
+
+1. When: Sunday, 24th September 2023 at 5pm-8pm
+2. Where: [Carlos Museum](https://carlos.emory.edu/){: target="_blank"} at Emory University
+3. Address: To be added
+4. Transportation: Provided, but to be announced
+
 ---
 
-## <a name="top"></a>Sunday Symposium 
-### Health Equity with a Cardiovascular Spin
-1. When: September 24th, 2023 at 12PM-5PM
-2. Where: James B. Williams Medical Education Building (School of Medicine, Emory University)
-3. Speakers: ***TO BE ANNOUNCED***
-4. Gala Dinner
-- Where: [Michael C. Carlos Museum](https://carlos.emory.edu/){: target="_blank"} at Emory University
-- Time: 5PM-8PM
+## Monday Social Activities
 
-### James B. Williams Medical Education Building Location
-The Sunday Symposium will be held in School of Medicine, Emory University. Please visit [Emory School of Medicine website](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"} to get the instructions on how to reach **James B. Williams Medical Education Building**.
+More information to come.
 
-***Conference shuttle time and pick-up location: TO BE ANNOUNCED***
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13262.937222444154!2d-84.31849215396728!3d33.79335874111268!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1241166e7267e3e0!2sEmory%20University-School%20of%20Medicine!5e0!3m2!1sen!2sus!4v1659122641913!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## Monday Evening Gala
 
----
-## Monday Social Activities - More Information to Come
+1. When: Monday, 25th September 2023 at 6pm-10pm
+2. Where: Georgia Aquarium
+3. Address: To be added
+4. Transportation: Provided, but to be announced
 
-
-[TOP of Page](#top){: .btn}
+[Top of page](#top){: .btn}
 
 ---
 

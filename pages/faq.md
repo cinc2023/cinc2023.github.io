@@ -4,27 +4,31 @@ layout: single
 author_profile: true
 permalink: /faq/
 ---
-## <a name="top"></a>[COVID-19 Information](../travel/#covid)
-### Q. Where can I find information on COVID-19 in Georgia, USA?
-[The Georgia Department of Public Health](https://dph.georgia.gov/){: target="_blank"} and [The Center for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html){: target="_blank"} are the state's leading source of information for COVID-19 in Georgia, USA.
-### Q. Are there any Georgia travel restrictions right now?
-There are no restrictions for travel to, from, or within Georgia, USA. If you leave your home, you must follow public health safety measures and local laws. If you test positive for COVID-19, you must follow him isolation protocol. Your home state or country may have restrictions in place. 
-### Q. What should I do before my trip to Georgia, USA?
-With the situation continuing to evolve, the state encourages visitors traveling to and within the state to follow the most up-to-date information and safe travel guidance. Please see [Center for Disease Control and Prevention guidance](../travel/#covid).
+## <a name="top"></a>Health and Safety Information
+### Where can I find information on COVID-19 in Georgia, USA?
+[The Georgia Department of Public Health](https://dph.georgia.gov/){: target="_blank"} and [The Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html){: target="_blank"} are the leading sources of information for COVID-19 in Georgia, USA.
+### Are there any Georgia travel restrictions right now?
+Check back closer to the conference.
+### What should I do before my trip to Georgia, USA?
+With the situation continuing to evolve, the state encourages visitors traveling to and within the state to follow the most up-to-date information and safe travel guidance. Please see the [guidance](../travel/#covid) from the Centers for Disease Control and Prevention.
+
 ## Visa Information
-### Q. What Visa do I need to visit United States of America?
-You might need a visitor visa (B-2) or ESTA Approval if your country is under the visa waiver program. Details can be found [here](../travel/#visa).
-### Q. Am I eligible for the visa waiver program? 
-Please visit [Travel State Gov. website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html).
+### What Visa do I need to visit United States of America?
+Details can be found [here](../travel/#visa).
+### Am I eligible for the visa waiver program? 
+Please visit [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html).
+
 ## Georgia, USA Weather
-### Q. How is the fall weather in Georgia, USA?
-Cool and crisp fall temperatures range from an average low of 12°C to an average high of 24°C. September would be still hot, but it will be nice to have a cardigan or a jacket during the morning and the evening.  
+### How is the fall weather in Georgia, USA?
+Cool and crisp fall temperatures range from an average low of 12°C to an average high of 24°C. September is likely to still be hot, but you may want a cardigan or jacket during the morning and at night. 
+
 ## Transportation
-### Q. How do I get between the airport and the venue(Midtown, Atlanta)?
+### How do I get between the airport and the venue(Midtown, Atlanta)?
 The information can be found [here](../venue/#airport).
-### Q. Where can I get Atlanta's public transportation information?
+### Where can I get Atlanta's public transportation information?
 **MARTA - Rapid transit rail system**\
-Accessible directly from the airport, MARTA provides public transportation that is convenient, safe and clean. All MARTA fares must be purchased with a **Breeze card** or **Breeze ticket**.\
+Accessible directly from the airport, MARTA provides public transportation that is convenient, safe and clean. All MARTA fares must be purchased with a **Breeze card** or **Breeze ticket**.
+
 Please visit [MARTA fare programs](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for special fare options, schedule, and stops.
 
 **Atlanta Streetcar**\

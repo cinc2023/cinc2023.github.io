@@ -7,16 +7,16 @@ permalink: /
 
 ![Atlanta skyline](/assets/img/skyline.jpg)
 
-We warmly invite you to the **50th Computing in Cardiology Conference 2023** in ***Atlanta, Georgia, USA, September 24th-27th, 2023***.
+We warmly invite you to the **50th Computing in Cardiology conference** in **Atlanta, Georgia, USA** on **24th-27th September 2023**.
 
-## Welcome to Atlanta
-Atlanta is the capital of the U.S. state of Georgia. It played an important part in both the Civil War and the 1960s Civil Rights Movement. Atlanta History Center chronicles the city's past, and the Martin Luther King Jr. National Historic Site is dedicated to the African-American leader's life and times.
+## Computing in Cardiology
+Computing in Cardiology (CinC) is an international scientific conference for computing in clinical cardiology and cardiovascular physiology. CinC 2023 is the 50th CinC conference, which has been held annually since 1974. Due to the ongoing [COVID-19 pandemic](../travel#covid)), CinC 2023 will again be a **hybrid** conference with options for both in-person and remote attendance.
 
-## COVID-19 pandemic notice
-Same as last year the CinC 2023 conference is going to be **hybrid**. There will be both an **in-person** and **remote** version of the conference taking place at the same time. If you are participating in the conference in-person, please follow the [Centers for Disease Control and Prevention guideline](../travel#covid).
+## Atlanta, GA, USA
+Atlanta is the capital and largest city in the Southeastern U.S. state of Georgia. From its birth shortly before the American Civil War to its central role in the American Civil Rights Movement, Atlanta has grown into a vibrant, diverse, and international city — and home to the [world's busiest airport](../travel)  — that's great for a short or a long stay.
 
 ## Organizers
-<img src="/assets/img/logos.svg" width="600" height="100">
+<p align="center"><img src="/assets/img/logos.svg" width="600" height="100"></p>
 
 ---
 

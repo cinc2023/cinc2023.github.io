@@ -27,24 +27,27 @@ Attendees can also take Ubert, Lyft, taxi, or other private services, which typi
 There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances.
 
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
-- Walking distance: 1 minute
-- Price: $234
-- Address: 800 Spring St NW, Atlanta, GA 30308, USA
+- Walking distance: 1 minute (indoor passage to the venue)
+- Discounted room rate: $234 + tax
+- **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.secure-res.com%2Fres%2Fvn3%2Fcglogin.aspx%3Fhotelid%3D2871%26rlog%3D957%26pd%3Dcomputing&data=05%7C01%7Chyelyon.lee%40emory.edu%7Cba57927948d14c8398e108da9bdcfe9b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C637993670735014782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IwjurfO%2Fx8Y5fBLFke9AcGvbFa1jm6AUP2lTDgwIHjU%3D&reserved=0){: target="_blank"}** with the discounted rate
+- Deadline for reservation: **August 24, 2023**
+- Price range after deadline: $254-$280 + tax
+- Address: [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Price range: $187-$209
-- 683 Peachtree St NW, Atlanta, GA 30308, USA
+- Price range: $187-$209 + tax
+- Address: [683 Peachtree St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
 
 [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 4 minutes
-- Price range: $199-$479
-- Address: 866 W Peachtree St NW, Atlanta, GA 30308, USA
+- Price range: $199-$479 + tax
+- Address: [866 W Peachtree St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/H66y4C2aXs9QyD8Y8){: target="_blank"}
 
 [The Georgian Terrace](https://www.thegeorgianterrace.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Price range: $175-$226
-- Address:  659 Peachtree St NE, Atlanta, GA 30308, USA
+- Price range: $175-$226 + tax
+- Address:  [659 Peachtree St NE, Atlanta, GA 30308, USA](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
 
 ## <a name="maps"></a>Maps
 

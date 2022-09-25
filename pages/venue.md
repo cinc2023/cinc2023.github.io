@@ -29,7 +29,7 @@ There are several hotels within walking distance of the conference venue in Midt
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 1 minute (indoor passage to the venue)
 - Discounted room rate: $234 + tax
-- **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.secure-res.com%2Fres%2Fvn3%2Fcglogin.aspx%3Fhotelid%3D2871%26rlog%3D957%26pd%3Dcomputing&data=05%7C01%7Chyelyon.lee%40emory.edu%7Cba57927948d14c8398e108da9bdcfe9b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C637993670735014782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IwjurfO%2Fx8Y5fBLFke9AcGvbFa1jm6AUP2lTDgwIHjU%3D&reserved=0){: target="_blank"}** with the discounted rate
+- **[Reservation](https://www.secure-res.com/res/vn4/checka.aspx?hotelid=2871&trr=8F8F1AD53F45E4){: target="_blank"}** with the discounted rate
 - Deadline for reservation: **August 24, 2023**
 - Price range after deadline: $254-$280 + tax
 - Address: [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}

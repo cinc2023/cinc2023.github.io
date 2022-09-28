@@ -32,30 +32,47 @@ There are several hotels within walking distance of the conference venue in Midt
 - **[Reservation](https://www.secure-res.com/res/vn4/checka.aspx?hotelid=2871&trr=AF8F1AD53F3C64&scid=1&scdomainid=0&rlog=957&ri=28901&culture=1&culturename=en-US){: target="_blank"}** with the discounted rate
 - Deadline for reservation: **August 24, 2023**
 - Price range after deadline: $254-$280 + tax
-- Address: [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
+- Address: [800 Spring St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
 - Price range: $187-$209 + tax
-- Address: [683 Peachtree St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
+- Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
 
 [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 4 minutes
 - Price range: $199-$479 + tax
-- Address: [866 W Peachtree St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/H66y4C2aXs9QyD8Y8){: target="_blank"}
+- Address: [866 W Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/H66y4C2aXs9QyD8Y8){: target="_blank"}
 
 [The Georgian Terrace](https://www.thegeorgianterrace.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
 - Price range: $175-$226 + tax
-- Address:  [659 Peachtree St NE, Atlanta, GA 30308, USA](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
+- Address:  [659 Peachtree St NE, Atlanta, GA 30308 USA](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
+
+[Crowne Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99618783&icdv=99618783&qDest=590%20W%20Peachtree%20St%20NW,%20Atlanta,%20GA%2030308,%20USA&qSlH=atlpw&qRms=1&qAdlt=2&qChld=0&qCiD=03&qCiMy=092022&qCoD=04&qCoMy=092022&qAAR=6CBARC&qRtP=IDAS1&setPMCookies=true&qSHBrC=CP&qpMn=0&srb_u=1){: .btn .btn--info .btn--primary}{:target="_blank"}
+- Walking distance: 13 minutes
+- Price range: $134-$179 + tax
+- Address: [590 West Peachtree Street NW, Atlanta, GA 30308 USA](https://goo.gl/maps/tQMgv99ac1iRYtjU9){: target="_blank"}
+
+[Courtyard by Marriott Atlanta](https://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
+- Walking distance: 13 minutes
+- Price range: $244-$569 + tax
+- Address: [640-1 Peachtree Street, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
+
+
+[Hyatt Centric Midtown Atlanta](https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm){: .btn .btn--info .btn--primary}{: target="_blank"}
+- Walking distance: 15 minutes
+- Price range: $221-$249 + tax
+- Address: [125 10th Street NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}
+
 
 ## <a name="maps"></a>Maps
 
 ### Airport to conference venue
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.56066871993!2d-84.48805478391816!3d33.70849553658674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield-Jackson%20Atlanta%20International%20Airport%20(ATL)%2C%206000%20N%20Terminal%20Pkwy%2C%20Atlanta%2C%20GA%2030320!3m2!1d33.6407282!2d-84.4277001!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659546991088!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.56066871993!2d-84.48805478391816!3d33.70849553658674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield-Jackson%20Atlanta%20International%20Airport%20(ATL)%2C%206000%20N%20Terminal%20Pkwy%2C%20Atlanta%2C%20GA%2030320!3m2!1d33.6407282!2d-84.4277001!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659546991088!5m2!1sen!2sus" width="640" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Conference venue and nearby hotels
-<iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d6632.873046963193!2d-84.39002462385793!3d33.775223903481674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!4m5!1s0x88f504668dbafc53%3A0xac760b611b8971d2!2sGeorgia%20Tech%20Hotel%20and%20Conference%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.776402!2d-84.38926!4m5!1s0x88f50467b166851b%3A0x7fb5a73bcbc0b2a0!2sRenaissance%20Atlanta%20Midtown%20Hotel%2C%20West%20Peachtree%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7784607!2d-84.38774529999999!4m5!1s0x88f5046f6ebd30f7%3A0xdd06b7e35311a20!2sHotel%20Indigo%20Atlanta%20Midtown%2C%20an%20IHG%20Hotel%2C%20Peachtree%20Street%20Northeast%2C%20Atlanta%2C%20GA!3m2!1d33.773191!2d-84.38457199999999!4m5!1s0x88f5046f7354fc6b%3A0xe0f03b17aaeba724!2sThe%20Georgian%20Terrace%2C%20Peachtree%20Street%20Northeast%2C%20Atlanta%2C%20GA!3m2!1d33.772656!2d-84.3843538!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20Spring%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1661530515384!5m2!1sen!2sus" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11WBQ7ozqdQVXEyWtqc3jimenW54kY2M&ehbc=2E312F" width="640" height="480"></iframe>
 
 [Top of Page](#top){: .btn}
 

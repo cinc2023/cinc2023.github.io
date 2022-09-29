@@ -13,7 +13,7 @@ CinC 2023 will host a Sunday Symposium on healthy equity, Monday afternoon socia
 The Sunday Symposium will address health equity with a cardiovascular spin.
 
 1. When: Sunday, 24th September 2023 at 12pm-5pm
-2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}), School of Medicine, Emory University
+2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: To be added
 4. Transportation: Provided, but to be announced
 

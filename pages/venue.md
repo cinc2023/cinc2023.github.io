@@ -36,33 +36,33 @@ There are several hotels within walking distance of the conference venue in Midt
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Price range: $187-$209 + tax
+- Average price range: $187-$209 + tax
 - Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
 
 [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 4 minutes
-- Price range: $199-$479 + tax
+- Average price range: $199-$479 + tax
 - Address: [866 W Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/H66y4C2aXs9QyD8Y8){: target="_blank"}
 
 [The Georgian Terrace](https://www.thegeorgianterrace.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Price range: $175-$226 + tax
+- Average price range: $175-$226 + tax
 - Address:  [659 Peachtree St NE, Atlanta, GA 30308 USA](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
 
 [Crowne Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99618783&icdv=99618783&qDest=590%20W%20Peachtree%20St%20NW,%20Atlanta,%20GA%2030308,%20USA&qSlH=atlpw&qRms=1&qAdlt=2&qChld=0&qCiD=03&qCiMy=092022&qCoD=04&qCoMy=092022&qAAR=6CBARC&qRtP=IDAS1&setPMCookies=true&qSHBrC=CP&qpMn=0&srb_u=1){: .btn .btn--info .btn--primary}{:target="_blank"}
 - Walking distance: 13 minutes
-- Price range: $134-$179 + tax
+- Average price range: $134-$179 + tax
 - Address: [590 West Peachtree Street NW, Atlanta, GA 30308 USA](https://goo.gl/maps/tQMgv99ac1iRYtjU9){: target="_blank"}
 
 [Courtyard by Marriott Atlanta](https://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
 - Walking distance: 13 minutes
-- Price range: $244-$569 + tax
+- Average price range: $244-$569 + tax
 - Address: [640-1 Peachtree Street, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
 
 
 [Hyatt Centric Midtown Atlanta](https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 15 minutes
-- Price range: $221-$249 + tax
+- Average price range: $221-$249 + tax
 - Address: [125 10th Street NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}
 
 

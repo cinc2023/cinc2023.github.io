@@ -37,7 +37,7 @@ There are several hotels within walking distance of the conference venue in Midt
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Average price range: $187-$209 + tax
+- Approximate price range: $187-$209 + tax
 - Cancellation policy: 72 hours prior to arrival
 - Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
 
@@ -74,7 +74,7 @@ There are several hotels within walking distance of the conference venue in Midt
 
 [Hyatt Centric Midtown Atlanta](https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 15 minutes
-- Average price range: $221-$249 + tax
+- Approximate price range: $221-$249 + tax
 - Cancellation policy: 48 hours prior to arrival
 - Address: [125 10th Street NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}
 

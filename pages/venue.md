@@ -24,7 +24,7 @@ Attendees can also take Ubert, Lyft, taxi, or other private services, which typi
 
 ## <a name="hotel"></a>Accommodations 
 
-There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances. Cancellation policy sis provided to help with comparisons, but please contact the hotels directly to confirm.
+There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances. Cancellation policy is provided to help with comparisons, but please contact the hotels directly to confirm.
 
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 1 minute (indoor passage to the venue)

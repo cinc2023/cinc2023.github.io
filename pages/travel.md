@@ -6,18 +6,18 @@ permalink: /travel/
 ---
 <a name="top"></a>
 
-## Visa Information
-To visit to the U.S. for CinC 2023 conference, you might need to apply for **B-1 visa classification** which is for business travelers to attend a conference. International travelers planning to visit the U.S. for business purpose may be able to get a visa waiver if they meet the **Visa Waiver Program (VWP)** requirements. These are the steps you should take:
+## <a name="visa"></a>Visa Information
+To visit to the U.S. for CinC 2023 conference, you might need to apply for **[B-1 visa classification](../travel/#b1)** which is for business travelers to attend a conference. International travelers planning to visit the U.S. for business purpose may be able to get a visa waiver if they meet the **[Visa Waiver Program (VWP)](../travel/#vwp)** requirements. These are the steps you should take:
 1. **Find out if you need a visa**\
 Check to see if your country participates in the [U.S. Visa Waiver Program (VWP)](https://www.dhs.gov/visa-waiver-program-requirements){: target="_blank"}. If you don't see your country listed, you will need a B-1 visa to attend the conference.
-2. **Apply for B-1 visa**\
+2. **<a name="b1"></a>Apply for B-1 visa**\
 The process of applying for a visa will vary depending on the U.S. Embassy or Consulate where you apply. Follow the specific instructions for the country that you're in.\
 In general, you will need:
-- To complete online form DS-160, the nonimmigrant visa application form
+- To complete online form [DS-160](https://ceac.state.gov/genniv/){: target="_blank"}, the nonimmigrant visa application form
 - A photo
-- A visa application fee
+- [A visa application fee](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-reciprocity-tables.html){: target="_blank"}
 - To Schedule an interview
-3. **The Visa Waiver Program and ESTA for business travelers**\
+3. **<a name="vwp"></a>The Visa Waiver Program and ESTA for business travelers**\
 The Visa Waiver Program (VWP) enables most citizens or nationals of participating countries to travel to the U.S for business for stays of 90 days or less without obtaining a visa. Travelers must have a valid [Electronic System for Travel Authorization (ESTA)](https://www.cbp.gov/travel/international-visitors/esta){: target="_blank"} approval prior to travel and meet all requirements.\
 Steps to apply:
 - [Check the list of the countries](https://www.dhs.gov/visa-waiver-program-requirements){: target="_blank"} that participate in the VWP. 

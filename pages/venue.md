@@ -12,15 +12,15 @@ permalink: /venue/
 
 ## Venue: Global Learning Center
 
-The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), [restaurants](/tourism/#restaurants), and [public transportation](#airport). The venue's address is 800 Spring St NW, Atlanta, GA 30308, USA.
+The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), [restaurants](/tourism/#restaurants), and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 
 ### <a name="airport"></a>Airport: Hartsfield-Jackson Atlanta International Airport
 
-Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2500 daily flights to over 50 countries.
+Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries.
 
 Attendees can reach the conference venue and hotels in Midtown Atlanta by rail public transit. The [MARTA](https://www.itsmarta.com) [Red](https://www.itsmarta.com/Red-Line.aspx) and [Gold](https://www.itsmarta.com/Gold-Line.aspx) train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 
-Attendees can also take Ubert, Lyft, taxi, or other private services, which typically take 20-40 minutes.
+Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-40 minutes.
 
 ## <a name="hotel"></a>Accommodations 
 
@@ -45,7 +45,7 @@ There are several hotels within walking distance of the conference venue in Midt
 - Walking distance: 13 minutes
 - Approximate price range: $244-$569 + tax
 - Cancellation policy: 7 days prior to arrival
-- Address: [640-1 Peachtree Street, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
+- Address: [640-1 Peachtree St NE, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
 
 [Element by Marriott](https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
 - Walking distance: 13 minutes
@@ -69,14 +69,14 @@ There are several hotels within walking distance of the conference venue in Midt
 - Walking distance: 13 minutes
 - Approximate price range: $134-$179 + tax
 - Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.
-- Address: [590 West Peachtree Street NW, Atlanta, GA 30308 USA](https://goo.gl/maps/tQMgv99ac1iRYtjU9){: target="_blank"}
+- Address: [590 West Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/tQMgv99ac1iRYtjU9){: target="_blank"}
 
 
 [Hyatt Centric Midtown Atlanta](https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 15 minutes
 - Approximate price range: $221-$249 + tax
 - Cancellation policy: 48 hours prior to arrival
-- Address: [125 10th Street NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}
+- Address: [125 10th St NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}
 
 
 ## <a name="maps"></a>Maps

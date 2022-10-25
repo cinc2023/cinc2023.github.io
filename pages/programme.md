@@ -6,9 +6,9 @@ permalink: /programme/
 ---
 <a name="top"></a>
 
-CinC 2023 will host a Sunday Symposium on healthy equity, Monday afternoon social events, a Monday evening gala at the world-renowned Georgia Aquarium — and three days full of the latest cardiology research.
+CinC 2023 will host a [Sunday Symposium](../programme/#sunday) on healthy equity, [Monday afternoon social events](../programme/#social), a [Monday evening gala](../programme/#gala) at the world-renowned Georgia Aquarium — and three days full of the latest cardiology research.
 
-## Sunday Symposium
+## <a name="sunday"></a>Sunday Symposium
 
 The Sunday Symposium will address health equity with a cardiovascular spin.
 
@@ -26,11 +26,11 @@ The Sunday Symposium will address health equity with a cardiovascular spin.
 
 ---
 
-## Monday Social Activities
+## <a name="social"></a>Monday Social Activities
 
 More information to come.
 
-## Monday Evening Gala
+## <a name="gala"></a>Monday Evening Gala
 
 1. When: Monday, 25th September 2023 at 6pm-10pm
 2. Where: Georgia Aquarium

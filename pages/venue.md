@@ -14,17 +14,15 @@ permalink: /venue/
 
 The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), [restaurants](/tourism/#restaurants), and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 
-### <a name="airport"></a>Airport: Hartsfield-Jackson Atlanta International Airport
+### <a name="airport"></a>Arrival at Global Learning Center
 
-Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries.
-
-Attendees can reach the conference venue and hotels in Midtown Atlanta by rail public transit. The [MARTA](https://www.itsmarta.com) [Red](https://www.itsmarta.com/Red-Line.aspx) and [Gold](https://www.itsmarta.com/Gold-Line.aspx) train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
+Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit from [Hartsfield-Jackson Atlanta International Airport](../travel/#airport). The [MARTA](https://www.itsmarta.com) [Red](https://www.itsmarta.com/Red-Line.aspx) and [Gold](https://www.itsmarta.com/Gold-Line.aspx) train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 
 Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-40 minutes.
 
 ## <a name="hotel"></a>Accommodations 
 
-There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances. Cancellation policy is provided to help with comparisons, but please contact the hotels directly to confirm.
+There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances. Cancellation policy is provided to help with comparisons, but please directly contact the hotels to confirm.
 
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 1 minute (indoor passage to the venue)

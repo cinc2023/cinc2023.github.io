@@ -20,7 +20,7 @@ Yes, Atlanta has a vibrant and accepting LGTBQIA+ community.
 
 ## Visa Information
 ### Do I need a visa to visit the US? What visa do I need?
-Travelers from many countries are eligible for a visa waiver. Details can be found [here](../travel/#visa). Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html).
+Travelers from many countries are eligible for a visa waiver. Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"} to see a list of eligible countries. You may need to apply for [B1 visa](../travel/#b1) if your country is not eligible for the waiver program. Details can be found [here](../travel/#visa).
 
 ## Georgia, USA Weather
 ### What is the expected weather for the conference?

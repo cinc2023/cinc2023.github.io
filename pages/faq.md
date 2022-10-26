@@ -1,8 +1,8 @@
 ---
 title: "FAQ"
-layout: search
+layout: sing
 author_profile: true
-permalink: /search/
+permalink: /faq/
 ---
 ## <a name="top"></a>Health and Safety Information
 ### Where can I find information on COVID-19 in Atlanta?

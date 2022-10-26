@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-layout: sing
+layout: single
 author_profile: true
 permalink: /faq/
 ---

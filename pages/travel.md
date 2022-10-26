@@ -9,7 +9,8 @@ This page will provide useful information on getting to [Hartsfield-Jackson Atla
 
 
 ## <a name="airport"></a>Hartsfield-Jackson Atlanta International Airport
-Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries. Domestic and international airlines at Hartsfield-Jackson Atlanta International Airport can be found [here](https://www.atl.com/passenger-information/airlines-at-atl/){: target="_blank"}.
+Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries. Domestic and international airlines at Hartsfield-Jackson Atlanta International Airport can be found [here](https://www.atl.com/passenger-information/airlines-at-atl/){: target="_blank"}.\
+The conference venue, Georgia Tech Global Learning Center, is easily accessible from Hartsfield-Jackson Atlanta International Airport. You will have more information from **["How to get to the venue from the airport"](../venue/#airport)**.
 
 
 ## <a name="visa"></a>Visa Information

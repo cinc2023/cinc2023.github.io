@@ -8,7 +8,7 @@ permalink: /tourism/
 
 <a name="top"></a>
 
-The capital of Georgia, Atlanta has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), city parks for relaxation, art museum, and award-winning restaurants.
+The capital of Georgia, Atlanta has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), city parks for relaxation, art museums, and award-winning restaurants.
 
 ## <a name="attractions"></a> Attractions
 ![coca_cola](/assets/img/world_of_coca.jpeg){: .align-left} **[The World of Coca-Cola](https://www.worldofcoca-cola.com/){: .target="_blank"}** is a museum exhibiting history of the world's most famous soft drink at the dynamic, multimedia home of the 130-year-old secret formula for Coca-Cola. As one of Georgia's most iconic brands, Coca-Cola guarantees visitors diverse experience at the museum. Explore the vault containing the secret recipe, and see the fully functioning bottling line that produces a commemorative glass bottle of Coca-Cola for every guest. You will also taste more than 60 beverages from around the globe.\
@@ -28,6 +28,9 @@ The capital of Georgia, Atlanta has no shortage of exciting activities for visit
 &nbsp;
 
 ![Civil Rights](/assets/img/civil.jpg){: .align-right} **[The Center for Civil and Human Rights](https://www.civilandhumanrights.org/){: .target="_blank"}** in downtown Atlanta is an engaging cultural attraction that connects the American civil rights movement to today's global human rights movement. It is the center's vision to harness Atlanta's legacy of civil rights to strengthen the worldwide movement for human rights. Tour four immersive exhibit spaces, including [The Morehouse College Martine Luther King, Jr. Collection](https://www.civilandhumanrights.org/mlk/){: .target="_blank"}, where visitors can view the personal papers and items to Dr. King. The Center's designated event spaces and educational programs inspire visitors to join the on going dialogue about contemporary movements for human rights around the world.
+
+&nbsp;
+
 
 [Top of page](#top){: .btn}
 

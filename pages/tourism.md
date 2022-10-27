@@ -8,7 +8,26 @@ permalink: /tourism/
 
 <a name="top"></a>
 
-Check back soon!
+The capital of Georgia, Atlanta has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), city parks for relaxation, art museum, and award-winning restaurants.
+
+## <a name="attractions"></a> Attractions
+![coca_cola](/assets/img/world_of_coca.jpeg){: .align-left} **[The World of Coca-Cola](https://www.worldofcoca-cola.com/){: .target="_blank"}** is a museum exhibiting history of the world's most famous soft drink at the dynamic, multimedia home of the 130-year-old secret formula for Coca-Cola. As one of Georgia's most iconic brands, Coca-Cola guarantees visitors diverse experience at the museum. Explore the vault containing the secret recipe, and see the fully functioning bottling line that produces a commemorative glass bottle of Coca-Cola for every guest. You will also taste more than 60 beverages from around the globe.\
+&nbsp;
+
+![aquarium](/assets/img/aquarium.jpg){: .align-right} **[Georgia Aquarium](https://www.georgiaaquarium.org/){: .target="_blank"}** features some of the most amazing aquatic animals, including beluga whales, whale sharks, manta rays, penguins, sea otters, dolphins and many more. As the world third largest aquarium, Georgia Aquarium offers seven permanent galleries, with animals living in more than 10 million gallons of fresh and marine water. Georgia Aquarium also offers visitors the only opportunity in the world where you are guaranteed to dive with the giant creatures.
+
+&nbsp;
+
+![Carter center](/assets/img/carter_center.jpeg){: .align-left} **[The Carter Presidential Library](https://www.jimmycarterlibrary.gov/){: .target="_blank"}** is one of 13 presidential libraries in the United States administered by the National Archives. The award-winning museum features 2-4 national traveling [exhibits](https://www.jimmycarterlibrary.gov/events){: .target="_blank"} a year. The permanent exhibits highlight Carter's life and career. Guests can step into an exact replica of the Oval Office, experience a day in the life of the president, see exquisite state gifts, and take a virtual trip with the Carter Center on an interactive computer table. You will also see the Nobel Peace Prize awarded to President Carter's work after leaving the White House.
+
+&nbsp;
+
+## <a name="history"></a> Historic Sites
+![MLK](/assets/img/mlk.jpg){: .align-left} **[Martin Luther King, Jr. National Historical Park](https://www.nps.gov/malu/index.htm){: .target="_blank"}** commemorates the area where Dr. King was born, lived, worshiped and is now buried. Martin Luther King, Jr. grew up in a time of segregation and became a leader of the modern civil rights movement. Visit [the King Center](https://thekingcenter.org/){: .target="_blank"} to hear his story, [the home of his birth](https://www.nps.gov/malu/planyourvisit/birth-home.htm){: .target="_blank"}, and where he played as a child. Walk in his footsteps, and hear his voice in [Historic Ebenezer Baptist Church](https://www.ebenezeratl.org/){: .target="_blank"} where he moved hearts and minds. Marvel at how he was an instrument for social change.
+
+&nbsp;
+
+![Civil Rights](/assets/img/civil.jpg){: .align-right} **[The Center for Civil and Human Rights](https://www.civilandhumanrights.org/){: .target="_blank"}** in downtown Atlanta is an engaging cultural attraction that connects the American civil rights movement to today's global human rights movement. It is the center's vision to harness Atlanta's legacy of civil rights to strengthen the worldwide movement for human rights. Tour four immersive exhibit spaces, including [The Morehouse College Martine Luther King, Jr. Collection](https://www.civilandhumanrights.org/mlk/){: .target="_blank"}, where visitors can view the personal papers and items to Dr. King. The Center's designated event spaces and educational programs inspire visitors to join the on going dialogue about contemporary movements for human rights around the world.
 
 [Top of page](#top){: .btn}
 

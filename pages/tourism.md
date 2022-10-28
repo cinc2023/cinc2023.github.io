@@ -4,11 +4,11 @@ layout: single
 author_profile: true
 permalink: /tourism/
 ---
-![Piedmont Park](/assets/img/piedmont_park.jpg)
+![Piedmont Park](/assets/img/piedmont_park.png){: .align-full}
 
 <a name="top"></a>
 
-The capital of Georgia, Atlanta has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), city parks for relaxation, art museums, and award-winning restaurants.
+The capital of Georgia, Atlanta has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), [city parks](../tourism/#parks) for relaxation, art museums, and award-winning restaurants.
 
 ## <a name="attractions"></a> Attractions
 ![coca_cola](/assets/img/world_of_coca.jpeg){: .align-left} **[The World of Coca-Cola](https://www.worldofcoca-cola.com/){: .target="_blank"}** is a museum exhibiting history of the world's most famous soft drink at the dynamic, multimedia home of the 130-year-old secret formula for Coca-Cola. As one of Georgia's most iconic brands, Coca-Cola guarantees visitors diverse experience at the museum. Explore the vault containing the secret recipe, and see the fully functioning bottling line that produces a commemorative glass bottle of Coca-Cola for every guest. You will also taste more than 60 beverages from around the globe.\
@@ -28,6 +28,21 @@ The capital of Georgia, Atlanta has no shortage of exciting activities for visit
 &nbsp;
 
 ![Civil Rights](/assets/img/civil.jpg){: .align-right} **[The Center for Civil and Human Rights](https://www.civilandhumanrights.org/){: .target="_blank"}** in downtown Atlanta is an engaging cultural attraction that connects the American civil rights movement to today's global human rights movement. It is the center's vision to harness Atlanta's legacy of civil rights to strengthen the worldwide movement for human rights. Tour four immersive exhibit spaces, including [The Morehouse College Martine Luther King, Jr. Collection](https://www.civilandhumanrights.org/mlk/){: .target="_blank"}, where visitors can view the personal papers and items to Dr. King. The Center's designated event spaces and educational programs inspire visitors to join the on going dialogue about contemporary movements for human rights around the world.
+
+&nbsp;
+
+## <a name="parks"></a> City Parks
+![Piedmont Park](/assets/img/piedmont_park.jpg){: .align-left} Explore the beauty of **[Piedmont Park](https://piedmontpark.org/){: .target="_blank"}**, Atlanta's largest green space with more than 809,000m². It has walking trails, sports fields, a dog park and Lake Clara Meer. Walk or jog around the meadow. A number of pubs, cafes and restaurants can also be found within a very short walk along its bordering corridors.
+
+&nbsp;
+
+&nbsp;
+
+![Botanical Garden](/assets/img/botanical_garden.jpg){: .align-right} Renowned plant collection, beautiful displays, and spectacular exhibitions make **[the Atlanta Botanical Garden](https://atlantabg.org/){: .target="_blank"}** the loveliest place in town to visit. An urban oasis in Midtown, Atlanta, the Garden includes 121,405m² of outdoor gardens, a one-of-a-kind Canopy Walk through Stores Woods, and the innovative Edible Garden featuring an Outdoor Demonstration Kitchen. The Fuqua Orchid Center includes a High Elevation Orchid House and a Tropical Orchid House.
+
+&nbsp;
+
+![Olympic Park](/assets/img/centennial_park.jpg){: .align-left} **[Centennial Olympic Park](https://www.gwcca.org/centennial-olympic-park){: .target="_blank"}** serves as a legacy of the 1996 Olympic Games. Centennial Olympic Park is perfect for a stroll to take in the sculptures, water gardens and lavish scenery. One of the most sophisticated fountains in the world, the Fountain of Rings is the world's largest interactive fountain to incorporate the Olympic Rings symbol. You can enjoy the synchronized water and music program where water dances to familiar tunes complete with sound and lighting effects. 
 
 &nbsp;
 

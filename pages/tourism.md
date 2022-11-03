@@ -8,41 +8,61 @@ permalink: /tourism/
 
 <a name="top"></a>
 
-The capital of Georgia, Atlanta has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), [city parks](../tourism/#parks) for relaxation, art museums, and award-winning restaurants.
+Georgia has no shortage of exciting activities for visitors. It provides a range of things you can enjoy like [world-famous attractions](../tourism/#attractions), [historic sites](../tourism/#history), [city parks](../tourism/#parks) for relaxation, [the natural wonders](../tourism/#wonders), art museums and award-winning restaurants.
 
 ## <a name="attractions"></a> Attractions
-![coca_cola](/assets/img/world_of_coca.jpeg){: .align-left} **[The World of Coca-Cola](https://www.worldofcoca-cola.com/){: .target="_blank"}** is a museum exhibiting history of the world's most famous soft drink at the dynamic, multimedia home of the 130-year-old secret formula for Coca-Cola. As one of Georgia's most iconic brands, Coca-Cola guarantees visitors diverse experience at the museum. Explore the vault containing the secret recipe, and see the fully functioning bottling line that produces a commemorative glass bottle of Coca-Cola for every guest. You will also taste more than 60 beverages from around the globe.\
-&nbsp;
-
-![aquarium](/assets/img/aquarium.jpg){: .align-right} **[Georgia Aquarium](https://www.georgiaaquarium.org/){: .target="_blank"}** features some of the most amazing aquatic animals, including beluga whales, whale sharks, manta rays, penguins, sea otters, dolphins and many more. As the world third largest aquarium, Georgia Aquarium offers seven permanent galleries, with animals living in more than 10 million gallons of fresh and marine water. Georgia Aquarium also offers visitors the only opportunity in the world where you are guaranteed to dive with the giant creatures.
+![coca_cola](/assets/img/world_of_coca.jpeg){: .align-left} **[The World of Coca-Cola](https://www.worldofcoca-cola.com/){: target="_blank"}** is a museum exhibiting history of the world's most famous soft drink at the dynamic, multimedia home of the 130-year-old secret formula for Coca-Cola. As one of Georgia's most iconic brands, Coca-Cola guarantees visitors diverse experience at the museum. Explore the vault containing the secret recipe, and see the fully functioning bottling line that produces a commemorative glass bottle of Coca-Cola for every guest. You will also taste more than 60 beverages from around the globe.
 
 &nbsp;
 
-![Carter center](/assets/img/carter_center.jpeg){: .align-left} **[The Carter Presidential Library](https://www.jimmycarterlibrary.gov/){: .target="_blank"}** is one of 13 presidential libraries in the United States administered by the National Archives. The award-winning museum features 2-4 national traveling [exhibits](https://www.jimmycarterlibrary.gov/events){: .target="_blank"} a year. The permanent exhibits highlight Carter's life and career. Guests can step into an exact replica of the Oval Office, experience a day in the life of the president, see exquisite state gifts, and take a virtual trip with the Carter Center on an interactive computer table. You will also see the Nobel Peace Prize awarded to President Carter's work after leaving the White House.
+![aquarium](/assets/img/aquarium.jpg){: .align-right} **[Georgia Aquarium](https://www.georgiaaquarium.org/){: target="_blank"}** features some of the most amazing aquatic animals, including beluga whales, whale sharks, manta rays, penguins, sea otters, dolphins and many more. As the world third largest aquarium, Georgia Aquarium offers seven permanent galleries, with animals living in more than 10 million gallons of fresh and marine water. Georgia Aquarium also offers visitors the only opportunity in the world where you are guaranteed to dive with the giant creatures.
+
+&nbsp;
+
+![Carter center](/assets/img/carter_center.jpeg){: .align-left} **[The Carter Presidential Library](https://www.jimmycarterlibrary.gov/){: target="_blank"}** is one of 13 presidential libraries in the United States administered by the National Archives. The award-winning museum features 2-4 national traveling [exhibits](https://www.jimmycarterlibrary.gov/events){: target="_blank"} a year. The permanent exhibits highlight Carter's life and career. Guests can step into an exact replica of the Oval Office, experience a day in the life of the president, see exquisite state gifts, and take a virtual trip with the Carter Center on an interactive computer table. You will also see the Nobel Peace Prize awarded to President Carter's work after leaving the White House.
 
 &nbsp;
 
 ## <a name="history"></a> Historic Sites
-![MLK](/assets/img/mlk.jpg){: .align-left} **[Martin Luther King, Jr. National Historical Park](https://www.nps.gov/malu/index.htm){: .target="_blank"}** commemorates the area where Dr. King was born, lived, worshiped and is now buried. Martin Luther King, Jr. grew up in a time of segregation and became a leader of the modern civil rights movement. Visit [the King Center](https://thekingcenter.org/){: .target="_blank"} to hear his story, [the home of his birth](https://www.nps.gov/malu/planyourvisit/birth-home.htm){: .target="_blank"}, and where he played as a child. Walk in his footsteps, and hear his voice in [Historic Ebenezer Baptist Church](https://www.ebenezeratl.org/){: .target="_blank"} where he moved hearts and minds. Marvel at how he was an instrument for social change.
+![MLK](/assets/img/mlk.jpg){: .align-left} **[Martin Luther King, Jr. National Historical Park](https://www.nps.gov/malu/index.htm){: target="_blank"}** commemorates the area where Dr. King was born, lived, worshiped and is now buried. Martin Luther King, Jr. grew up in a time of segregation and became a leader of the modern civil rights movement. Visit [the King Center](https://thekingcenter.org/){: target="_blank"} to hear his story, [the home of his birth](https://www.nps.gov/malu/planyourvisit/birth-home.htm){: target="_blank"}, and where he played as a child. Walk in his footsteps, and hear his voice in [Historic Ebenezer Baptist Church](https://www.ebenezeratl.org/){: target="_blank"} where he moved hearts and minds. Marvel at how he was an instrument for social change.
 
 &nbsp;
 
-![Civil Rights](/assets/img/civil.jpg){: .align-right} **[The Center for Civil and Human Rights](https://www.civilandhumanrights.org/){: .target="_blank"}** in downtown Atlanta is an engaging cultural attraction that connects the American civil rights movement to today's global human rights movement. It is the center's vision to harness Atlanta's legacy of civil rights to strengthen the worldwide movement for human rights. Tour four immersive exhibit spaces, including [The Morehouse College Martine Luther King, Jr. Collection](https://www.civilandhumanrights.org/mlk/){: .target="_blank"}, where visitors can view the personal papers and items to Dr. King. The Center's designated event spaces and educational programs inspire visitors to join the on going dialogue about contemporary movements for human rights around the world.
+![Civil Rights](/assets/img/civil.jpg){: .align-right} **[The Center for Civil and Human Rights](https://www.civilandhumanrights.org/){: target="_blank"}** in downtown Atlanta is an engaging cultural attraction that connects the American civil rights movement to today's global human rights movement. It is the center's vision to harness Atlanta's legacy of civil rights to strengthen the worldwide movement for human rights. Tour four immersive exhibit spaces, including [The Morehouse College Martine Luther King, Jr. Collection](https://www.civilandhumanrights.org/mlk/){: target="_blank"}, where visitors can view the personal papers and items to Dr. King. The Center's designated event spaces and educational programs inspire visitors to join the on going dialogue about contemporary movements for human rights around the world.
+
+&nbsp;
+
+![Historic District, Savannah](/assets/img/savannah.jpg){: .align-left} Savannah is Southern city located on Georgia's coast, approximately 4 hours from Atlanta. Settled in 1733, Savannah is one of the oldest cities in the U.S. and it was one of the first planned cities. **[Savannah Historic District](https://www.savannah.com/savannah-historic-district/){: target="_blank"}** is a large urban U.S. historic district with cobblestone streets, manicured gardens, and oak-shaded parks drizzling with silvery Spanish Moss. Stroll through park squares, and explore museums, monuments, and restored 18th-century homes. 
 
 &nbsp;
 
 ## <a name="parks"></a> City Parks
-![Piedmont Park](/assets/img/piedmont_park.jpg){: .align-left} Explore the beauty of **[Piedmont Park](https://piedmontpark.org/){: .target="_blank"}**, Atlanta's largest green space with more than 809,000m². It has walking trails, sports fields, a dog park and Lake Clara Meer. Walk or jog around the meadow. A number of pubs, cafes and restaurants can also be found within a very short walk along its bordering corridors.
+![Piedmont Park](/assets/img/piedmont_park.jpg){: .align-left} Explore the beauty of **[Piedmont Park](https://piedmontpark.org/){: target="_blank"}**, Atlanta's largest green space with more than 809,000m². It has walking trails, sports fields, a dog park and Lake Clara Meer. Walk or jog around the meadow. A number of pubs, cafes and restaurants can also be found within a very short walk along its bordering corridors.
+
+&nbsp;
+
+
+&nbsp;
+
+![Botanical Garden](/assets/img/botanical_garden.jpg){: .align-right} Renowned plant collection, beautiful displays, and spectacular exhibitions make **[the Atlanta Botanical Garden](https://atlantabg.org/){: target="_blank"}** the loveliest place in town to visit. An urban oasis in Midtown, Atlanta, the Garden includes 121,405m² of outdoor gardens, a one-of-a-kind Canopy Walk through Stores Woods, and the innovative Edible Garden featuring an Outdoor Demonstration Kitchen. The Fuqua Orchid Center includes a High Elevation Orchid House and a Tropical Orchid House.
+
+&nbsp;
+&nbsp;
+
+![Olympic Park](/assets/img/centennial_park.jpg){: .align-left} **[Centennial Olympic Park](https://www.gwcca.org/centennial-olympic-park){: target="_blank"}** serves as a legacy of the 1996 Olympic Games. Centennial Olympic Park is perfect for a stroll to take in the sculptures, water gardens and lavish scenery. One of the most sophisticated fountains in the world, the Fountain of Rings is the world's largest interactive fountain to incorporate the Olympic Rings symbol. You can enjoy the synchronized water and music program where water dances to familiar tunes complete with sound and lighting effects. 
+
+&nbsp;
+
+## <a name="wonders"></a> The Natural Wonders
+![Providence Canyon](/assets/img/canyon.jpg){: .align-left} Known as Georgia's "Little Grand Canyon", **[Providence Canyon](https://gastateparks.org/ProvidenceCanyon){: target="_blank"}** is located in Stewart County in southwest Georgia, U.S., approximately 3 hours from Atlanta. Massive gullies as deep as 150 feet were caused simply by poor farming practices during the 1800s. The canyon soil's pink, orange, red and purple hues make a beautiful natural painting at this quiet park.
 
 &nbsp;
 
 &nbsp;
 
-![Botanical Garden](/assets/img/botanical_garden.jpg){: .align-right} Renowned plant collection, beautiful displays, and spectacular exhibitions make **[the Atlanta Botanical Garden](https://atlantabg.org/){: .target="_blank"}** the loveliest place in town to visit. An urban oasis in Midtown, Atlanta, the Garden includes 121,405m² of outdoor gardens, a one-of-a-kind Canopy Walk through Stores Woods, and the innovative Edible Garden featuring an Outdoor Demonstration Kitchen. The Fuqua Orchid Center includes a High Elevation Orchid House and a Tropical Orchid House.
+![Tybee Island](/assets/img/tybee.jpg){: .align-right} Home to wide, clean beaches with warm and gentle waves, **[Tybee Island](https://visittybee.com/){: target="_blank"}** is only 20 minutes away from Savannah, Georgia. Tybee Island has plenty of outdoor activities to do like Tybee Island light station, Civil War forts, and dolphin tours.
 
 &nbsp;
-
-![Olympic Park](/assets/img/centennial_park.jpg){: .align-left} **[Centennial Olympic Park](https://www.gwcca.org/centennial-olympic-park){: .target="_blank"}** serves as a legacy of the 1996 Olympic Games. Centennial Olympic Park is perfect for a stroll to take in the sculptures, water gardens and lavish scenery. One of the most sophisticated fountains in the world, the Fountain of Rings is the world's largest interactive fountain to incorporate the Olympic Rings symbol. You can enjoy the synchronized water and music program where water dances to familiar tunes complete with sound and lighting effects. 
 
 &nbsp;
 

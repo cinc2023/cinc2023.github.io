@@ -22,58 +22,68 @@ Attendees can also take Uber, Lyft, taxi, or other private services, which typic
 
 ## <a name="hotel"></a>Accommodations 
 
-There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances. Cancellation policy is provided to help with comparisons, but please directly contact the hotels to confirm.
+There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances. **Cancellation policy is provided to help with comparisons, but please directly contact the hotels to confirm.**
 
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 1 minute (indoor passage to the venue)
 - Discounted room rate: $234 + tax
-- **[Reservation](https://www.secure-res.com/res/vn4/checka.aspx?hotelid=2871&trr=AF8F1AD53F3C64&scid=1&scdomainid=0&rlog=957&ri=28901&culture=1&culturename=en-US){: target="_blank"}** with the discounted rate
+- **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.secure-res.com%2Fres%2Fvn3%2Fcglogin.aspx%3Fhotelid%3D2871%26rlog%3D957%26pd%3Dcomputing&data=05%7C01%7Chyelyon.lee%40emory.edu%7Cba57927948d14c8398e108da9bdcfe9b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C637993670735014782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IwjurfO%2Fx8Y5fBLFke9AcGvbFa1jm6AUP2lTDgwIHjU%3D&reserved=0){: target="_blank"}** with the discounted rate
 - Deadline for reservation: **August 24, 2023**
 - Approximate price range after deadline: $254-$280 + tax
 - Cancellation policy: 48 hours prior to arrival
+- Contact info: +1 800-706-2899 or +1 404-838-2100
 - Address: [800 Spring St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Approximate price range: $187-$209 + tax
+- Discounted room rate: $164 + tax
+- **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hotelindigo.com%2Fredirect%3Fpath%3Dhd%26brandCode%3DIN%26localeCode%3Den%26regionCode%3D1%26hotelCode%3DATLFX%26_PMID%3D99801505%26GPC%3DCC3%26cn%3Dno%26viewfullsite%3Dtrue&data=05%7C01%7Chyelyon.lee%40emory.edu%7C7bef2996aa4446b1bb4108dabd09b00b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C638030146585678898%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=P9EmAf6dwWIfBCRWFY%2Buf91xf89Rs5HTsCC0S9uxz80%3D&reserved=0){: target="_blank"}** with the discounted rate
+- Approximate price range without discount: $187-$209 + tax
 - Cancellation policy: 72 hours prior to arrival
+- Contact info: +1 404-874-9200
 - Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
-
-[Courtyard by Marriott Atlanta Midtown](https://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
-- Walking distance: 13 minutes
-- Approximate price range: $244-$569 + tax
-- Cancellation policy: 7 days prior to arrival
-- Address: [640-1 Peachtree St NE, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
-
-[Element by Marriott](https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
-- Walking distance: 13 minutes
-- Approximate price range: $209-$409 + tax
-- Cancellation policy: 7 days prior to arrival 
-- Address: [640-2 Peachtree St NE, Atlanta, GA 30308](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
+- Notice: 50 rooms/night blocked for CinC 2023 conference. Once the blocked rooms are fully reserved, general room rate will be applied.
 
 [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 4 minutes
 - Approximate price range: $199-$479 + tax
 - Cancellation policy: 24 hours prior to arrival
+- Contact info: +1 678-412-2400
 - Address: [866 W Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/H66y4C2aXs9QyD8Y8){: target="_blank"}
 
 [The Georgian Terrace](https://www.thegeorgianterrace.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
 - Approximate price range: $175-$226 + tax
 - Cancellation policy: 48 hours prior to arrival
+- Contact info: +1 866-976-3478
 - Address:  [659 Peachtree St NE, Atlanta, GA 30308 USA](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
+
+[Courtyard by Marriott Atlanta Midtown](https://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
+- Walking distance: 13 minutes
+- Approximate price range: $244-$569 + tax
+- Cancellation policy: 7 days prior to arrival
+- Contact info: +1 404-249-6669
+- Address: [640-1 Peachtree St NE, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
+
+[Element by Marriott](https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/){: .btn .btn--info .btn--primary}{:target="_blank"}
+- Walking distance: 13 minutes
+- Approximate price range: $209-$409 + tax
+- Cancellation policy: 7 days prior to arrival 
+- Contact info: +1 404-897-1069
+- Address: [640-2 Peachtree St NE, Atlanta, GA 30308](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
 
 [Crowne Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99618783&icdv=99618783&qDest=590%20W%20Peachtree%20St%20NW,%20Atlanta,%20GA%2030308,%20USA&qSlH=atlpw&qRms=1&qAdlt=2&qChld=0&qCiD=03&qCiMy=092022&qCoD=04&qCoMy=092022&qAAR=6CBARC&qRtP=IDAS1&setPMCookies=true&qSHBrC=CP&qpMn=0&srb_u=1){: .btn .btn--info .btn--primary}{:target="_blank"}
 - Walking distance: 13 minutes
 - Approximate price range: $134-$179 + tax
 - Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.
+- Contact info: +1 404-877-9000
 - Address: [590 West Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/tQMgv99ac1iRYtjU9){: target="_blank"}
-
 
 [Hyatt Centric Midtown Atlanta](https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 15 minutes
 - Approximate price range: $221-$249 + tax
 - Cancellation policy: 48 hours prior to arrival
+- Contact info: +1 404-443-1234
 - Address: [125 10th St NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}
 
 

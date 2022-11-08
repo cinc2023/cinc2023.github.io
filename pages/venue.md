@@ -8,11 +8,11 @@ permalink: /venue/
 
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-<a name="top"></a>CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](#airport). The [conference venue](#venue), [hotels](#hotel), many [restaurants](/tourism/#restaurants) and cultural institutions, and convenient [public transportation](#airport) are a short walk from each other in Midtown Atlanta. The below [maps](#maps) show how easy it is for you to attend the conference and explore Atlanta.
+<a name="top"></a>CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](#airport). The [conference venue](#venue), [hotels](#hotel), many restaurants and cultural institutions, and convenient [public transportation](#airport) are a short walk from each other in Midtown Atlanta. The below [maps](#maps) show how easy it is for you to attend the conference and explore Atlanta.
 
 ## Venue: Global Learning Center
 
-The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), [restaurants](/tourism/#restaurants), and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
+The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), restaurants, and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 
 ### <a name="airport"></a>Arrival at Global Learning Center
 

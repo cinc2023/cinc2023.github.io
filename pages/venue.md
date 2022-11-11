@@ -14,6 +14,10 @@ permalink: /venue/
 
 The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), restaurants, and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 
+The Georgia Tech Global Learning Center has enhanced safety and sanitization procedures as recommended by the Centers for Disease Control (CDC) and the Georgia Department of Public Health (GDPH). The outdoor seating area at the venue will be open for the attendees and personnel during CinC 2023 conference.
+
+To see COVID-19 Guidance, Testing and Vaccine, please visit [Georgia Department of Public Health](https://dph.georgia.gov/dph-covid-19-guidance){: target="_blank"} and [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22){: target="_blank"}.
+
 ### <a name="airport"></a>Arrival at Global Learning Center
 
 Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit from [Hartsfield-Jackson Atlanta International Airport](../travel/#airport). The [MARTA](https://www.itsmarta.com) [Red](https://www.itsmarta.com/Red-Line.aspx) and [Gold](https://www.itsmarta.com/Gold-Line.aspx) train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
@@ -26,7 +30,7 @@ There are several hotels within walking distance of the conference venue in Midt
 
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 1 minute (indoor passage to the venue)
-- Discounted room rate: $234 + tax
+- Group rate: $234 + tax
 - **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.secure-res.com%2Fres%2Fvn3%2Fcglogin.aspx%3Fhotelid%3D2871%26rlog%3D957%26pd%3Dcomputing&data=05%7C01%7Chyelyon.lee%40emory.edu%7Cba57927948d14c8398e108da9bdcfe9b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C637993670735014782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IwjurfO%2Fx8Y5fBLFke9AcGvbFa1jm6AUP2lTDgwIHjU%3D&reserved=0){: target="_blank"}** with the discounted rate
 - Deadline for reservation: **August 24, 2023**
 - Approximate price range after deadline: $254-$280 + tax
@@ -36,7 +40,7 @@ There are several hotels within walking distance of the conference venue in Midt
 
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
-- Discounted room rate: $164 + tax
+- Group rate: $164 + tax
 - **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hotelindigo.com%2Fredirect%3Fpath%3Dhd%26brandCode%3DIN%26localeCode%3Den%26regionCode%3D1%26hotelCode%3DATLFX%26_PMID%3D99801505%26GPC%3DCC3%26cn%3Dno%26viewfullsite%3Dtrue&data=05%7C01%7Chyelyon.lee%40emory.edu%7C7bef2996aa4446b1bb4108dabd09b00b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C638030146585678898%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=P9EmAf6dwWIfBCRWFY%2Buf91xf89Rs5HTsCC0S9uxz80%3D&reserved=0){: target="_blank"}** with the discounted rate
 - Approximate price range without discount: $187-$209 + tax
 - Cancellation policy: 72 hours prior to arrival

@@ -14,9 +14,8 @@ permalink: /venue/
 
 The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), restaurants, and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 
-The Georgia Tech Global Learning Center has enhanced safety and sanitization procedures as recommended by the Centers for Disease Control (CDC) and the Georgia Department of Public Health (GDPH). The outdoor seating area at the venue will be open for the attendees and personnel during CinC 2023 conference.
-
-To see COVID-19 Guidance, Testing and Vaccine, please visit [Georgia Department of Public Health](https://dph.georgia.gov/dph-covid-19-guidance){: target="_blank"} and [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22){: target="_blank"}.
+The Georgia Tech Global Learning Center has enhanced safety and sanitization procedures as recommended by the Centers for Disease Control (CDC) and the Georgia Department of Public Health (GDPH). The outdoor seating area at the venue will be open for the attendees and personnel during CinC 2023 conference.\
+To see **COVID-19 guidance, testing and vaccine**, please visit [Georgia Department of Public Health](https://dph.georgia.gov/dph-covid-19-guidance){: target="_blank"} and [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22){: target="_blank"}.
 
 ### <a name="airport"></a>Arrival at Global Learning Center
 

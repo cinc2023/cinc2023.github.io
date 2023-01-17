@@ -10,7 +10,7 @@ permalink: /
 We warmly invite you to the **50th Computing in Cardiology conference** in **Atlanta, Georgia, USA** on **1st - 4th October 2023**.
 
 ## Computing in Cardiology
-Computing in Cardiology (CinC) is an international scientific conference for computing in clinical cardiology and cardiovascular physiology. CinC 2023 is the 50th CinC conference, which has been held annually since 1974. Due to the ongoing COVID-19 pandemic, CinC 2023 will again be a **hybrid** conference with options for both in-person and remote attendance.
+[Computing in Cardiology (CinC)](https://cinc.org/){: target="_blank"} is an international scientific conference for computing in clinical cardiology and cardiovascular physiology. CinC 2023 is the 50th CinC conference, which has been held annually since 1974. Due to the ongoing COVID-19 pandemic, CinC 2023 will again be a **hybrid** conference with options for both in-person and remote attendance.
 
 ## Atlanta, GA, USA
 Atlanta is the capital and largest city in the Southeastern U.S. state of Georgia. From its birth shortly before the American Civil War to its central role in the American Civil Rights Movement, Atlanta has grown into a vibrant, diverse, and international city — and home to the [world's busiest airport](../travel)  — that's great for a short or a long stay.

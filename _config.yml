@@ -109,6 +109,7 @@ author:
   bio              : ""
   location         :
   email            :
+  url              : https://cinc.org/
   links:
     - label: "About"
       icon: "fas fa-fw fa-home"

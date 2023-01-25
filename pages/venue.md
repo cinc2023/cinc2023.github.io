@@ -29,10 +29,7 @@ There are several hotels within walking distance of the conference venue in Midt
 
 [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 1 minute (indoor passage to the venue)
-- Group rate: $234 + tax
-- **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.secure-res.com%2Fres%2Fvn3%2Fcglogin.aspx%3Fhotelid%3D2871%26rlog%3D957%26pd%3Dcomputing&data=05%7C01%7Chyelyon.lee%40emory.edu%7Cba57927948d14c8398e108da9bdcfe9b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C637993670735014782%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IwjurfO%2Fx8Y5fBLFke9AcGvbFa1jm6AUP2lTDgwIHjU%3D&reserved=0){: target="_blank"}** with the discounted rate
-- Deadline for reservation: **August 24, 2023**
-- Approximate price range after deadline: $254-$280 + tax
+- Approximate price range: $254-$280 + tax
 - Cancellation policy: 48 hours prior to arrival
 - Contact info: +1 800-706-2899 or +1 404-838-2100
 - Address: [800 Spring St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
@@ -40,8 +37,7 @@ There are several hotels within walking distance of the conference venue in Midt
 [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: .btn .btn--info .btn--primary}{: target="_blank"}
 - Walking distance: 10 minutes
 - Group rate: $164 + tax
-- **[Reservation](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hotelindigo.com%2Fredirect%3Fpath%3Dhd%26brandCode%3DIN%26localeCode%3Den%26regionCode%3D1%26hotelCode%3DATLFX%26_PMID%3D99801505%26GPC%3DCC3%26cn%3Dno%26viewfullsite%3Dtrue&data=05%7C01%7Chyelyon.lee%40emory.edu%7C7bef2996aa4446b1bb4108dabd09b00b%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C638030146585678898%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=P9EmAf6dwWIfBCRWFY%2Buf91xf89Rs5HTsCC0S9uxz80%3D&reserved=0){: target="_blank"}** with the discounted rate
-- Approximate price range without discount: $187-$209 + tax
+- Approximate price range: $187-$209 + tax
 - Cancellation policy: 72 hours prior to arrival
 - Contact info: +1 404-874-9200
 - Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
@@ -73,9 +69,9 @@ There are several hotels within walking distance of the conference venue in Midt
 - Approximate price range: $209-$409 + tax
 - Cancellation policy: 7 days prior to arrival 
 - Contact info: +1 404-897-1069
-- Address: [640-2 Peachtree St NE, Atlanta, GA 30308](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
+- Address: [640-2 Peachtree St NE, Atlanta, GA 30308 USA](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
 
-[Crowne Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99618783&icdv=99618783&qDest=590%20W%20Peachtree%20St%20NW,%20Atlanta,%20GA%2030308,%20USA&qSlH=atlpw&qRms=1&qAdlt=2&qChld=0&qCiD=03&qCiMy=092022&qCoD=04&qCoMy=092022&qAAR=6CBARC&qRtP=IDAS1&setPMCookies=true&qSHBrC=CP&qpMn=0&srb_u=1){: .btn .btn--info .btn--primary}{:target="_blank"}
+[Crowne Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail){: .btn .btn--info .btn--primary}{:target="_blank"}
 - Walking distance: 13 minutes
 - Approximate price range: $134-$179 + tax
 - Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.

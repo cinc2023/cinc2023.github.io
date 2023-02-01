@@ -42,16 +42,16 @@ There are several hotels within walking distance of the conference venue in Midt
 
 **1. [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: target="_blank"}**
 - Walking distance: 1 minute (indoor passage to the venue)
-- Approximate price range: $240-$382
+- Approximate price range: $240-$382/night
 - Cancellation policy: 48 hours prior to arrival
 - Contact info: +1 800-706-2899 or +1 404-838-2100
 - Address: [800 Spring St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
 
 **2. [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: target="_blank"}**
 - Walking distance: 10 minutes
-- Group rate: $164
-- Group rate room **[RESERVATION](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=ATLFX&qGrpCd=CC3&setPMCookies=true&qSHBrC=IN&qDest=683+Peachtree+Street%2C+NE%2C+Atlanta%2C+GA%2C+US&srb_u=1){: .btn .btn--info .btn--small}{: target="_blank"}**
-- Approximate price range: $192-$220
+- Group rate: $164/night
+- **Group rate room** [RESERVATION](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=ATLFX&qGrpCd=CC3&setPMCookies=true&qSHBrC=IN&qDest=683+Peachtree+Street%2C+NE%2C+Atlanta%2C+GA%2C+US&srb_u=1){: .btn .btn--info .btn--small}{: target="_blank"}
+- Approximate price range: $192-$220/night
 - Cancellation policy: 72 hours prior to arrival
 - Contact info: +1 404-874-9200
 - Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
@@ -59,42 +59,46 @@ There are several hotels within walking distance of the conference venue in Midt
 
 **3. [Courtyard by Marriott Atlanta Midtown](https://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown/overview/){:target="_blank"}**
 - Walking distance: 13 minutes
-- Approximate price range: $283-$569
+- Group rate: $249/night
+- **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}
+- Approximate price range: $283-$569/night
 - Cancellation policy: 7 days prior to arrival
 - Contact info: +1 404-249-6669
 - Address: [640-1 Peachtree St NE, Atlanta, GA, 30308 USA](https://goo.gl/maps/KMgHKk1qdGagzqc17){:target="_blank"}
 
 **4. [Element by Marriott](https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/){:target="_blank"}**
 - Walking distance: 13 minutes
-- Approximate price range: $291-$500
+- Group rate: $249/night
+- **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}
+- Approximate price range: $291-$500/night
 - Cancellation policy: 7 days prior to arrival 
 - Contact info: +1 404-897-1069
 - Address: [640-2 Peachtree St NE, Atlanta, GA 30308 USA](https://goo.gl/maps/q4Dx5YC7WXmKjKR69){:target="_blank"}
 
 **5. [Renaissance Atlanta Midtown Hotel](https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/){: target="_blank"}**
 - Walking distance: 4 minutes
-- Approximate price range: $346-$635
+- Approximate price range: $346-$635/night
 - Cancellation policy: 24 hours prior to arrival
 - Contact info: +1 678-412-2400
 - Address: [866 W Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/H66y4C2aXs9QyD8Y8){: target="_blank"}
 
 **6. [The Georgian Terrace](https://www.thegeorgianterrace.com/){: target="_blank"}**
 - Walking distance: 10 minutes
-- Approximate price range: $163-$304
+- Approximate price range: $163-$304/night
 - Cancellation policy: 48 hours prior to arrival
 - Contact info: +1 866-976-3478
 - Address:  [659 Peachtree St NE, Atlanta, GA 30308 USA](https://goo.gl/maps/RTwL26e3iCyC7Qyo7){: target="_blank"}
 
 **7. [Crowne Plaza](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail){:target="_blank"}**
 - Walking distance: 13 minutes
-- Approximate price range: $216-$265
+- Approximate price range: $216-$265/night
 - Cancellation policy: Flexible cancellation based on the room price selected. Please contact the hotel.
 - Contact info: +1 404-877-9000
 - Address: [590 West Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/tQMgv99ac1iRYtjU9){: target="_blank"}
 
 **8. [Hyatt Centric Midtown Atlanta](https://www.hyatt.com/en-US/hotel/georgia/hyatt-centric-midtown-atlanta/atlhm){: target="_blank"}**
 - Walking distance: 15 minutes
-- Approximate price range: $240-$676
+- Approximate price range: $240-$676/night
 - Cancellation policy: 48 hours prior to arrival
 - Contact info: +1 404-443-1234
 - Address: [125 10th St NE, Atlanta, GA, 30309 USA](https://goo.gl/maps/MCckm7Mx1ZDjSfMTA){: target="_blank"}

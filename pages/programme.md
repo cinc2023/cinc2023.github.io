@@ -16,6 +16,7 @@ The Sunday Symposium will address health equity with a cardiovascular spin.
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
 4. Transportation: Provided, but to be announced
+5. [Sunday Symposium Details](https://cinc2023.github.io/assets/img/sunday_symposium.pdf){: target="_blank"}
 
 ## Sunday Reception
 

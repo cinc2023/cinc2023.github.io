@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : "1-4 October 2023 &#9632; Atlanta, Georgia, USA"
 name                     : "CinC 2023"
 description              : "Computing in Cardiology 2023"
-url                      : "https://cinc2023.org"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://cinc2023.org/"
+baseurl                  : #""
 repository               : "cinc2023/cinc2023"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/img/cinc.svg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -101,7 +101,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : CinC 2023
@@ -109,7 +108,7 @@ author:
   bio              : ""
   location         :
   email            :
-  url              : https://cinc.org/
+  url              : "https://cinc.org/"
   links:
     - label: "About"
       icon: "fas fa-fw fa-home"
@@ -141,6 +140,9 @@ author:
     - label: "FAQ"
       icon: "fas fa-fw fa-question"
       url: "/faq/"
+    - label: "CINC"
+      icon: "fas fa-fw fa-heart-rate"
+      url: "https://cinc.org"
 
 
 ## Site Footer
@@ -305,3 +307,4 @@ defaults:
       comments: # true
       share: true
       related: true
+

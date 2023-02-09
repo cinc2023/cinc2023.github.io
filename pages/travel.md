@@ -55,12 +55,13 @@ There are several hotels within walking distance of the conference venue in Midt
 - Cancellation policy: 72 hours prior to arrival
 - Contact info: +1 404-874-9200
 - Address: [683 Peachtree St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/iWiCCkUTxoK5R9mTA){: target="_blank"}
-- Notice: 50 rooms/night blocked for CinC 2023 conference. Once the blocked rooms are fully reserved, general room rate will be applied.
+- **Note: 50 rooms/night blocked for CinC 2023 conference. Once the blocked rooms are fully reserved, market room rate will be applied.**
 
 **3. [Courtyard by Marriott Atlanta Midtown](https://www.marriott.com/en-us/hotels/atlyc-courtyard-atlanta-midtown/overview/){:target="_blank"}**
 - Walking distance: 13 minutes
 - Group rate: $249/night
 - **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}
+- Cut off date: **August 31, 2023**
 - Approximate price range: $283-$569/night
 - Cancellation policy: 7 days prior to arrival
 - Contact info: +1 404-249-6669
@@ -70,6 +71,7 @@ There are several hotels within walking distance of the conference venue in Midt
 - Walking distance: 13 minutes
 - Group rate: $249/night
 - **Group rate room** [RESERVATION](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675183539748&key=GRP&app=resvlink){: .btn .btn--info .btn--small}{: target="_blank"}
+- Cut off date: **August 31, 2023**
 - Approximate price range: $291-$500/night
 - Cancellation policy: 7 days prior to arrival 
 - Contact info: +1 404-897-1069

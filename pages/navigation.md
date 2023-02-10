@@ -8,11 +8,11 @@ permalink: /navigation/
 
 <i class="fas fa-fw fa-home"></i>  **[About](../about/)**
 {: .text-center}
+<i class="fas fa-fw fa-sticky-note"></i>  **[Important dates](../dates/)**
+{: .text-center}
 <i class="fas fa-fw fa-list"></i>  **[Programme](../programme/)**
 {: .text-center}
 <i class="fas fa-fw fa-user"></i>  **[Authors](../authors/)**
-{: .text-center}
-<i class="fas fa-fw fa-sticky-note"></i>  **[Attendees](../attendees/)**
 {: .text-center}
 <i class="fas fa-fw fa-building"></i>  **[Venue](../venue/)**
 {: .text-center}

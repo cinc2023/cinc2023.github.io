@@ -6,7 +6,7 @@ permalink: /programme/
 ---
 <a name="top"></a>
 
-CinC 2023 will host a [Sunday Symposium](../programme/#sunday) on healthy equity, [Monday afternoon social events](../programme/#social), a [Monday evening gala](../programme/#gala) at the world-renowned Georgia Aquarium — and three days full of the latest cardiology research.
+CinC 2023 will host a [Sunday Symposium](../programme/#sunday) on healthy equity, [Monday afternoon social events](../programme/#social), a [Monday evening gala](../programme/#gala) at the world-renowned Georgia Aquarium — and three days full of the latest cardiology research, [the Scientific program](../programme/#scientific) and [Poster program](../programme/#poster).
 
 ## <a name="sunday"></a>Sunday Symposium
 
@@ -27,13 +27,24 @@ The Sunday Symposium will address health equity with a cardiovascular spin.
 
 ---
 
+## <a name="scientific"></a>The Scientific Program
+
+More information to come.
+
+---
+
+## <a name="poster"></a>Poster Program
+More information to come.
+
+---
+
 ## <a name="social"></a>Monday Social Activities
 
 More information to come.
 
 ## <a name="gala"></a>Monday Evening Gala
 
-1. When: Monday, 2nd October 2023 at 6pm-10pm
+1. When: Monday, 2nd October 2023 at 6:30pm-9:30pm
 2. Where: Georgia Aquarium
 3. Address: [225 Baker St NW, Atlanta, GA 30313](https://goo.gl/maps/WfdYNNkQCZUf5pgU6){: target="_blank"}
 4. Transportation: Provided, but to be announced
@@ -42,4 +53,4 @@ More information to come.
 
 ---
 
-[About](../about/) &#9632; [Authors](../authors) &#9632; [Attendees](../attendees/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
+[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)

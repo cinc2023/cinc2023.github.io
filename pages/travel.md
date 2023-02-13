@@ -13,7 +13,7 @@ The conference venue, Georgia Tech Global Learning Center, is easily accessible 
 
 
 ## <a name="visa"></a>Visa Information
-To visit to the U.S. for CinC 2023 conference, you might need to apply for **[B-1 visa classification](../travel/#b1)** which is for business travelers to attend a conference. International travelers planning to visit the U.S. for business purpose may be able to get a visa waiver if they meet the **[Visa Waiver Program (VWP)](../travel/#vwp)** requirements. These are the steps you should take:\
+To visit to the U.S. for CinC 2023 conference, you might need to apply for **[B-1 visa classification](../travel/#b1)** which is for business travelers to attend a conference. These are the steps you should take:\
 **1. Find out if you need a visa**\
 Check to see if your country participates in the [U.S. Visa Waiver Program (VWP)](https://www.dhs.gov/visa-waiver-program-requirements){: target="_blank"}. If you don't see your country listed, you will need a B-1 visa to attend the conference.
 
@@ -33,6 +33,8 @@ Steps to apply:
 - Fill out the [ESTA online application](https://esta.cbp.dhs.gov/){: target="_blank"}.
 - The fee is $21. [Learn how to pay for your ESTA fee](https://help.cbp.gov/s/article/Article-1194?language=en_US){: target="_blank"}.
 - ESTA application number will be given when filling out the form to [check the status of your application](https://esta.cbp.dhs.gov/esta){: target="_blank"}.
+
+**Note: The visa information provided above is for general informational purpose only. It does not, and is not intended to, constitute legal advice. Please consult with your legal counsel to obtain advice with respect to visa.** 
 
 ## <a name="hotel"></a>Accommodations 
 

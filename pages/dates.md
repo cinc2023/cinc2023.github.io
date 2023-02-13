@@ -11,8 +11,7 @@ If you would like to present your work at CinC 2023 conference and publish it in
  
 * **Abstract deadline**\
 Abstract collection for CinC 2023 is open. Please see [the abstract preparation guidelines](https://cinc.org/cinc-conference-program-abstracts/){: target="_blank"}. All conference program abstracts must be submitted on-line [here](https://softconf.com/n/cinc2023/user/){: target="_blank"}.
-* **Full-paper deadline**\
-Full paper must be submitted for the [Rosanna Degani Young Investigator Award](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"} competition, the [Clinical needs translational award (CTA)](https://cinc.org/wp-content/cache/page_enhanced/cinc.org/joint-wg-e-cardiology-esc-cinc-clinical-needs-translational-award-cta/_index_slash.html_gzip){: target="_blank"}, and [reduced-fee registration](https://cinc.org/participating-computing-in-cardiology-conferences/#reduced-registration){: target="_blank"}.
+* **Full-paper deadline** for the [Rosanna Degani Young Investigator Award](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"} competition, the [Clinical needs translational award (CTA)](https://cinc.org/wp-content/cache/page_enhanced/cinc.org/joint-wg-e-cardiology-esc-cinc-clinical-needs-translational-award-cta/_index_slash.html_gzip){: target="_blank"}, and [reduced-fee registration](https://cinc.org/participating-computing-in-cardiology-conferences/#reduced-registration){: target="_blank"}.
 
 
 [Top of page](#top){: .btn}

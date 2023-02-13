@@ -6,11 +6,17 @@ permalink: /challenge/
 ---
 <a name="top"></a>
 
-## Challenges Overview
+## Overview
 
 The annual [George B. Moody PhysioNet Challenges](https://physionetchallenges.org/){: target="_blank"} invite participants to develop algorithmic approaches tackling clinically interesting questions that remain unsolved. Since the launch of PhysioNet in 1999, PhysioNet has co-hosted these Challenges in collaboration with [Computing in Cardiology](https://cinc.org/){: target="_blank"}.
 
-The PhysioNet Challenge 2023 will be announced soon.
+## 2023 George B. Moody PhysioNet Challenge
+
+2023 George B. Moody PhysioNet Challenge has been announced.This year's challenge is on predicting neurological recovery from coma after cardiac arrest.\
+The first deadline is **April 8, 2023**. Requirements, links to code and data, and background can be found at [George B. Moody PhysioNet Challenge 2023 announcement](https://moody-challenge.physionet.org/2023/){: target="_blank"}.
+
+&nbsp;
+
 
 [PhysioNet Challenge](https://physionetchallenges.org/){: .btn .btn--info .btn--large}{: target="_blank"}
 

@@ -20,7 +20,11 @@ Yes, Atlanta has a vibrant and accepting LGTBQIA+ community.
 
 ## Visa Information
 ### Do I need a visa to visit the US? What visa do I need?
-Travelers from many countries are eligible for a visa waiver. Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"} to see a list of eligible countries. You may need to apply for [B1 visa](../travel/#b1) if your country is not eligible for the waiver program. Details can be found [here](../travel/#visa).
+You may need to apply for [a temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} to travel to the United States for CinC 2023 conference. The visa information can be found [here](../travel/#visa).
+
+Travelers from many countries are eligible for a visa waiver. Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"} to see a list of eligible countries.
+
+The [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html){: target="_blank"} at the U.S. Department of State website will help you identify which visa category might be appropriate for your travel to the United States. 
 
 ## Georgia, USA Weather
 ### What is the expected weather for the conference?
@@ -28,9 +32,8 @@ For the dates of the conference, the average high is 24°C, and the average low 
 
 ## Transportation
 ### How do I get between the airport and the venue (Midtown, Atlanta)?
-Attendees can reach the conference venue and hotels in Midtown Atlanta from the airport by rail public transit. The [MARTA](https://www.itsmarta.com) [Red](https://www.itsmarta.com/Red-Line.aspx) and [Gold](https://www.itsmarta.com/Gold-Line.aspx) train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
+Attendees can reach the conference venue and hotels in Midtown Atlanta from the airport by rail public transit. The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 
-More information can be found [here](../venue/#airport).
 ### Where can I get Atlanta's public transportation information?
 Accessible directly from the airport, MARTA provides public transportation that is convenient, safe and clean. All MARTA fares must be purchased with a **Breeze card** or **Breeze ticket**.
 

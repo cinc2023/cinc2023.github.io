@@ -5,7 +5,7 @@ author_profile: true
 permalink: /travel/
 ---
 <a name="top"></a>
-This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), [visa requirements](../travel/#visa) to visit the U.S. for international travelers, and [accommodation](#hotel) options to attend CinC 2023 conference. 
+This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), [visa information](../travel/#visa) to visit the U.S. for international travelers, and [accommodation](#hotel) options to attend CinC 2023 conference. 
 
 ## <a name="airport"></a>Hartsfield-Jackson Atlanta International Airport
 Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries. Domestic and international airlines at Hartsfield-Jackson Atlanta International Airport can be found [here](https://www.atl.com/passenger-information/airlines-at-atl/){: target="_blank"}.\
@@ -13,6 +13,23 @@ The conference venue, Georgia Tech Global Learning Center, is easily accessible 
 
 
 ## <a name="visa"></a>Visa Information
+For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants Amy be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
+
+### Obtaining Visa
+If you are planning to travel to the United States to attend the conference, we urge you to apply for one as early as possible. Below are suggestions to help you secure the correct visa.
+* Apply at the [appropriate location](https://www.usembassy.gov/){: target="_blank"} at least 3-5 months before intended travel.
+* Visit the [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html){: target="_blank"} at the U.S. Department of State website to identify which visa category might be appropriate for your travel to the United States.
+* Apply for a visa. The process of applying for a visa will vary depending on the [U.S. Embassy or Consulate](https://www.usembassy.gov/){: target="_blank"} where you apply. To complete the on-line visa application, review an [official instruction](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} at U.S. Department of State website.
+* Be accurate and specific in completing your application. Avoid mistakes.
+* Schedule an interview. You should schedule an appointment for your visa interview at the [U.S. Embassy or Consulate](https://www.usembassy.gov/)in the country where you live. You can check on-line for the wait times for appointment at [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html){: target="_blank"}.
+
+Additional Information: The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the [Visa Waiver program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"}.
+
+### Request for Visa Support Letter
+More information to come.
+
+### Entering the Untied States
+A visa only allows you to travel to the United States port-of-entry (generally an airport). You will still have to be admitted at your port-of-entry. The Department of Homeland Security (DHS), U.S. Customs and Boarder Protection (CBP) officials at the port-of-entry have authority to permit admission to the United States. Click here for information from the Department of Homeland Security on the [Entry Process](https://www.cbp.gov/travel/international-visitors){: target="_blank"}.
 
 ## <a name="hotel"></a>Accommodations 
 

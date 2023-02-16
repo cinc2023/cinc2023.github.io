@@ -7,8 +7,12 @@ permalink: /faq/
 ## <a name="top"></a>Health and Safety Information
 ### Where can I find information on COVID-19 in Atlanta?
 [The Georgia Department of Public Health](https://dph.georgia.gov/dph-covid-19-guidance){: target="_blank"} and [The Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html){: target="_blank"} are the leading sources of information for COVID-19 in Georgia, USA.
+
 ### Are there any travel restrictions related to COVID-19?
 Not currently, but please see the [guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html){: target="_blank"} from the Centers for Disease Control and Prevention.
+
+Note: Your airline may have a difference policy for onboarding, depending on your country, residence, and your trust countries. Please check your aline policy as well.
+
 ### How do I access healthcare in Atlanta?
 Healthcare in the US can be expensive. You may want to obtain travel health insurance for your visit.
 

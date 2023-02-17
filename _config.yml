@@ -113,7 +113,7 @@ author:
     - label: "About"
       icon: "fas fa-fw fa-home"
       url: "/about/"
-    - label: "Importanta dates"
+    - label: "Important dates"
       icon: "fas fa-fw fa-sticky-note"
       url: "/dates/"
     - label: "Programme"
@@ -140,7 +140,7 @@ author:
     - label: "FAQ"
       icon: "fas fa-fw fa-question"
       url: "/faq/"
-    - label: "CINC"
+    - label: "CinC"
       icon: "fas fa-fw fa-heartbeat"
       url: "https://cinc.org"
 

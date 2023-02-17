@@ -13,7 +13,7 @@ The conference venue, Georgia Tech Global Learning Center, is easily accessible 
 
 
 ## <a name="visa"></a>Visa Information
-For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants may be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
+For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants may be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
 
 ### Obtaining Visa
 If you are planning to travel to the United States to attend the conference, we urge you to apply for a visa as early as possible. Below are suggestions to help you secure the correct visa.

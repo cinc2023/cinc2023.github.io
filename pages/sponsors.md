@@ -13,7 +13,7 @@ The Computing in Cardiology (CinC) conference dates back to 1974 and has been he
 **Gayathri Srinivasan**\
 Managing Executive Director, Corporate and Foundation Relations\
 Emory University\
-<gayathris@emory.edu>
+<gayathris@emory.edu>{: target="_blank"}
 
 [Top of Page](#top){: .btn}
 

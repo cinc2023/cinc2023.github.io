@@ -13,17 +13,17 @@ The conference venue, Georgia Tech Global Learning Center, is easily accessible 
 
 
 ## <a name="visa"></a>Visa Information
-For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants Amy be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
+For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants may be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
 
 ### Obtaining Visa
-If you are planning to travel to the United States to attend the conference, we urge you to apply for one as early as possible. Below are suggestions to help you secure the correct visa.
+If you are planning to travel to the United States to attend the conference, we urge you to apply for a visa as early as possible. Below are suggestions to help you secure the correct visa.
 * Apply at the [appropriate location](https://www.usembassy.gov/){: target="_blank"} at least 3-5 months before intended travel.
 * Visit the [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html){: target="_blank"} at the U.S. Department of State website to identify which visa category might be appropriate for your travel to the United States.
 * Apply for a visa. The process of applying for a visa will vary depending on the [U.S. Embassy or Consulate](https://www.usembassy.gov/){: target="_blank"} where you apply. To complete the on-line visa application, review an [official instruction](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} at U.S. Department of State website.
 * Be accurate and specific in completing your application. Avoid mistakes.
-* Schedule an interview. You should schedule an appointment for your visa interview at the [U.S. Embassy or Consulate](https://www.usembassy.gov/)in the country where you live. You can check on-line for the wait times for appointment at [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html){: target="_blank"}.
+* Schedule an interview. You should schedule an appointment for your visa interview at the [U.S. Embassy or Consulate](https://www.usembassy.gov/) in the country where you live. You can check on-line for the wait times for appointment at [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html){: target="_blank"}.
 
-Additional Information: The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the [Visa Waiver program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"}.
+Additional Information: The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the [Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"}.
 
 ### Request for Visa Support Letter
 More information to come.
@@ -33,7 +33,8 @@ A visa only allows you to travel to the United States port-of-entry (generally a
 
 ## <a name="hotel"></a>Accommodations 
 
-There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances.\
+There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances.
+
 **Note: Cancellation policy is provided to help with comparisons, but please directly contact the hotels to confirm.**\
 **Note: The listed rates are pre-tax. The tax and fee will be additionally applied when booking rooms. Please directly contact the hotels to see Atlanta hotel room tax rate and fees.**
 

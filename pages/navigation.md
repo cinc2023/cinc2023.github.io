@@ -26,7 +26,7 @@ permalink: /navigation/
 {: .text-center}
 <i class="fas fa-fw fa-question"></i>  **[FAQ](../faq/)**
 {: .text-center}
-<i class="fas fa-fw fa-heart-rate"></i>  **[CINC](https://cinc.org/)**
+<i class="fas fa-fw fa-heartbeat"></i>  **[CinC](https://cinc.org/)**
 {: .text-center}
 
 

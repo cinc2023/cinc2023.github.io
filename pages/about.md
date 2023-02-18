@@ -36,7 +36,7 @@ blockquote {
 
 | ![Gari Clifford](/assets/img/gari.jpg)    | ![Matthew Reyna](/assets/img/reyna.jpg)    | ![Herman Taylor](/assets/img/taylor.jpg)    |                                                                                                                                                                                                                                                                                           
 | [**Gari Clifford**](http://gdclifford.info/){: target="_blank"} | [**Matthew Reyna**](https://reynalab.org/){: target="_blank"} | [**Herman Taylor, Jr.**](https://www.msm.edu/about_us/FacultyDirectory/Medicine/HermanATaylor/index.php){: target="_blank"} |        
-| Emory University          | Emory University           | Morehouse School of Medicine          |
+| Emory University & Georgia Institute of Technology     | Emory University           | Morehouse School of Medicine          |
 
 | <img src="/assets/img/may_wang.jpg" alt="" height=270 width=270/>    | <img src="/assets/img/inan.jpg" alt="" height=270 width=270/>    |                                                                                                                                                                                                                                                                                                 
 | [**May Wang**](https://miblab.bme.gatech.edu/){: target="_blank"} | [**Omer Inan**](https://irl.gatech.edu/){: target="_blank"} |    

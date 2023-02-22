@@ -33,6 +33,19 @@ More information to come.
 
 ---
 
+## <a name="special"></a>Special Sessions
+Since the 2016 conference, CinC has hosted at the annual conference "Special Sessions", which are sessions proposed by members of the society and approved by the CinC Board. 
+- **Aim of Special Sessions**\
+To offer conference attendees a window for promoting emerging research themes
+- **Structure of a special session**\
+Four presentations and discussion
+- **Selected Special Sessions for CinC 2023 conference**\
+More information to come.
+
+To see a guideline to submit a special session proposal, please visit [Special Sessions](https://cinc.org/special-sessions-2/){: target="_blank"} at CinC main website.
+
+---
+
 ## <a name="poster"></a>Poster Program
 More information to come.
 

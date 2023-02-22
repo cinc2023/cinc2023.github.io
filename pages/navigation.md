@@ -10,9 +10,9 @@ permalink: /navigation/
 {: .text-center}
 <i class="fas fa-fw fa-sticky-note"></i>  **[Important dates](../dates/)**
 {: .text-center}
-<i class="fas fa-fw fa-list"></i>  **[Programme](../programme/)**
-{: .text-center}
 <i class="fas fa-fw fa-user"></i>  **[Authors](../authors/)**
+{: .text-center}
+<i class="fas fa-fw fa-list"></i>  **[Programme](../programme/)**
 {: .text-center}
 <i class="fas fa-fw fa-building"></i>  **[Venue](../venue/)**
 {: .text-center}
@@ -26,7 +26,7 @@ permalink: /navigation/
 {: .text-center}
 <i class="fas fa-fw fa-question"></i>  **[FAQ](../faq/)**
 {: .text-center}
-<i class="fas fa-fw fa-heartbeat"></i>  **[CinC](https://cinc.org/)**
+<i class="fas fa-fw fa-heartbeat"></i>  **[CinC Home](https://cinc.org/)**
 {: .text-center}
 
 

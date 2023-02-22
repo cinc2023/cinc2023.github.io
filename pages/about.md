@@ -16,6 +16,11 @@ Since 1990, each scientific meeting of CinC has been preceded by a Sunday aftern
 
 [THE SYMPOSIUM HISTORY](https://cinc.org/computing-in-cardiology-sunday-symposia/){: .btn .btn--info .btn}{: target="_blank"}
 
+## The Scientific Program
+Scientific sessions begin Monday morning with a plenary session of presentations by [Young Investigator Award](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"} finalists, followed by parallel and poster sessions. Monday afternoon is devoted to a social program to provide attendees and extended opportunity to meet while enjoying some of the attractions of the venue. The sessions continue on Tuesday and Wednesday, and generally include a plenary session, a poster session, and several sets of parallel sessions each day. 
+
+[Participating in CinC conference](https://cinc.org/participating-computing-in-cardiology-conferences/){: .btn .btn--info .btn}{: target="_blank"}
+
 ## Community
 Computing in Cardiology is about more than organizing a conference. It is a society of engineers, physicians, and scientists who share a common passion for exploiting the power of computing to understand, diagnose, and treat all aspects of the heart.
 
@@ -59,4 +64,4 @@ For all conference questions and inquiries, please email us at <loc@cinc.org>{: 
 
 ---
 
-[Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Authors](../authors) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)

@@ -12,7 +12,7 @@ We expect to welcome 300+ on-site and 200+ online attendees from around the worl
 
 Sponsorship package information and payment instructions can be found at the links below.
 - **[Sponsorship Package](https://cinc2023.github.io/assets/img/sponsorship_flyer.pdf){: target="_blank"}**
-- **[Payment Instructions](https://cinc2023.github.io/assets/img/payment_insturctions.pdf){: target="_blank"}**
+- **[Payment Instructions](https://cinc2023.github.io/assets/img/payment_instructions.pdf){: target="_blank"}**
 
 ### Contact Information
 If you have any questions about sponsorship and payment, please contact

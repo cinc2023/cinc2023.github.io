@@ -12,7 +12,7 @@ CinC 2023 will host a [Sunday Symposium](../programme/#sunday) on healthy equity
 
 The Sunday Symposium will address health equity with a cardiovascular spin.
 
-1. When: Sunday, 1st October 2023 at 12pm-5pm
+1. When: Sunday, October 1st, 2023 at 12pm-5pm
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
 4. Transportation: Provided, but to be announced
@@ -20,7 +20,7 @@ The Sunday Symposium will address health equity with a cardiovascular spin.
 
 ## Sunday Reception
 
-1. When: Sunday, 1st October 2023 at 5pm-8pm
+1. When: Sunday, October 1st, 2023 at 5pm-8pm
 2. Where: [Carlos Museum](https://carlos.emory.edu/){: target="_blank"} at Emory University
 3. Address: [571 South Kilgo Circle Atlanta, GA 30322](https://goo.gl/maps/199kRV6W3es9JHre7){: target="_blank"}
 4. Transportation: Provided, but to be announced
@@ -39,8 +39,8 @@ Since the 2016 conference, CinC has hosted at the annual conference "Special Ses
 To offer conference attendees a window for promoting emerging research themes
 - **Structure of a special session**\
 Four presentations and discussion
-- **Selected Special Sessions for CinC 2023 conference**\
-More information to come.
+- **Proposal Deadline**\
+**April 1st, 2023**
 
 To see a guideline to submit a special session proposal, please visit [Special Sessions](https://cinc.org/special-sessions-2/){: target="_blank"} at CinC main website.
 
@@ -57,7 +57,7 @@ More information to come.
 
 ## <a name="gala"></a>Monday Evening Gala
 
-1. When: Monday, 2nd October 2023 at 6:30pm-9:30pm
+1. When: Monday, October 2nd, 2023 at 6:30pm-9:30pm
 2. Where: Georgia Aquarium
 3. Address: [225 Baker St NW, Atlanta, GA 30313](https://goo.gl/maps/WfdYNNkQCZUf5pgU6){: target="_blank"}
 4. Transportation: Provided, but to be announced

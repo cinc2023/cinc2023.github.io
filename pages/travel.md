@@ -44,6 +44,7 @@ There are several hotels within walking distance of the conference venue in Midt
 - Cancellation policy: 48 hours prior to arrival
 - Contact info: +1 800-706-2899 or +1 404-838-2100
 - Address: [800 Spring St NW, Atlanta, GA 30308 USA](https://goo.gl/maps/FZeSqLFdUqfL5UyLA){: target="_blank"}
+- **Note: The hotel currently has an issue with Gmail accounts to send a booking confirmation. Please use other email account for booking a room at the hotel.** 
 
 **2. [Hotel Indigo Atlanta Midtown](https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-ATLFX){: target="_blank"}**
 - Walking distance: 10 minutes

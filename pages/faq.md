@@ -26,9 +26,8 @@ Yes, Atlanta has a vibrant and accepting LGTBQIA+ community.
 ### Do I need a visa to visit the US? What visa do I need?
 You may need to apply for [a temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} to travel to the United States for CinC 2023 conference. The visa information can be found [here](../travel/#visa).
 
-Travelers from many countries are eligible for a visa waiver. Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"} to see a list of eligible countries.
+The [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html){: target="_blank"} at the U.S. Department of State website will help you identify which visa category might be appropriate for your travel to the United States. Travelers from many countries are eligible for a visa waiver. Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"} to see a list of eligible countries.
 
-The [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html){: target="_blank"} at the U.S. Department of State website will help you identify which visa category might be appropriate for your travel to the United States. 
 
 ## Georgia, USA Weather
 ### What is the expected weather for the conference?

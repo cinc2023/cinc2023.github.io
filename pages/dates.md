@@ -20,6 +20,11 @@ Abstract collection for CinC 2023 is open. Please see [the abstract preparation 
 - **Special Session abstract deadline**\
 The speakers of the special session are expected to register for the conference and to submit an abstract and eventually a proceedings paper. To see details on abstract submission, please visit [Abstracts](https://cinc.org/cinc-conference-program-abstracts/){: target="_blank"} at CinC main website.
 
+> **September 1st, 2023**
+
+- **Full paper submission deadline**\
+Authors of accepted abstracts are invited to submit full papers (up to 4 pages) prior to CinC 2023 conference. These will be available as a preprint for the conference. All papers must follow the predefined formats and templates included in the instructions for [preparing and submitting full papers](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}
+
 &nbsp;
 
 

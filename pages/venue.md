@@ -10,16 +10,21 @@ permalink: /venue/
 
 <a name="top"></a>CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](#airport). The [conference venue](#venue), [hotels](../travel/#hotel), many restaurants and cultural institutions, and convenient [public transportation](#airport) are a short walk from each other in Midtown Atlanta. The below [maps](#maps) show how easy it is for you to attend the conference and explore Atlanta.
 
-## Venue: Global Learning Center
+## Venue: the Global Learning Center
 
 The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), restaurants, and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 
 The Georgia Tech Global Learning Center has enhanced safety and sanitization procedures as recommended by the Centers for Disease Control (CDC) and the Georgia Department of Public Health (GDPH). The outdoor seating area at the venue will be open for the attendees and personnel during CinC 2023 conference.\
 To see **COVID-19 guidance, testing and vaccine**, please visit [Georgia Department of Public Health](https://dph.georgia.gov/dph-covid-19-guidance){: target="_blank"} and [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22){: target="_blank"}.
 
-### <a name="airport"></a>Arrival at Global Learning Center
+### <a name="airport"></a>Arrival at the Global Learning Center
 
-Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit from [Hartsfield-Jackson Atlanta International Airport](../travel/#airport). The [MARTA](https://www.itsmarta.com) [Red](https://www.itsmarta.com/Red-Line.aspx) and [Gold](https://www.itsmarta.com/Gold-Line.aspx) train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
+Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit, MARTA, from [Hartsfield-Jackson Atlanta International Airport](../travel/#airport). The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
+
+**Tip: With [Breeze Mobile 2.0](https://www.itsmarta.com/breeze-mobile.aspx){: target="_blank"} app, you can purchase fare directly on your phone and the given QR code is your ticket.**
+
+For international attendees to get to the MARTA Airport station at the domestic terminal, a designated shuttle transports passengers from the arrivals level of the international terminal to the domestic terminal ground transportation center, which includes the MARTA Airport station. Passengers also can take the Plane Train from the International terminal to the domestic terminal.
+
 
 Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-40 minutes.
 

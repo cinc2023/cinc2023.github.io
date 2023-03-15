@@ -5,12 +5,19 @@ author_profile: true
 permalink: /travel/
 ---
 <a name="top"></a>
-This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), [visa information](../travel/#visa) to visit the U.S. for international travelers, and [accommodation](#hotel) options to attend CinC 2023 conference. 
+This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), public transit rail system [MARTA](../travel/#marta), [visa information](../travel/#visa) and [invitation letter](../#letter) to visit the U.S. for international travelers, and [accommodation](#hotel) options to attend CinC 2023 conference. 
 
 ## <a name="airport"></a>Hartsfield-Jackson Atlanta International Airport
 Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries. Domestic and international airlines at Hartsfield-Jackson Atlanta International Airport can be found [here](https://www.atl.com/passenger-information/airlines-at-atl/){: target="_blank"}.\
-The conference venue, Georgia Tech Global Learning Center, is easily accessible from Hartsfield-Jackson Atlanta International Airport. You will have more information from **["How to get to the venue from the airport"](../venue/#airport)**.
+The conference venue, the Georgia Tech Global Learning Center, is easily accessible from Hartsfield-Jackson Atlanta International Airport. 
 
+## <a name="marta"></a>MARTA - Atlanta's rapid transit rail system
+You can easily get to the conference venue from Hartsfield-Jackson Atlanta International Airport through Atlanta's public transit rail system [MARTA](https://www.itsmarta.com){: target="_blank"}. 
+
+MARTA Airport station is at the domestic terminal. For international attendees to get to the MARTA Airport station, a designated shuttle transports passengers from the arrivals level of the international terminal to the domestic terminal ground transportation center, which includes the MARTA Airport station. Passengers also can take the Plane Train from the International terminal to the domestic terminal.
+
+The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.\
+**Tip: With [Breeze Mobile 2.0](https://www.itsmarta.com/breeze-mobile.aspx){: target="_blank"} app, you can purchase fare directly on your phone and the given QR code is your ticket.**
 
 ## <a name="visa"></a>Visa Information
 For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants may be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
@@ -25,7 +32,7 @@ If you are planning to travel to the United States to attend the conference, we 
 
 Additional Information: The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the [Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"}.
 
-### Request for Visa Support Letter
+### <a name="letter"></a>Request for Letter of Invitation
 More information to come.
 
 ### Entering the Untied States

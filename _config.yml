@@ -116,6 +116,9 @@ author:
     - label: "Important dates"
       icon: "fas fa-fw fa-sticky-note"
       url: "/dates/"
+    - label: "Registration"
+      icon: "fas fa-fw fa-registered"
+      url: "https://softconf.com/n/cinc2023/user/"
     - label: "Authors"
       icon: "fas fa-fw fa-user"
       url: "/authors/"
@@ -143,7 +146,12 @@ author:
     - label: "CinC Home"
       icon: "fas fa-fw fa-heartbeat"
       url: "https://cinc.org"
-
+    - label: "Local Organizer"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:loc@cinc.org"
+    - label: "CinC main"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:contact@cinc.org"
 
 ## Site Footer
 #footer:

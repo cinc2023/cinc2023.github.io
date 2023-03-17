@@ -76,4 +76,4 @@ Georgia has no shortage of exciting activities for visitors. It provides a range
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632;  [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
+[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632;  [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

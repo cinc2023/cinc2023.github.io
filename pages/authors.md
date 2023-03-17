@@ -33,4 +33,4 @@ Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
+[About](../about/) &#9632; [Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

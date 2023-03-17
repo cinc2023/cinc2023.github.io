@@ -53,10 +53,6 @@ blockquote {
 | [**Reza Sameni**](https://sameni.info/){: target="_blank"} | [**Ali Bahrami Rad**](https://med.emory.edu/directory/profile/?u=ABAHRA3){: target="_blank"} |     
 | Emory University          | Emory University           |
 
-&nbsp;
-
-# Contact Us
-For questions about CinC, please contact <contact@cinc.org>{: target="_blank"}. For questions specifically about CinC 2023, such as travel questions. please contact <loc@cinc.org>{: target="_blank"}.
 
 &nbsp;
 
@@ -64,4 +60,4 @@ For questions about CinC, please contact <contact@cinc.org>{: target="_blank"}. 
 
 ---
 
-[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/)
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

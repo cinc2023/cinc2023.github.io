@@ -146,12 +146,9 @@ author:
     - label: "CinC Home"
       icon: "fas fa-fw fa-heartbeat"
       url: "https://cinc.org"
-    - label: "Local Organizer"
+    - label: "Contacts"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:loc@cinc.org"
-    - label: "CinC main"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@cinc.org"
+      url: "/contact/"
 
 ## Site Footer
 #footer:

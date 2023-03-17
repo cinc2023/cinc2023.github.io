@@ -21,7 +21,8 @@ To see **COVID-19 guidance, testing and vaccine**, please visit [Georgia Departm
 
 Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit, MARTA, from [Hartsfield-Jackson Atlanta International Airport](../travel/#airport). The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 
-**Tip: With [Breeze Mobile 2.0](https://www.itsmarta.com/breeze-mobile.aspx){: target="_blank"} app, you can purchase fare directly on your phone and the given QR code is your ticket.**
+<p class="notice--warning">
+	<strong>Tip:</strong> With <a href= "https://www.itsmarta.com/breeze-mobile.aspx" target="_blank">Breeze Mobile 2.0</a> app, you can purchase fare directly on your phone and the given QR code is your ticket. </p>
 
 For international attendees to get to the MARTA Airport station at the domestic terminal, a designated shuttle transports passengers from the arrivals level of the international terminal to the domestic terminal ground transportation center, which includes the MARTA Airport station. Passengers also can take the Plane Train from the International terminal to the domestic terminal.
 

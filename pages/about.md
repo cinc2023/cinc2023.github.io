@@ -56,7 +56,7 @@ blockquote {
 &nbsp;
 
 # Contact Us
-For all conference questions and inquiries, please email us at <loc@cinc.org>{: target="_blank"}.
+For questions about CinC, please contact <contact@cinc.org>{: target="_blank"}. For questions specifically about CinC 2023, such as travel questions. please contact <loc@cinc.org>{: target="_blank"}.
 
 &nbsp;
 

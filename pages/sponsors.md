@@ -15,12 +15,13 @@ Sponsorship package information and payment instructions can be found at the lin
 - **[Payment Instructions](https://cinc2023.github.io/assets/img/payment_instructions.pdf){: target="_blank"}**
 
 ### Contact Information
-If you have any questions about sponsorship and payment, please contact
+For any questions about sponsorship and payment
+<p class="notice"><strong>Gayathri Srinivasan</strong>
+<br>Managing Executive Director, Corporate and Foundation Relations
+<br>Emory University
+<br><a href="mailto: ocfr@emory.edu" target="_blank">ocfr@emory.edu</a>
+</p>
 
-**Gayathri Srinivasan**\
-Managing Executive Director, Corporate and Foundation Relations\
-Emory University\
-<ocfr@emory.edu>{: target="_blank"}
 
 [Top of Page](#top){: .btn}
 

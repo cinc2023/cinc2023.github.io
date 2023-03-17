@@ -11,7 +11,8 @@ permalink: /faq/
 ### Are there any travel restrictions related to COVID-19?
 Not currently, but please see the [guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html){: target="_blank"} from the Centers for Disease Control and Prevention.
 
-Note: Your airline may have a difference policy for onboarding, depending on your country, residence, and your trust countries. Please check your aline policy as well.
+<p class="notice--warning">
+	<strong>Note:</strong> Your airline may have a difference policy for onboarding, depending on your country, residence, and your trust countries. Please check your airline policy as well. </p>
 
 ### How do I access healthcare in Atlanta?
 Healthcare in the US can be expensive. You may want to obtain travel health insurance for your visit.
@@ -34,11 +35,14 @@ The [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-infor
 For the dates of the conference, the average high is 24°C, and the average low is 16°C. Short rain storms are possible.
 
 ## Transportation
+### How can I find public transportation at Hartsfield-Jackson Atlanta International Airport?
+Atlanta's public transit rail system [MARTA](https://www.itsmarta.com){: target="_blank"} is at the domestic terminal. Airport shuttles and Plane Trains are running from the International terminal to the domestic terminal.
+
 ### How do I get between the airport and the venue (Midtown, Atlanta)?
 Attendees can reach the conference venue and hotels in Midtown Atlanta from the airport by rail public transit. The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 
 ### Where can I get Atlanta's public transportation information?
-Accessible directly from the airport, MARTA provides public transportation that is convenient, safe and clean. All MARTA fares must be purchased with a **Breeze card** or **Breeze ticket**.
+Accessible directly from the airport, MARTA provides public transportation that is convenient, safe and clean. All MARTA fares must be purchased with a **Breeze card** or **Breeze ticket**. You can purchase fare directly on your phone through [Breeze Mobile 2.0 app](https://www.itsmarta.com/breeze-mobile.aspx){: target="_blank"}.
 
 Please visit [MARTA fare programs](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for special fare options, schedule, and stops.
 

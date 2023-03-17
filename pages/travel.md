@@ -16,11 +16,13 @@ You can easily get to the conference venue from Hartsfield-Jackson Atlanta Inter
 
 MARTA Airport station is at the domestic terminal. For international attendees to get to the MARTA Airport station, a designated shuttle transports passengers from the arrivals level of the international terminal to the domestic terminal ground transportation center, which includes the MARTA Airport station. Passengers also can take the Plane Train from the International terminal to the domestic terminal.
 
-The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.\
-**Tip: With [Breeze Mobile 2.0](https://www.itsmarta.com/breeze-mobile.aspx){: target="_blank"} app, you can purchase fare directly on your phone and the given QR code is your ticket.**
+The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
+
+<p class="notice--warning">
+	<strong>Tip:</strong> With <a href= "https://www.itsmarta.com/breeze-mobile.aspx" target="_blank">Breeze Mobile 2.0</a> app, you can purchase fare directly on your phone and the given QR code is your ticket. </p>
 
 ## <a name="visa"></a>Visa Information
-For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants may be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. Therefore, international attendees are advised to apply for their visa no later than 3-5 months prior to the conference.
+For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. Many applicants may be required to appear in person for an interview as part of the visa process. Applicants affected by theses procedures are informed of the need for additional screening at the time they submit their visa application and will be advised to expect delays. **Therefore, international attendees are advised to apply for their visa as soon as possible to attend CinC 2023 conference.**
 
 ### Obtaining Visa
 If you are planning to travel to the United States to attend the conference, we urge you to apply for a visa as early as possible. Below are suggestions to help you secure the correct visa.
@@ -32,18 +34,37 @@ If you are planning to travel to the United States to attend the conference, we 
 
 Additional Information: The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the [Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"}.
 
-### <a name="letter"></a>Request for Letter of Invitation
-More information to come.
+## <a name="letter"></a>Request for Letter of Invitation
+If you plan to apply for a [non-immigrant visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} to travel to the U.S., you may be required to include an Invitation Letter as part of your [visa petition to the U.S. Department of State](https://ceac.state.gov/GenNIV/Default.aspx){: target="_blank"}. To request an invitation letter, please fill out the **[Invitation Letter Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfdkeCdom9gkh_4xWuF_Ng6Z0ChLAfCaEjIjv48MxmrOnFv5w/viewform?usp=sf_link){: target="_blank"}.**
 
-### Entering the Untied States
+*Please allow 7-10 business days for the local organizers to process your request.*
+
+### Important Information
+* Your name must be listed on the form **exactly** as it appears on your passport. Any different between the name listed on your invitation letter and your passport could lead to a delay and/or denial of your visa.
+* If you plan to present a paper, please include the title of your abstract submission. If you are attending as a poster, please indicate so in your request. You need not wait until your paper has been selected to request an invitation letter. 
+* Each individual requesting an invitation letter must fill out a separate form. All letters will be sent in PDF form to the e-mail address provided.
+* The Local Organizing Committee reserves the right to request further information regarding the affiliation of the attendee to ensure the validity of requests.
+* Applying for your travel visa as early as possible is highly recommended to avoid cancellation. 
+* The Local Organizing Committee is unable to contact U.S. Embassies in support of an individual attempting to gain entry to attend CinC 2023 conference. 
+
+## Entering the Untied States
 A visa only allows you to travel to the United States port-of-entry (generally an airport). You will still have to be admitted at your port-of-entry. The Department of Homeland Security (DHS), U.S. Customs and Boarder Protection (CBP) officials at the port-of-entry have authority to permit admission to the United States. Click here for information from the Department of Homeland Security on the [Entry Process](https://www.cbp.gov/travel/international-visitors){: target="_blank"}.
 
 ## <a name="hotel"></a>Accommodations 
 
 There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances.
 
-**Note: Cancellation policy is provided to help with comparisons, but please directly contact the hotels to confirm.**\
-**Note: The listed rates are pre-tax. The tax and fee will be additionally applied when booking rooms. Please directly contact the hotels to see Atlanta hotel room tax rate and fees.**
+<div class="notice--warning">
+  <h4 class="no_toc">Note:</h4>
+
+<ul>
+  <p><font size="3"><li>Cancellation policy is provided to help with comparisons, but please directly contact the hotels to confirm.</li></font></p>
+  <p><font size="3"><li>The listed rates are pre-tax. The tax and fee will be additionally applied when booking rooms. Please directly contact the hotels to see hotel room tax rate and fees. </li></font></p>
+  <p><font size="3"><li>Hotels offering group rates block a certain number of rooms for CinC 2023. Once the blocked rooms are fully reserved, market room rate will be applied.</li></font></p>
+</ul>
+
+</div>
+
 
 **1. [Georgia Tech Hotel and Conference Center](https://www.gatechhotel.com/){: target="_blank"}**
 - Walking distance: 1 minute (indoor passage to the venue)

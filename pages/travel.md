@@ -35,7 +35,8 @@ If you are planning to travel to the United States to attend the conference, we 
 Additional Information: The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the [Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"}.
 
 ## <a name="letter"></a>Request for Letter of Invitation
-If you plan to apply for a [non-immigrant visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} to travel to the U.S., you may be required to include an Invitation Letter as part of your [visa petition to the U.S. Department of State](https://ceac.state.gov/GenNIV/Default.aspx){: target="_blank"}. To request an invitation letter, please fill out the **[Invitation Letter Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfdkeCdom9gkh_4xWuF_Ng6Z0ChLAfCaEjIjv48MxmrOnFv5w/viewform?usp=sf_link){: target="_blank"}.**
+If you plan to apply for a [non-immigrant visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} to travel to the U.S., you may be required to include an Invitation Letter as part of your [visa petition to the U.S. Department of State](https://ceac.state.gov/GenNIV/Default.aspx){: target="_blank"}. To request an invitation letter, please fill out the **Invitation Letter Request Form.**
+<p><font size="5"><center><a href= "https://forms.gle/xLxS6CnPpx3fMSqJA" target="_blank">Invitation Letter Request Form</a></center></font></p>
 
 *Please allow 7-10 business days for the local organizers to process your request.*
 

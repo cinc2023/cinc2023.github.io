@@ -27,7 +27,7 @@ If you are planning to travel to the United States to attend the conference, we 
 
 
 ### <a name="contact"></a>Point of Contact for a Visa Application
-As a part of completing a visa application form, you might be required to provide U.S. point of contact information. You may enter the information below to attend CinC 2023 conference.
+As a part of completing a visa application form, you might be required to provide U.S. point of contact information. You may enter the information below when you complete an application.
 * Organization Name: CinC 2023
 * U.S street address: 101 Woodruff Circle
 * City: Atlanta
@@ -37,7 +37,7 @@ As a part of completing a visa application form, you might be required to provid
 * Email address: [visa@cinc.org](mailto:visa@cinc.org){: target="_blank"}
 
 ## <a name="letter"></a>Request for Letter of Invitation
-If you plan to apply for a [non-immigrant visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} to travel to the U.S., you may be required to include an Invitation Letter as part of your [visa petition to the U.S. Department of State](https://ceac.state.gov/GenNIV/Default.aspx){: target="_blank"}. To request an invitation letter, please fill out the **Invitation Letter Request Form.**
+If you plan to apply for a [non-immigrant visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} to travel to the U.S., you may be required to include an Invitation Letter as part of your [visa petition to the U.S. Department of State](https://ceac.state.gov/GenNIV/Default.aspx){: target="_blank"}. To request an invitation letter, please fill out the **Invitation Letter Request Form.** A letter will be sent accordingly.
 <p><font size="5"><center><a href= "https://forms.gle/xLxS6CnPpx3fMSqJA" target="_blank">Invitation Letter Request Form</a></center></font></p>
 
 *Please allow 7-10 business days for the local organizers to process your request.*

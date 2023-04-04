@@ -5,7 +5,7 @@ author_profile: true
 permalink: /travel/
 ---
 <a name="top"></a>
-This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), public transit rail system [MARTA](../travel/#marta) to the conference venue, and and [accommodation](#hotel) options to attend CinC 2023 conference. 
+This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), public transit rail system, [MARTA](../travel/#marta), to the conference venue, and [accommodation](#hotel) options to attend CinC 2023 conference. 
  
 You will find [visa information](../visa/#visa) and [invitation letter request](../visa/#letter) to visit the U.S. for international travelers on [Visa Information Page](../visa). 
 

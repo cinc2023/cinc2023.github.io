@@ -5,7 +5,7 @@ author_profile: true
 permalink: /visa/
 ---
 <a name="top"></a>
-This page will provide useful information on [suggestions](../visa/#obtaining) and [point of contact](../visa/#contact) to obtain a [visa](../visa/#visa), and [how to request an invitation letter](../visa/#letter). 
+This page will provide useful information on [suggestions](../visa/#obtaining), [point of contact](../visa/#contact), and [how to request an invitation letter](../visa/#letter) to obtain a [visa](../visa/#visa). 
 
 ## <a name="visa"></a>Visa
 For international attendees, a [temporary visa](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html){: target="_blank"} might be required to obtain in order to enter the United States for CinC 2023 conference. 

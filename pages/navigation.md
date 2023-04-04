@@ -18,6 +18,8 @@ permalink: /navigation/
 {: .text-center}
 <i class="fas fa-fw fa-building"></i>  **[Venue](../venue/)**
 {: .text-center}
+<i class="fas fa-fw fa-globe"></i>  **[Visa Info](../visa/)**
+{: .text-center}
 <i class="fas fa-fw fa-globe-americas"></i>  **[Travel Info](../travel/)**
 {: .text-center}
 <i class="fas fa-fw fa-tree"></i>  **[Tourism](../tourism/)**

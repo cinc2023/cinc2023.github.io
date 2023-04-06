@@ -8,7 +8,7 @@ permalink: /authors/
 
 Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference.
 
-**Detailed information for registration process and authors are available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
+**Detailed information for registration process and authors is available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
 
 ### Steps to present and publish your work
 
@@ -17,13 +17,13 @@ Please see [the abstract preparation guidelines](https://cinc.org/cinc-conferenc
 2. (Optional) Submit your full paper\
 This step is for [Rosanna Degani Young Investigator Award](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"} competition, the [Clinical needs translational award (CTA)](https://cinc.org/wp-content/cache/page_enhanced/cinc.org/joint-wg-e-cardiology-esc-cinc-clinical-needs-translational-award-cta/_index_slash.html_gzip){: target="_blank"}, and [reduced-fee registration](https://cinc.org/participating-computing-in-cardiology-conferences/#reduced-registration){: target="_blank"}.
 3. Get a visa if needed to attend CinC 2023 conference\
-Visa information is available **[here](../travel/#visa)**.
+Visa information is available **[here](../visa)**.
 4. Confirm that you will present your paper\
 Decision letters are sent to the main contact email address listed for each submitted abstract. If your abstract is accepted, your decision letter will contain instructions for confirming that you will attend CinC and will present your paper. If you have not received a decision letter by June 23rd, please check your spam folder for email from <nolink><help-submissions@cinc.org>.
 5. Register to attend CinC 2023\
-Registration information is available on [CinC main webpage](https://cinc.org/inf_authors/){: target="_blank"}.
+Please visit [Registration website](https://softconf.com/n/cinc2023/user/){: target="_blank"} to register CinC 2023 conference. Registration information is available on [CinC main webpage](https://cinc.org/inf_authors/){: target="_blank"}.
 6. Prepare and submit a full paper\
-The deadline for this submission is **September 1st, 2023**. After the conference, there will be a period until **October 3rd, 2023**. Please visit CinC main webpage to have full paper [submission guideline and requirements](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}.
+Authors of accepted abstracts are invited to submit full papers (up to 4 pages) prior to the conference. The deadline for this submission is **September 1st, 2023**. After the conference, there will be a period until **October 3rd, 2023**. Please visit CinC main webpage to have full paper [submission guideline and requirements](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}.
 7. Present your work at CinC 2023\
 Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or-poster-presentations/){: target="_blank"} are available.
 8. Revise and upload your final submission
@@ -33,4 +33,4 @@ Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[About](../about/) &#9632; [Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

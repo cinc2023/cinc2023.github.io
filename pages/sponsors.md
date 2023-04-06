@@ -27,4 +27,4 @@ For any questions about sponsorship and payment
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

@@ -25,7 +25,7 @@ Yes, Atlanta has a vibrant and accepting LGTBQIA+ community.
 
 ## Visa Information
 ### Do I need a visa to visit the US? What visa do I need?
-You may need to apply for [a temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} to travel to the United States for CinC 2023 conference. The visa information can be found [here](../travel/#visa).
+You may need to apply for [a temporary visa](https://travel.state.gov/content/travel/en/us-visas/business.html){: target="_blank"} to travel to the United States for CinC 2023 conference. The visa information can be found [here](../visa).
 
 The [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html){: target="_blank"} at the U.S. Department of State website will help you identify which visa category might be appropriate for your travel to the United States. Travelers from many countries are eligible for a visa waiver. Please visit the [State Department website](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html){: target="_blank"} to see a list of eligible countries.
 
@@ -37,6 +37,9 @@ For the dates of the conference, the average high is 24°C, and the average low 
 ## Transportation
 ### How can I find public transportation at Hartsfield-Jackson Atlanta International Airport?
 Atlanta's public transit rail system [MARTA](https://www.itsmarta.com){: target="_blank"} is at the domestic terminal. Airport shuttles and Plane Trains are running from the International terminal to the domestic terminal.
+
+<p class="notice--warning">
+	<strong>Tip:</strong> With <a href= "https://www.itsmarta.com/breeze-mobile.aspx" target="_blank">Breeze Mobile 2.0</a> app, you can purchase fare directly on your phone and the given QR code is your ticket. </p>
 
 ### How do I get between the airport and the venue (Midtown, Atlanta)?
 Attendees can reach the conference venue and hotels in Midtown Atlanta from the airport by rail public transit. The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
@@ -55,4 +58,4 @@ Visit the [Atlanta Streetcar website](https://www.itsmarta.com/streetcar.aspx){:
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [Contacts](../contact/)
+[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [Contacts](../contact/)

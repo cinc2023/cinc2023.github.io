@@ -22,7 +22,7 @@ If you are planning to travel to the United States to attend the conference, we 
 * Schedule an interview. You should schedule an appointment for your visa interview at the [U.S. Embassy or Consulate](https://www.usembassy.gov/) in the country where you live. You can check on-line for the wait times for appointment at [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wait-times.html){: target="_blank"}.
 
 <p class="notice--warning">
-	<strong>Additional Information:</strong> The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the <a href= "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html" target="_blank">Visa Waiver Program</a>
+	<strong>Additional Information:</strong> The United States visa policy permits citizens of certain countries to travel to the United States without a visa, when they meet certain requirement, under the United States laws. Please click here for more information about which countries participate in the <a href= "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html" target="_blank">Visa Waiver Program</a>.
 </p>
 
 
@@ -49,6 +49,10 @@ If you plan to apply for a [non-immigrant visa](https://travel.state.gov/content
 * The Local Organizing Committee reserves the right to request further information regarding the affiliation of the attendee to ensure the validity of requests.
 * Applying for your travel visa as early as possible is highly recommended to avoid cancellation. 
 * The Local Organizing Committee is unable to contact U.S. Embassies in support of an individual attempting to gain entry to attend CinC 2023 conference. 
+
+<p class="notice--warning">
+	<strong>Additional Information:</strong> If you would like to check an expedite guideline from U.S. Citizenship and Immigration Services (USCIS), please visit USCIS website <a href= "https://www.uscis.gov/forms/filing-guidance/how-to-make-an-expedite-request" target="_blank">How to Make an Expedite Request</a>.
+</p>
 
 ## Entering the Untied States
 A visa only allows you to travel to the United States port-of-entry (generally an airport). You will still have to be admitted at your port-of-entry. The Department of Homeland Security (DHS), U.S. Customs and Boarder Protection (CBP) officials at the port-of-entry have authority to permit admission to the United States. Click here for information from the Department of Homeland Security on the [Entry Process](https://www.cbp.gov/travel/international-visitors){: target="_blank"}.

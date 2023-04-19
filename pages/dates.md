@@ -6,7 +6,7 @@ permalink: /dates/
 ---
 <a name="top"></a>
 
-If you would like to present your work at CinC 2023 conference and publish it in *Computing in Cardiology*, you should consider the deadlines below.
+If you would like to present your work at CinC 2023 conference and publish it in *Computing in Cardiology*, you should consider the deadlines below. Please visit [CinC main website](https://cinc.org/){: target="_blank"} for details. 
 > **April 1st, 2023**
 
 - **Special Session Proposal deadline**\

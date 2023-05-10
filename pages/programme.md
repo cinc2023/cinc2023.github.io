@@ -50,7 +50,7 @@ For CinC 2023 conference in Atlanta, the following sessions will be featured in 
     <u><strong>Cristian A. Linte</strong></u>, Rochester Institute of Technology, USA\
     <u><strong>Suzanne Shontz</strong></u>, University of Kansas, USA, <mailto:shontz@ku.edu>
 
-
+For more information and details, please visit [Special Sessions](https://cinc.org/special-sessions-2/){: target="_blank"} at CinC main website.
 
 ---
 

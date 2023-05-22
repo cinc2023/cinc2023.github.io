@@ -110,9 +110,6 @@ author:
   email            :
   url              : "https://cinc.org/"
   links:
-    - label: "About"
-      icon: "fas fa-fw fa-home"
-      url: "/about/"
     - label: "Important dates"
       icon: "fas fa-fw fa-sticky-note"
       url: "/dates/"
@@ -137,6 +134,9 @@ author:
     - label: "Tourism"
       icon: "fas fa-fw fa-tree"
       url: "/tourism/"
+    - label: "Maps"
+      icon: "fas fa-fw fa-map"
+      url: "/map/"
     - label: "Sponsors"
       icon: "fas fa-fw fa-money-bill"
       url: "/sponsors/"

@@ -8,7 +8,7 @@ permalink: /venue/
 
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-<a name="top"></a>CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](#airport). The [conference venue](#venue), [hotels](../travel/#hotel), many restaurants and cultural institutions, and convenient [public transportation](#airport) are a short walk from each other in Midtown Atlanta. The below [maps](#maps) show how easy it is for you to attend the conference and explore Atlanta.
+<a name="top"></a>CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](#airport). The [conference venue](#venue), [hotels](../travel/#hotel), many restaurants and cultural institutions, and convenient [public transportation](#airport) are a short walk from each other in Midtown Atlanta. The below [map](#maps) show how easy it is for you to attend the conference and explore Atlanta.
 
 ## Venue: the Global Learning Center
 
@@ -30,9 +30,8 @@ For international attendees to get to the MARTA Airport station at the domestic 
 Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-40 minutes.
 
 
-## <a name="maps"></a>Maps
 
-### Airport to conference venue
+### <a name="maps"></a>Airport to conference venue
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.56066871993!2d-84.48805478391816!3d33.70849553658674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield-Jackson%20Atlanta%20International%20Airport%20(ATL)%2C%206000%20N%20Terminal%20Pkwy%2C%20Atlanta%2C%20GA%2030320!3m2!1d33.6407282!2d-84.4277001!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659546991088!5m2!1sen!2sus" width="640" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 

@@ -1,0 +1,45 @@
+---
+title: "MAPS"
+layout: single
+author_profile: true
+permalink: /map/
+---
+This page will provide maps for airport to venue, hotels, social activities, banks, and onsite printing store. 
+
+## Hartsfield-Jackson Atlanta International Airport to Georgia Tech Global Learning Center
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.56066871993!2d-84.48805478391816!3d33.70849553658674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield-Jackson%20Atlanta%20International%20Airport%20(ATL)%2C%206000%20N%20Terminal%20Pkwy%2C%20Atlanta%2C%20GA%2030320!3m2!1d33.6407282!2d-84.4277001!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659546991088!5m2!1sen!2sus" width="640" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Hotels near the conference venue
+A hotel list and detailed information are available at [Travel Info page](../travel).
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11WBQ7ozqdQVXEyWtqc3jimenW54kY2M&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Social Activities
+* **Piedmont Park Historic Tour**
+* **Georgia Aquarium**
+* **Six Flags Over Georgia**
+<iframe src="https://www.google.com/maps/d/embed?mid=12cBhFC6QrEMg_OyXVjnIxiP7HnD2djg&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Banks near the conference venue
+* **PNC Bank**, [75 5th St NW Ste A. Atlanta, GA 30308](https://goo.gl/maps/UT2MikJPRAwWLCq78){:target="_blank"}
+* **Chase Bank**, [708 Spring St NW Ste B. Atlanta, GA 30308](https://goo.gl/maps/QfGiC2o729jxaqHT6){:target="_blank"}
+* **SouthState Bank**, [712 W Peachtree St NW Suite 120, Atlanta, GA 30308](https://goo.gl/maps/pbXjxDGYMSHyf7rv5){:target="_blank"}
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1vvs39heXN_MrS1Myte6hmd9QGF5lxBw&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Onsite poster printing info
+If you want to print your poster onsite, we would recommend **[Caleris Solution](https://calerissolutions.com/){: target="_blank"}**.
+
+* **Visiting hours:** Monday-Friday, 9AM-6PM
+* **Visiting address:** [817 West Peachtree Street NW Suite A180, Atlanta, GA 30308](https://goo.gl/maps/ozQd2m1yKbtoWr4F9){:target="_blank"}
+* **Email:** <mailto: calerissolutions@gmail.com>
+* **Phone:** (404) 876-9667 / (267) 251-0659
+
+**Note:** The store is located inside the Biltmore Offices Building.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13265.420897377848!2d-84.3869841!3d33.7773239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50466c2db507d%3A0x5686d4e4df763036!2sCaleris%20Solutions%2C%20(Printing%2C%20Pack%20%26%20Ship%2C%20Promotional%20Products)!5e0!3m2!1sen!2sus!4v1684776140260!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+[Top of Page](#top){: .btn}
+
+---
+
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

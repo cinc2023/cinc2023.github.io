@@ -4,92 +4,16 @@ layout: single
 author_profile: true
 permalink: /programme/
 ---
-<a name="top"></a>
-
-CinC 2023 will host a [Sunday Symposium](../programme/#sunday) on healthy equity, [Monday afternoon social events](../programme/#social), a [Monday evening gala](../programme/#gala) at the world-renowned Georgia Aquarium — and three days full of the latest cardiology research, [the Scientific program](../programme/#scientific) and [Poster program](../programme/#poster).
-
-## <a name="sunday"></a>Sunday Symposium
-
-The Sunday Symposium will address health equity with a cardiovascular spin.
-
-1. When: Sunday, October 1st, 2023 at 12pm-5pm
-2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
-3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
-4. Transportation: Provided, but to be announced
-
-![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpeg)
-
-## Sunday Dinner Reception
-
-1. When: Sunday, October 1st, 2023 at 5pm-8pm
-2. Where: [Carlos Museum](https://carlos.emory.edu/){: target="_blank"} on the Emory University campus
-3. Address: [571 South Kilgo Circle Atlanta, GA 30322](https://goo.gl/maps/199kRV6W3es9JHre7){: target="_blank"}
-4. Transportation: Provided, but to be announced
-
 ---
 
-## <a name="scientific"></a>The Scientific Program
-
-More information to come.
-
----
-
-## <a name="special"></a>Special Sessions
-Since the 2016 conference, CinC has hosted at the annual conference **"Special Sessions"**, which are sessions proposed by members of the society and approved by the CinC Board. The aim of special sessions is to offer conference attendees a window for promoting emerging research themes.
-
-For CinC 2023 conference in Atlanta, the following sessions will be featured in the conference program.
-> **Wearable photoplethysmography: the road ahead**
-
-  - **Organizer:**\
-    <u><strong>Peter H. Charlton</strong></u>, Department of Public Health and Primary Care, University of Cambridge, UK, <mailto:pc657@cam.ac.uk>\
-    <u><strong>Xiao Hu</strong></u>, Emory University, USA, <mailto:xiao.hu@emory.edu>
-
-> **Inside the Beating Heart: Image-guided Cardiac Interventions**
-
-  - **Organizer:**\
-    <u><strong>Cristian A. Linte</strong></u>, Rochester Institute of Technology, USA, <mailto:clinte@mail.rit.edu>\
-    <u><strong>David R. Holmes III</strong></u>, Mayo Clinic Rochester, USA, <mailto:holmes.david3@mayo.edu>
-
-> **At the Intersection of Cardiovascular Imaging, Mechanics and Modeling for Patient-customized Simulations**
-
-  - **Organizer:**\
-    <u><strong>Cristian A. Linte</strong></u>, Rochester Institute of Technology, USA\
-    <u><strong>Suzanne Shontz</strong></u>, University of Kansas, USA, <mailto:shontz@ku.edu>
-
-For more information and details, please visit [Special Sessions](https://cinc.org/special-sessions-2/){: target="_blank"} at CinC main website.
+[Sunday Symposium and reception](../sunday){: .btn .btn--x-large}\
+[The Scientific Program:](../programme){: .btn .btn--x-large} **More information to come.**\
+[Special Sessions](../special){: .btn .btn--x-large}\
+[Poster Program:](../programme){: .btn .btn--x-large} **More information to come.**\
+[Monday Social Activities](../activities){: .btn .btn--x-large}\
+[Monday Evening Gala](../gala){: .btn .btn--x-large}
 
 ---
-
-## <a name="poster"></a>Poster Program
-More information to come.
-
 ---
 
-## <a name="social"></a>Monday Social Activities
-
-> **For Activists**
-
-- Bike Tours
-- Six Flags Over Georgia
-
-> **For In-between-ist**
-
-- Piedmont Park Historic Tour
-
-> **For Passivists**
-
-- Georgia Aquarium
-- Atlanta Civil Rights Movement Bus Tour
-
-## <a name="gala"></a>Monday Evening Gala
-
-1. When: Monday, October 2nd, 2023 at 6:30pm-9:30pm
-2. Where: Georgia Aquarium
-3. Address: [225 Baker St NW, Atlanta, GA 30313](https://goo.gl/maps/WfdYNNkQCZUf5pgU6){: target="_blank"}
-4. Transportation: Provided, but to be announced
-
-[Top of page](#top){: .btn}
-
----
-
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

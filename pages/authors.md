@@ -7,6 +7,7 @@ permalink: /authors/
 <a name="top"></a>
 
 Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference.
+{: .text-justify}
 
 **Detailed information for registration process and authors is available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
 
@@ -29,8 +30,20 @@ Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or
 8. Revise and upload your final submission
 9. Be prepared to make corrections if requested
 
+&nbsp;
+
+## <a name="poster"></a>Onsite poster printing info
+If you want to print your poster onsite, we would recommend **[Caleris Solution](https://calerissolutions.com/){: target="_blank"}**.
+* **Visiting hours:** Monday-Friday, 9AM-6PM
+* **Visiting address:** [817 West Peachtree Street NW Suite A180, Atlanta, GA 30308](https://goo.gl/maps/ozQd2m1yKbtoWr4F9){:target="_blank"}
+* **Email:** <mailto: calerissolutions@gmail.com>
+* **Phone:** (404) 876-9667 / (267) 251-0659
+
+**Note:** The store is located inside the Biltmore Offices Building.
+
+
 [Top of page](#top){: .btn}
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[Dates](../dates/) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

@@ -4,10 +4,7 @@ layout: splash
 author_profile: true
 permalink: /navigation/
 ---
-<a name="top"></a>
 
-<i class="fas fa-fw fa-home"></i>  **[About](../about/)**
-{: .text-center}
 <i class="fas fa-fw fa-sticky-note"></i>  **[Important dates](../dates/)**
 {: .text-center}
 <i class="fas fa-fw fa-registered"></i>  **[Registration](https://softconf.com/n/cinc2023/user/)**
@@ -23,6 +20,8 @@ permalink: /navigation/
 <i class="fas fa-fw fa-globe-americas"></i>  **[Travel Info](../travel/)**
 {: .text-center}
 <i class="fas fa-fw fa-tree"></i>  **[Tourism](../tourism/)**
+{: .text-center}
+<i class="fas fa-fw fa-map"></i>  **[Maps](../map/)**
 {: .text-center}
 <i class="fas fa-fw fa-money-bill"></i>  **[Sponsors](../sponsors/)**
 {: .text-center}

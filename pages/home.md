@@ -34,7 +34,7 @@ blockquote {
 }
 </style>
 
-| <img src="/assets/img/gari.jpg" alt="" height=250 width=250/> |<img src="/assets/img/reyna.jpg" alt="" height=280 width=280/>    | <img src="/assets/img/taylor.jpg" alt="" height=280 width=280/>    |                                                                                                                                                                                                                                                                                           
+| <img src="/assets/img/gari.jpg" alt="" height=250 width=250/> |<img src="/assets/img/reyna.jpg" alt="" height=280 width=280/>  | <img src="/assets/img/taylor.jpg" alt="" height=280 width=280/>    |                                                                                                                                                                                                                                                                                           
 | [**Gari Clifford**](http://gdclifford.info/){: target="_blank"} | [**Matthew Reyna**](https://reynalab.org/){: target="_blank"} | [**Herman Taylor, Jr.**](https://www.msm.edu/about_us/FacultyDirectory/Medicine/HermanATaylor/index.php){: target="_blank"} |        
 | Emory University & Georgia Institute of Technology     | Emory University           | Morehouse School of Medicine          |
 
@@ -48,13 +48,13 @@ blockquote {
 | [**Reza Sameni**](https://sameni.info/){: target="_blank"} | [**Ali Bahrami Rad**](https://med.emory.edu/directory/profile/?u=ABAHRA3){: target="_blank"} |     
 | Emory University          | Emory University           |
 
+&nbsp;
 
-## Organizers
-<p align="center"><img src="/assets/img/school_logos.svg" width="600" height="100"></p>
+| <img src="/assets/img/emory.jpg" alt="" height=150 width=150/> || <img src="/assets/img/msm.png" alt="" height=150 width=150/> || <img src="/assets/img/gt.png" alt="" height=170 width=170/> || <img src="assets/img/wg-ecardiology.png" alt="" height=200 width=200/> |
 
 
 &nbsp;
 
 ---
 
-[About](../about/) &#9632; [Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

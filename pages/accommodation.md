@@ -1,37 +1,10 @@
 ---
-title: "Travel Information - Atlanta, GA"
+title: "Accommodation"
 layout: single
 author_profile: true
-permalink: /travel/
+permalink: /accommodation/
 ---
 <a name="top"></a>
-This page will provide useful information on getting to [Hartsfield-Jackson Atlanta International Airport](#airport), public transit rail system, [MARTA](../travel/#marta), to the conference venue, and [accommodation](#hotel) options to attend CinC 2023 conference.
-{: .text-justify}
- 
-You will find [visa information](../visa/#visa) and [invitation letter request](../visa/#letter) to visit the U.S. for international travelers on [Visa Information Page](../visa).
-{: .text-justify}
-
-## <a name="airport"></a>Hartsfield-Jackson Atlanta International Airport
-Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries. Domestic and international airlines at Hartsfield-Jackson Atlanta International Airport can be found [here](https://www.atl.com/passenger-information/airlines-at-atl/){: target="_blank"}.
-{: .text-justify}
-The conference venue, the Georgia Tech Global Learning Center, is easily accessible from Hartsfield-Jackson Atlanta International Airport.
-{: .text-justify}
-
-## <a name="marta"></a>MARTA - Atlanta's rapid transit rail system
-You can easily get to the conference venue from Hartsfield-Jackson Atlanta International Airport through Atlanta's public transit rail system [MARTA](https://www.itsmarta.com){: target="_blank"}.
-{: .text-justify} 
-
-MARTA Airport station is at the domestic terminal. For international attendees to get to the MARTA Airport station, a designated shuttle transports passengers from the arrivals level of the international terminal to the domestic terminal ground transportation center, which includes the MARTA Airport station. Passengers also can take the Plane Train from the International terminal to the domestic terminal.
-{: .text-justify}
-
-The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
-{: .text-justify}
-
-<p class="notice--warning">
-	<strong>Tip:</strong> With <a href= "https://www.itsmarta.com/breeze-mobile.aspx" target="_blank">Breeze Mobile 2.0</a> app, you can purchase fare directly on your phone and the given QR code is your ticket. </p>
-
-
-## <a name="hotel"></a>Accommodations 
 
 There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances.
 {: .text-justify}
@@ -121,4 +94,4 @@ There are several hotels within walking distance of the conference venue in Midt
 
 ---
 
-[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Tourism](../tourism/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Travel Info](../travel/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

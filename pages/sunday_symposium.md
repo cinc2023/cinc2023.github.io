@@ -16,9 +16,9 @@ The Sunday Symposium will address **health equity with a cardiovascular spin**.
 ![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpeg)
 
 ## Sunday dinner reception
-The reception will be ready at the Carlos Museum on the Emory University campus, 10 minutes walk from the Sunday Symposium venue, James B. Williams Medical Education Building (map below). 
-1. When: Sunday, October 1st, 2023 at 5pm-8pm
-2. Where: [Carlos Museum](https://carlos.emory.edu/){: target="_blank"} on the Emory University campus
+The reception will be ready at the Michael C. Carlos Museum on the Emory University campus, 10 minutes walk from the Sunday Symposium venue, James B. Williams Medical Education Building (map below). 
+1. When: Sunday, October 1st, 2023 at 6:30pm-8:30pm
+2. Where: [Michael C. Carlos Museum](https://carlos.emory.edu/){: target="_blank"} on the Emory University campus
 3. Address: [571 South Kilgo Circle Atlanta, GA 30322](https://goo.gl/maps/199kRV6W3es9JHre7){: target="_blank"}
 4. Transportation: Provided, but to be announced
 
@@ -28,4 +28,4 @@ The reception will be ready at the Carlos Museum on the Emory University campus,
 
 ---
 
-[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Venue](../venue/) &#9632; [Visa Info](../visa) &#9632; [Travel Info](../travel) &#9632; [Tourism](../tourism/) &#9632; [Maps](../map)  &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Travel Info](../travel/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [PhysioNet Challenge](../challenge/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

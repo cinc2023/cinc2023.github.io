@@ -5,7 +5,7 @@ author_profile: true
 permalink: /navigation/
 ---
 
-<i class="fas fa-fw fa-sticky-note"></i>  **[Important dates](../dates/)**
+<i class="fas fa-fw fa-calendar"></i>  **[Calendar](../dates/)**
 {: .text-center}
 <i class="fas fa-fw fa-registered"></i>  **[Registration](https://softconf.com/n/cinc2023/user/)**
 {: .text-center}

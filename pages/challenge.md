@@ -37,4 +37,4 @@ More information about current and past Challenges, including [important details
 
 ---
 
-[Dates](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Travel Info](../travel/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)
+[Calendar](../dates/) &#9632; [Authors](../authors) &#9632; [Programme](../programme/) &#9632; [Travel Info](../travel/) &#9632; [Maps](../map) &#9632; [Sponsors](../sponsors/) &#9632; [FAQ](../faq/) &#9632; [Contacts](../contact/)

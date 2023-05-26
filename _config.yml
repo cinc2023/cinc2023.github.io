@@ -110,8 +110,8 @@ author:
   email            :
   url              : "https://cinc.org/"
   links:
-    - label: "Important dates"
-      icon: "fas fa-fw fa-sticky-note"
+    - label: "Calendar"
+      icon: "fas fa-fw fa-calendar"
       url: "/dates/"
     - label: "Registration"
       icon: "fas fa-fw fa-registered"

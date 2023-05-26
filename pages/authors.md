@@ -33,7 +33,7 @@ Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or
 &nbsp;
 
 ## <a name="poster"></a>Onsite poster printing info
-If you want to print your poster onsite, we would recommend **[Caleris Solution](https://calerissolutions.com/){: target="_blank"}**.\
+If you want to print your poster onsite, **[Caleris Solution](https://calerissolutions.com/){: target="_blank"}** is a nearby option.\
 **Note:** The store is located inside the Biltmore Offices Building.
 * **Visiting hours:** Monday-Friday, 9AM-6PM
 * **Visiting address:** [817 West Peachtree Street NW Suite A180, Atlanta, GA 30308](https://goo.gl/maps/ozQd2m1yKbtoWr4F9){:target="_blank"}

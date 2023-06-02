@@ -5,6 +5,7 @@ author_profile: true
 permalink: /authors/
 ---
 <a name="top"></a>
+This page will provide information on author guidelines and [on-site poster printing store](../authors/#poster). 
 
 Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference.
 {: .text-justify}
@@ -33,12 +34,16 @@ Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or
 &nbsp;
 
 ## <a name="poster"></a>Onsite poster printing info
-If you want to print your poster onsite, **[Caleris Solution](https://calerissolutions.com/){: target="_blank"}** is a nearby option.\
-**Note:** The store is located inside the Biltmore Offices Building.
+If you want to print your poster onsite, **[Caleris Solution](https://calerissolutions.com/){: target="_blank"}** is a nearby option. The store is located inside the Biltmore Offices Building where is only 4 minutes walking (300M) from the conference venue.
 * **Visiting hours:** Monday-Friday, 9AM-6PM
 * **Visiting address:** [817 West Peachtree Street NW Suite A180, Atlanta, GA 30308](https://goo.gl/maps/ozQd2m1yKbtoWr4F9){:target="_blank"}
+* **Contact:** James Hawes
 * **Email:** <mailto: calerissolutions@gmail.com>
-* **Phone:** (404) 876-9667 / (267) 251-0659
+* **Phone:** (404) 876-9667 / (267) 251-0659 (cell)
+<p class="notice--warning">
+	<strong>Note:</strong> The standard turn-around time to print most posters at the store is 2 to 3 days following proof approval. You may want to contact the store with actual size of your poster in advance to get your poster ready on time. Outside the window will incur a rush charge.
+</p>
+
 
 
 

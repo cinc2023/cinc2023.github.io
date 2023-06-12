@@ -69,6 +69,17 @@ The 2.7-mile loop makes 12 stops that connect Centennial Olympic Park with the M
 Visit the [Atlanta Streetcar website](https://www.itsmarta.com/streetcar.aspx){: target="_blank"} for fares, schedules, safety information and a list of things to do and see along the route.
 {: .text-justify}
 
+## Onsite printing Store
+### Is there a printing store to print posters onsite?
+[Caleris Solution](https://calerissolutions.com/){: target="_blank"} will be your option where is 4 minutes walking from the conference venue. The detailed information about the store is available [here](../authors/#poster).
+{: .text-justify}
+### How long does it take for Caleris Solution to print a poster?
+The store would take 1 week to print the posters after approval with clients. Plan around to print your posters accordingly. 
+{: .text-justify}
+### How do I have to pay to print posters?
+You will need to provide Caleris Solution with your credit card information when you reach out to the store. 
+{: .text-justify}
+
 [TOP of Page](#top){: .btn}
 
 ---

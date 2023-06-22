@@ -8,6 +8,8 @@ permalink: /accommodation/
 
 There are several hotels within walking distance of the conference venue in Midtown Atlanta. The Georgia Tech Hotel and Conference Center shares a building with the conference venue, and several other hotels are only minutes away. Please see the below options and approximate prices and walking distances.
 {: .text-justify}
+**[Hartsfield-Jackson airport to Atlanta Midtown](../midtown)** page will give you information on getting to Midtown Atlanta from the airport.
+{: .text-justify}
 
 <div class="notice--warning">
   <h4 class="no_toc">Note:</h4>

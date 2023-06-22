@@ -8,14 +8,14 @@ permalink: /sunday/
 ## Sunday Symposium
 The Sunday Symposium will address **health equity with a cardiovascular spin**.
 
-1. When: Sunday, October 1st, 2023 at 12pm-5pm
+1. When: Sunday, October 1st, 2023 at 12pm-5:30pm
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
 4. Transportation: Provided, but to be announced
 
-![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpeg)
+![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpg)
 
-## Sunday dinner reception
+## Sunday evening reception
 The reception will be ready at the Michael C. Carlos Museum on the Emory University campus, 10 minutes walk from the Sunday Symposium venue, James B. Williams Medical Education Building (map below). 
 1. When: Sunday, October 1st, 2023 at 6:30pm-8:30pm
 2. Where: [Michael C. Carlos Museum](https://carlos.emory.edu/){: target="_blank"} on the Emory University campus

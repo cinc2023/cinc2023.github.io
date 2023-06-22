@@ -1,5 +1,5 @@
 ---
-title: "Conference Venue"
+title: "Conference Venues"
 layout: single
 author_profile: true
 permalink: /venue/
@@ -8,12 +8,26 @@ permalink: /venue/
 
 ![Tech Square](/assets/img/venue.jpeg)<br/>
 
-<a name="top"></a>
 
-CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](#airport). The [conference venue](#venue), [hotels](../#hotel), many restaurants and cultural institutions, and convenient [public transportation (MARTA)](#airport) are a short walk from each other in Midtown Atlanta. The below [map](#maps) show how easy it is for you to attend the conference and explore Atlanta.
+CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, which is easily accessible from the [Atlanta's Hartsfield-Jackson Atlanta International Airport](../midtown/#airport). The [Sunday Symposium venue](#symposium), [CinC 2023 conference venue](#glc), [hotels](../accommodation), many restaurants and cultural institutions, and convenient [public transportation (MARTA)](#airport) are a short walk from each other in Midtown Atlanta. The below [map](#maps) show how easy it is for you to attend the conference and explore Atlanta.
 {: .text-justify}
 
-## Venue: [the Global Learning Center](https://goo.gl/maps/msWHjncfDXU4Q4Ua7){: target="_blank"}
+## <a name="symposium"></a>Sunday Symposium venue: [James B. Williams Medical Education Building, Emory University](https://goo.gl/maps/k21b1gQBTsn33TGa8){: target="_blank"}
+
+Sunday Symposium will be held at James B. Williams Medical Education Building located in the Emory Campus, where is 40-45 minutes away from Atlanta Midtown. The building address is [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}. CinC 2023 will provide own **[transportation](#transloc)** to connect Midtown and the James B. Williams Medical Educational Building (more information to come) . You can also use public transportation **[MARTA 36 bus](#36)** to get the Sunday Symposium venue from midtown if you miss CinC 2023 bus. 
+{: .text-justify}
+
+### <a name="transloc"></a>CinC 2023 transportation: MORE INFORMATION TO COME
+### <a name="36"></a>Public transportation: MARTA 36 bus 
+MARTA 36 is a public transportation connecting Atlanta Midtown and Emory university. The bus departs from the midtown every 40 minutes from **Midtown Station**. The Sunday schedule of MARTA 36 is available [here](https://www.itsmarta.com/36.aspx){: target="_blank"}.
+{: .text-justify}
+The map below will help you understand how to find a station to get on MARTA 36 and get off to get the venue. 
+{: .text-justify}
+- Getting on MARTA 36: Midtown Station
+- Getting off MARTA 36: N Decatur Rd NE&Clifton Rd
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24388.39488298241!2d-84.3670636100088!3d33.776938370948315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f50466be9894e5%3A0x6c3a4370c99dd7d7!2sGlobal%20Learning%20Center%2C%204th%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7761528!2d-84.38952259999999!4m5!1s0x88f506fa1a650eb7%3A0x39ae5807ba7f613b!2sJames%20B.%20Williams%20Medical%20Education%20Building%2C%20Atlanta%2C%20GA!3m2!1d33.7939559!2d-84.32186639999999!5e0!3m2!1sen!2sus!4v1687462796176!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## <a name="glc"></a>CinC 2023 main conference venue: [The Global Learning Center](https://goo.gl/maps/msWHjncfDXU4Q4Ua7){: target="_blank"}
 
 The [Georgia Tech Global Learning Center](https://pe.gatech.edu/global-learning-center) is located on the edge of Georgia Tech's campus in Midtown Atlanta. It is walking distance from multiple [hotels](#hotel), restaurants, and [public transportation](#airport). The venue's address is [800 Spring St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/EKDDmHXzStFazENh9){: target="_blank"}.
 {: .text-justify}
@@ -23,18 +37,10 @@ The Georgia Tech Global Learning Center has enhanced safety and sanitization pro
 To see **COVID-19 guidance, testing and vaccine**, please visit [Georgia Department of Public Health](https://dph.georgia.gov/dph-covid-19-guidance){: target="_blank"} and [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html?s_cid=11759:cdc%20covid%20guidelines:sem.ga:p:RG:GM:gen:PTN:FY22){: target="_blank"}.
 {: .text-justify}
 
-## <a name="airport"></a>Arrival at Hartsfield-Jackson Atlanta International Airport
-Atlanta's Hartsfield-Jackson Atlanta International Airport is the busiest airport in the world with over 2,500 daily flights to over 50 countries. Domestic and international airlines at Hartsfield-Jackson Atlanta International Airport can be found [here](https://www.atl.com/passenger-information/airlines-at-atl/){: target="_blank"}.
-{: .text-justify}
+### Airport to the Global Learning Center
+
 The conference venue, the Georgia Tech Global Learning Center, is easily accessible from Hartsfield-Jackson Atlanta International Airport.
 {: .text-justify}
-
-### MARTA train station at the airport 
-To get to the MARTA Airport station at the domestic terminal, a designated shuttle transports passengers from the arrivals level of the international terminal to the domestic terminal ground transportation center, which includes the MARTA Airport station. Passengers also can take the Plane Train from the International terminal to the domestic terminal.\
-Detailed information on the station location and MARTA schedule at the airport is available at [MARTA Airport Station](https://itsmarta.com/Airport.aspx).
-{: .text-justify}
-
-## <a name="airport"></a>Arrival at the Global Learning Center
 
 Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit, MARTA, from [Hartsfield-Jackson Atlanta International Airport](#airport). The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 {: .text-justify}
@@ -45,9 +51,6 @@ Attendees easily can reach the conference venue and hotels in Midtown Atlanta by
 Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-40 minutes.
 {: .text-justify}
 
-
-
-### <a name="maps"></a>Airport to conference venue
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.56066871993!2d-84.48805478391816!3d33.70849553658674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield-Jackson%20Atlanta%20International%20Airport%20(ATL)%2C%206000%20N%20Terminal%20Pkwy%2C%20Atlanta%2C%20GA%2030320!3m2!1d33.6407282!2d-84.4277001!4m5!1s0x88f50466c03ef281%3A0x33727ba143cafd68!2sGeorgia%20Tech%20Global%20Learning%20Center%2C%20800%20Spring%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7763024!2d-84.3892796!5e0!3m2!1sen!2sus!4v1659546991088!5m2!1sen!2sus" width="640" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 

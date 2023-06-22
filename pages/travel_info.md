@@ -4,9 +4,10 @@ layout: single
 author_profile: true
 permalink: /travel/
 ---
-[Getting to the venue](../venue){: .btn .btn--x-large}\
+[Airport to Atlanta Midtown](../midtown){: .btn .btn--x-large}\
+[Venues](../venue){: .btn .btn--x-large}\
 [Visa Information](../visa){: .btn .btn--x-large}\
-[Accommodation](../accommodation){: .btn .btn--x-large}\
+[Accommodations](../accommodation){: .btn .btn--x-large}\
 [Tourism](../tourism){: .btn .btn--x-large}
 
 ---

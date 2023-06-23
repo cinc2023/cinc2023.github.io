@@ -23,9 +23,9 @@ The Georgi B. Moody PhysioNet Challenge asks participants to design and implemen
 
 "Predicting Neurological Recovery from Coma After Cardiac Arrest"
 
-> **First deadline - April 8, 2023**
+> **June 9, 2023**
 
-Requirements, links to code and data, and background can be found at [George B. Moody PhysioNet Challenge 2023 announcement](https://moody-challenge.physionet.org/2023/){: target="_blank"}.
+The official phase of the George B. Moody PhysionNet Challenge 2023 has begun.
 {: .text-justify}
 
 More information about current and past Challenges, including [important details](https://moody-challenge.physionet.org/faq/){: target="_blank"} about scoring and test data for previous Challenges are available at the George B. Moody PhysioNet Challenge website.

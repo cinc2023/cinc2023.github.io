@@ -1,26 +1,21 @@
 ---
-title: "Important dates and Calendar"
+title: "Important dates and calendar"
 layout: single
 author_profile: true
 permalink: /dates/
 ---
 <a name="top"></a>
 
-If you would like to present your work at CinC 2023 conference and publish it in *Computing in Cardiology*, you should consider the deadlines below. Please visit [CinC main website](https://cinc.org/){: target="_blank"} for details. 
+You may want to consider the dates below to attend CinC 2023 conference. More information for authors and registration is available at [CinC main website](https://cinc.org/inf_authors/){: target="_blank"}. 
 {: .text-justify}
-> **April 1st, 2023**
 
-- **Special Session Proposal deadline**\
-Proposals guidelines and submission are available [Special Sessions](https://cinc.org/special-sessions-2/){: target="_blank"} at CinC main website.
+> **Before August 1st, 2023**
+
+- **Early registration for in-person attendance**\
+Please visit [CinC main website](https://cinc.org/inf_authors/#:~:text=5.%20Register%20to%20attend%20CinC){: target="_blank"} for details regarding registration.\
+To register [click here](https://softconf.com/n/cinc2023/user/){: target="_blank"}.
 {: .text-justify}
- 
-> **May 1st, 2023**
- 
-- **Abstract deadline**\
-Abstract collection for CinC 2023 is open. Please see [the abstract preparation guidelines](https://cinc.org/cinc-conference-program-abstracts/){: target="_blank"}. All conference program abstracts must be submitted on-line at [Submission and Registration site](https://softconf.com/n/cinc2023/user/){: target="_blank"}.
-{: .text-justify}
-- **Full-paper deadline** for the [Rosanna Degani Young Investigator Award](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"} competition, the [Clinical needs translational award (CTA)](https://cinc.org/joint-wg-e-cardiology-esc-cinc-clinical-needs-translational-award-cta/){: target="_blank"}, and [reduced-fee registration](https://cinc.org/participating-computing-in-cardiology-conferences/#reduced-registration){: target="_blank"}.
-{: .text-justify}
+
 
 > **September 1st, 2023**
 

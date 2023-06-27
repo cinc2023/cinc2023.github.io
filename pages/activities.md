@@ -45,7 +45,7 @@ Embark on an enchanting journey through time with our captivating Piedmont Park 
 Dive into an aquatic wonderland and embark on an unforgettable adventure at the Georgia Aquarium. Immerse yourself in a world teeming with awe-inspiring marine life, where majestic whales glide through vast exhibits, playful dolphins captivate your heart, and vibrant tropical fish create a mesmerizing kaleidoscope of colors.
 {: .text-justify}
 
-### Atlanta Civil Rights Movement Bus Tour
+### [Atlanta Civil Rights Movement Bus Tour](https://www.greatexplorationtoursatlanta.com/){: target='blank'}
 
 **Journey through history, reliving the struggle and celebrating the heroes!** - *limited to 50 participants*
 

@@ -1,35 +1,16 @@
 ---
-title: "Author Guidelines"
+title: "Onsite Author Guidelines"
 layout: single
 author_profile: true
 permalink: /authors/
 ---
 <a name="top"></a>
-This page will provide information on author guidelines and [on-site poster printing store](../authors/#poster). 
+This page will provide information about [onsite speaker guideline](../authors/#speaker) and [on-site poster printing store](../authors/#poster). 
 
-Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference.
+Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference. **Detailed information and steps for registration process and authors are available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
 {: .text-justify}
 
-**Detailed information for registration process and authors is available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
-
-### Steps to present and publish your work
-
-1. Submit a conference program abstract\
-Please see [the abstract preparation guidelines](https://cinc.org/cinc-conference-program-abstracts/){: target="_blank"}. All conference program abstracts must be submitted [on-line](https://softconf.com/n/cinc2023/login/scmd.cgi?scmd=index&_Xrefer_=aHR0cHM6Ly9zb2Z0Y29uZi5jb20vbi9jaW5jMjAyMy91c2VyLw==){: target="_blank"} by May 1st, 2023.
-2. (Optional) Submit your full paper\
-This step is for [Rosanna Degani Young Investigator Award](https://cinc.org/rosanna-degani-young-investigator-award/){: target="_blank"} competition, the [Clinical needs translational award (CTA)](https://cinc.org/wp-content/cache/page_enhanced/cinc.org/joint-wg-e-cardiology-esc-cinc-clinical-needs-translational-award-cta/_index_slash.html_gzip){: target="_blank"}, and [reduced-fee registration](https://cinc.org/participating-computing-in-cardiology-conferences/#reduced-registration){: target="_blank"}.
-3. Get a visa if needed to attend CinC 2023 conference\
-Visa information is available **[here](../visa)**.
-4. Confirm that you will present your paper\
-Decision letters are sent to the main contact email address listed for each submitted abstract. If your abstract is accepted, your decision letter will contain instructions for confirming that you will attend CinC and will present your paper. If you have not received a decision letter by June 23rd, please check your spam folder for email from <nolink><help-submissions@cinc.org>.
-5. Register to attend CinC 2023\
-Please visit [Registration website](https://softconf.com/n/cinc2023/user/){: target="_blank"} to register CinC 2023 conference. Registration information is available on [CinC main webpage](https://cinc.org/inf_authors/){: target="_blank"}.
-6. Prepare and submit a full paper\
-Authors of accepted abstracts are invited to submit full papers (up to 4 pages) prior to the conference. The deadline for this submission is **September 25, 2023**. After the conference, there will be a period until **October 20, 2023**. Please visit CinC main webpage to have full paper [submission guideline and requirements](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}.
-7. Present your work at CinC 2023\
-Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or-poster-presentations/){: target="_blank"} are available.
-8. Revise and upload your final submission
-9. Be prepared to make corrections if requested
+## <a name="speaker"></a>Onsite speaker guidelines - More information to come
 
 &nbsp;
 

@@ -25,7 +25,7 @@ Decision letters are sent to the main contact email address listed for each subm
 5. Register to attend CinC 2023\
 Please visit [Registration website](https://softconf.com/n/cinc2023/user/){: target="_blank"} to register CinC 2023 conference. Registration information is available on [CinC main webpage](https://cinc.org/inf_authors/){: target="_blank"}.
 6. Prepare and submit a full paper\
-Authors of accepted abstracts are invited to submit full papers (up to 4 pages) prior to the conference. The deadline for this submission is **September 1st, 2023**. After the conference, there will be a period until **October 3rd, 2023**. Please visit CinC main webpage to have full paper [submission guideline and requirements](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}.
+Authors of accepted abstracts are invited to submit full papers (up to 4 pages) prior to the conference. The deadline for this submission is **September 25, 2023**. After the conference, there will be a period until **October 20, 2023**. Please visit CinC main webpage to have full paper [submission guideline and requirements](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}.
 7. Present your work at CinC 2023\
 Notes on [preparing oral and poster presentations](https://cinc.org/cinc-oral-or-poster-presentations/){: target="_blank"} are available.
 8. Revise and upload your final submission

@@ -5,7 +5,7 @@ author_profile: true
 permalink: /authors/
 ---
 <a name="top"></a>
-This page will provide information about [onsite speaker guideline](../authors/#speaker) and [on-site poster printing store](../authors/#poster). 
+This page will provide information about [onsite speaker guideline](../authors/#speaker) and [onsite poster printing store](../authors/#poster). 
 
 Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference. **Detailed information and steps for registration process and authors are available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
 {: .text-justify}

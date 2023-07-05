@@ -17,10 +17,9 @@ To register [click here](https://softconf.com/n/cinc2023/user/){: target="_blank
 {: .text-justify}
 
 
-> **September 25, 2023**
+> **Full paper submission deadline**
 
-- **Full paper submission deadline**\
-Authors of accepted abstracts are invited to submit full papers (up to 4 pages) prior to CinC 2023 conference. These will be available as a preprint for the conference. All papers must follow the predefined formats and templates included in the instructions for [preparing and submitting full papers](https://cinc.org/instructions-for-preparing-and-submitting-full-papers/){: target="_blank"}.
+* Authors of accepted abstracts are invited to submit full papers (up to 4 pages) to the conference. More information about full paper submission is available on [Information for Authors page](https://cinc.org/inf_authors/){: target="_blank"} of CinC main website.
 {: .text-justify}
 
 &nbsp;

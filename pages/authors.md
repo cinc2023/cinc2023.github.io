@@ -35,7 +35,7 @@ Caleris Solution is located inside the Biltmore Offices Building where is only 4
 
 
 ### [FedEx Kinkos](https://local.fedex.com/en-us/ga/atlanta/office-1509?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT){: target="_blank"}
-FedEx Office Print & Ship Center (FedEx Kinkos) is located a bit further from the conference venue, about 2km away. As of July 7, 2023, the store verbally confirmed that an A0 (33"x46") size poster in color with a heavyweight pager coasts $77.86 including taxes. However, we strongly recommend directly contacting the store to verify the cost. 
+FedEx Office Print & Ship Center (FedEx Kinkos) is located a bit further from the conference venue, about 2km away. The store verbally confirmed that an A0 (33"x46") size poster in color with a heavyweight pager coasts $77.86 including taxes. However, we strongly recommend directly contacting the store to verify the cost. 
 {: .text-justify}
 
 * **Visiting hours:** Monday - Friday, 8AM-7PM / Saturday, 9AM-6PM / Sunday, 12-6PM

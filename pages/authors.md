@@ -19,7 +19,7 @@ If you want to print your poster onsite, **[Caleris Solution](https://calerissol
 	<strong>Note:</strong> You will need to provide <strong>print ready files</strong> with <strong>exact poster size</strong> you are planning to print. Please note that the US uses different units of measure. If your poster sizes are "mm" or "cm", the stores will convert the measurements into "feet" and "inches" to print or will requests the size as "feet" and "inches". Please make sure the measurements with the store before approval.
 </p>
 ### [Caleris Solution](https://calerissolutions.com/){: target="_blank"}
-Caleris Solution is located inside the Biltmore Offices Building where is only 4 minutes walking (300M) from the conference venue. The store verbally confirmed that cost is $12 per square foot. However we strongly recommend directly contacting the store to verify the cost. [Square Foot Calculator](https://www.thecalculatorsite.com/misc/square-footage-calculator.php){:target="_blank"} will help you calculate the cost to print your poster.
+Caleris Solution is located inside the Biltmore Offices Building, which is only a 4-minute walk (300M) from the conference venue. The store has verbally confirmed that cost is $12 per square foot to print a poster. However we strongly recommend contacting the store directly to verify the pricing. You can use the [Square Foot Calculator](https://www.thecalculatorsite.com/misc/square-footage-calculator.php){:target="_blank"} to help you calculate the cost of printing your poster.
 {: .text-justify}
 * **Visiting hours:** Monday-Friday, 9AM-6PM
 * **Visiting address:** [817 West Peachtree Street NW Suite A180, Atlanta, GA 30308](https://goo.gl/maps/ozQd2m1yKbtoWr4F9){:target="_blank"}
@@ -35,7 +35,7 @@ Caleris Solution is located inside the Biltmore Offices Building where is only 4
 
 
 ### [FedEx Kinkos](https://local.fedex.com/en-us/ga/atlanta/office-1509?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT){: target="_blank"}
-FedEx Office Print & Ship Center (FedEx Kinkos) is located a bit further from the conference venue, about 2km away. The store verbally confirmed that an A0 (33"x46") size poster in color with a heavyweight pager coasts $77.86 including taxes. However, we strongly recommend directly contacting the store to verify the cost. 
+FedEx Office Print & Ship Center (FedEx Kinkos) is located a bit further from the conference venue, approximately 2km away. The store has verbally confirmed that a color poster of A0 (33"x46") size, printed on heavyweight paper, costs $77.86 inclusive of taxes. However, we highly recommend contacting the store directly to verify the pricing. 
 {: .text-justify}
 
 * **Visiting hours:** Monday - Friday, 8AM-7PM / Saturday, 9AM-6PM / Sunday, 12-6PM

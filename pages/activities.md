@@ -36,7 +36,7 @@ Experience an adrenaline-fueled adventure like never before at Six Flags, where 
 
 **Unveiling Piedmont Park's untold stories!** - *limited to 50 participants*
 
-Embark on an enchanting journey through time with our captivating Piedmont Park History Tour in Atlanta. Discover the hidden stories, rich heritage, and remarkable transformations of one of Atlanta's most iconic landmarks.
+The Piedmont Park History Walking Tour introduces the Park's vibrant past and present to visitors and natives alike. Join us and discover how Piedmont Park's rich history is undeniably intertwined with the development of Atlanta. On the tour, you will explore the fascinating historical and physical evolution of iconic Piedmont Park and how it went from forest to farmland to now being a premier urban green space. The tour will take 60-90 minutes, and be prepared to walk about a mile during that time.
 {: .text-justify}
 
 ## **For Passivists**

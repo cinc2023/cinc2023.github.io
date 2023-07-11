@@ -9,7 +9,7 @@ permalink: /dates/
 You may want to consider the dates below to attend CinC 2023 conference. More information for authors and registration is available at [CinC main website](https://cinc.org/inf_authors/){: target="_blank"}. 
 {: .text-justify}
 
-> **Before August 1st, 2023**
+> **Before August 15, 2023**
 
 - **Early registration for in-person attendance**\
 Please visit [CinC main website](https://cinc.org/inf_authors/#:~:text=5.%20Register%20to%20attend%20CinC){: target="_blank"} for details regarding registration.\

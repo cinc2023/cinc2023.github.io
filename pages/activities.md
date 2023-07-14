@@ -47,6 +47,19 @@ The Piedmont Park History Walking Tour introduces the Park's vibrant past and pr
 Dive into an aquatic wonderland and embark on an unforgettable adventure at the Georgia Aquarium. Immerse yourself in a world teeming with awe-inspiring marine life, where majestic whales glide through vast exhibits, playful dolphins captivate your heart, and vibrant tropical fish create a mesmerizing kaleidoscope of colors.
 {: .text-justify}
 
+**SPECIAL ACTIVITY: [Dive With Gentle Giants](https://www.georgiaaquarium.org/experience/journey-with-gentle-giants-dive/){: target='blank'}**\
+If you have a passion for diving, we have an exciting opportunity for you. **Only 7 dive spots** are reserved at 3PM on October 2, 2023, under CinC 2023. If you are interested in diving with marine animals at the Georgia Aquarium, please directly contact to the aquarium.
+{: .text-justify}
+-  Contact info: Madison McClellan, Manager, Education Sales, Georgia Aquarium at [MMcClellan@georgiaaquarium.org](mailto: MMcClellan@georgiaaquarium.org)
+- Your information to provide: Full Name, Street Address, Email Address, Phone Number
+- Discounted rate: $365.89 with sales tax (General admission NOT included)
+- Cut-off date for the discount rate: September 4, 2023 
+- Requirement: Proof of autonomous **Open Water SCUBA certification** from a recognized organization
+<p class="notice--warning">
+	<strong>Note:</strong> The general admission ticket for the Georgia Aquarium will be covered by CinC 2023. If you are planning to participate in the diving program, please select the Georgia Aquarium as your social activity when you register. <strong>However, please advised that the diving cost is not included in the conference coverage. Each participant will be responsible for covering their individual diving expenses. The aquarium will require full payment at time of booking and no refunds can be given for cancellations.</strong></p>
+<p class="notice--warning">
+	<strong>Note:</strong> As the program requires <strong>Open Water SCUBA certification</strong> from a recognized organization, we kindly request that you reach out to the aquarium to verify your certification status in order to ensure a smooth and enjoyable experience. This will allow you to participate in the program without any complications.</p>
+
 ### [Atlanta Civil Rights Movement Bus Tour](https://www.greatexplorationtoursatlanta.com/){: target='blank'}
 
 **Journey through history, reliving the struggle and celebrating the heroes!** - *limited to 50 participants*

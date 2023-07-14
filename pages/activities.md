@@ -47,6 +47,8 @@ The Piedmont Park History Walking Tour introduces the Park's vibrant past and pr
 Dive into an aquatic wonderland and embark on an unforgettable adventure at the Georgia Aquarium. Immerse yourself in a world teeming with awe-inspiring marine life, where majestic whales glide through vast exhibits, playful dolphins captivate your heart, and vibrant tropical fish create a mesmerizing kaleidoscope of colors.
 {: .text-justify}
 
+&nbsp;
+
 **SPECIAL ACTIVITY: [Dive With Gentle Giants](https://www.georgiaaquarium.org/experience/journey-with-gentle-giants-dive/){: target='blank'}**\
 If you have a passion for diving, we have an exciting opportunity for you. **Only 7 dive spots** are reserved at 3PM on October 2, 2023, under CinC 2023. If you are interested in diving with marine animals at the Georgia Aquarium, please directly contact to the aquarium.
 {: .text-justify}
@@ -67,6 +69,9 @@ If you have a passion for diving, we have an exciting opportunity for you. **Onl
 Step back in time and relive the pivotal moments of the Atlanta Civil Rights Movement on our captivating bus tour. Journey through the historic streets where heroes walked, as passionate guides share powerful stories of courage, resilience, and social change.
 {: .text-justify}
 
+&nbsp;
+
+&nbsp;
 
 [Top of Page](#top){: .btn}
 

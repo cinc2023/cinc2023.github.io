@@ -42,9 +42,6 @@ Caleris Solution is located inside the Biltmore Offices Building, which is only 
 * **Email:** <mailto: calerissolutions@gmail.com>
 * **Phone:** (404) 876-9667 / (267) 251-0659 (cell)
 * **Turnaround time:** One week
-<p class="notice--warning">
-	<strong>Note:</strong> Please note that it may take up to 1 week to produce your posters. If you need to print your posters on site, you may want to contact the Caleris Solution in advance to get your posters ready on time. The  Outside the window will incur a rush charge. The store would request for your credit card information for printing payment. Please contact the store for details.
-</p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3316.3746350177776!2d-84.39081672358645!3d33.77682252326189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f50466be9894e5%3A0x6c3a4370c99dd7d7!2sGlobal%20Learning%20and%20Conference%20Center%2C%204th%20Street%20Northwest%2C%20Atlanta%2C%20GA!3m2!1d33.7761528!2d-84.38952259999999!4m5!1s0x88f50466c2db507d%3A0x5686d4e4df763036!2sCaleris%20Solutions%2C%20(Printing%2C%20Pack%20%26%20Ship%2C%20Promotional%20Products)%2C%20817%20West%20Peachtree%20Street%20Northwest%20Suite%20A180%20404%2C%20Inside%20Biltmore%20Offices%20Bldg%2C%209667%20876%20Suite%20A180%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7773239!2d-84.38698409999999!5e0!3m2!1sen!2sus!4v1688740095000!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

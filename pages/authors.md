@@ -9,6 +9,9 @@ This page will provide information about [onsite speaker guideline](../authors/#
 
 Computing in Cardiology publishes short papers (4 pages maximum) that have been presented and discussed by their authors at CinC 2023 conference. **Detailed information and steps for registration process and authors are available on the main [CinC webpage](https://cinc.org/inf_authors/){: target="_blank"}**.
 {: .text-justify}
+<p class="notice--warning">
+	<strong>Note:</strong> The poster size is <strong>A0</STRONG> in vertical orientation. <strong>Height:1189 mm (46.8 inches)</strong> and <strong>Width:841 mm (33.1 inches)</strong>. Smaller and slightly larger poster are acceptable as long as they fit on the poster board. You will find general information to prepare your presentation on CinC main website. Please visit <a href= "https://cinc.org/cinc-oral-or-poster-presentations/" target="_blank">Presentations Page</a>. 
+</p>
 
 ## <a name="speaker"></a>Onsite speaker guidelines - More information to come
 

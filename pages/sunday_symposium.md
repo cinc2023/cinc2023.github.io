@@ -1,5 +1,5 @@
 ---
-title: "Sunday Symposium and reception"
+title: "Sunday Symposium and the reception"
 layout: single
 author_profile: true
 permalink: /sunday/

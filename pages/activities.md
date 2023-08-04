@@ -18,7 +18,7 @@ You will find information about Monday afternoon activities. CinC 2023 provides 
 
 **Experience Atlanta's Unique Civi Rights Legacy!** - *limited to 40 participants*
 
-As Atlanta is often called the cradle of the modern Civil Rights Movement, you will be able to join on a revealing journey to learn stories about the 1060's Civil Rights movement. Pedal through history as passionate guides illuminate the significant landmarks where courageous activists fought for justice and equality.
+As Atlanta is often called the cradle of the modern Civil Rights Movement, you will be able to join on a revealing journey to learn stories about the 1960's Civil Rights movement. Pedal through history as passionate guides illuminate the significant landmarks where courageous activists fought for justice and equality.
 {: .text-justify}
 **Please note that we will request your first name and height to set up a bike for you in advance.**
 {: .text-justify}

@@ -4,11 +4,17 @@ layout: single
 author_profile: true
 permalink: /map/
 ---
-This page will provide maps for [airport to venue](../map/#map1), [hotels](../map/#map2), [social activities](../map/#map3), [banks](../map/#map4), and [onsite printing stores](../map/#map5). 
+This page will provide maps for [conference venues](../map/#map1), [hotels](../map/#map3), [social activities](../map/#map4), [banks](../map/#map5), and [onsite printing stores](../map/#map6). 
 
-## <a name="map1"></a>Hartsfield-Jackson Atlanta International Airport to Georgia Tech Global Learning Center
-**Georgia Tech Global Learning Center**, [84 5th St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/najPaXZADDz5FiGf6){: target="_blank"}
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106208.16746285142!2d-84.49652436531828!3d33.7088134947278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield%E2%80%93Jackson%20Atlanta%20International%20Airport%20(ATL)%20(ATL)%2C%20North%20Terminal%20Parkway%2C%20Atlanta%2C%20GA!3m2!1d33.636149599999996!2d-84.4293764!4m5!1s0x88f50466c0af66b3%3A0xdca0422f536055f5!2s84%205th%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7761528!2d-84.38952259999999!5e0!3m2!1sen!2sus!4v1689359175500!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+## <a name="map1"></a>Conference Venues
+**Sunday Symposium - James B. Williams Medical Education Building, Emory**, [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/LZvdWyWevuDibekt7){: target="_blank"}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d828.9283296548713!2d-84.32169329999999!3d33.7939006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f506fa1b08a307%3A0xdc33f13bf1e2675b!2s100%20Woodruff%20Cir%2C%20Atlanta%2C%20GA%2030322!5e0!3m2!1sen!2sus!4v1691429056275!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+&nbsp;
+
+**CinC 2023 conference - Georgia Tech Global Learning Center**, [84 5th St NW, Atlanta, GA 30308, USA](https://goo.gl/maps/2dsRGWkNcNjFi1eM9){: target="_blank"}
+<iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d3316.4005627879187!2d-84.3895226!3d33.7761528!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x88f50466c0af66b3%3A0xdca0422f536055f5!2s84%205th%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7761528!2d-84.38952259999999!5e0!3m2!1sen!2sus!4v1691429164050!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ## <a name="map2"></a>Hotels near the conference venue
 A hotel list and detailed information are available at [Accommodation page](../accommodation).

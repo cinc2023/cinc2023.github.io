@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /map/
 ---
-This page will provide maps for [conference venues](../map/#map1), [hotels](../map/#map3), [social activities](../map/#map4), [banks](../map/#map5), and [onsite printing stores](../map/#map6). 
+This page will provide maps for [conference venues](../map/#map1), [hotels](../map/#map2), [social activities](../map/#map3), [banks](../map/#map4), and [onsite printing stores](../map/#map5). 
 
 ## <a name="map1"></a>Conference Venues
 **Sunday Symposium - James B. Williams Medical Education Building, Emory**, [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/LZvdWyWevuDibekt7){: target="_blank"}

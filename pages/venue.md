@@ -14,12 +14,12 @@ CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, w
 
 ## <a name="symposium"></a>Sunday Symposium venue: [James B. Williams Medical Education Building, Emory University](https://goo.gl/maps/k21b1gQBTsn33TGa8){: target="_blank"}
 
-Sunday Symposium will be held at James B. Williams Medical Education Building located in the Emory Campus, where is 40-45 minutes away from Atlanta Midtown. The building address is [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}. CinC 2023 will provide own **[transportation](#transloc)** to connect Midtown and the James B. Williams Medical Educational Building (more information to come) . You can also use public transportation **[MARTA 36 bus](#36)** to get the Sunday Symposium venue from midtown if you miss CinC 2023 bus. 
+Sunday Symposium will be held at James B. Williams Medical Education Building, situated on the Emory Campus, which is approximately 40-45 minutes away from Atlanta Midtown. The building address is [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}. CinC 2023 will provide own **[transportation](#transloc)** to connect Midtown and the James B. Williams Medical Educational Building (more information to come) . You can also use public transportation **[MARTA 36 bus](#36)** to get the Sunday Symposium venue from midtown if you miss CinC 2023 bus. 
 {: .text-justify}
 
 ### <a name="transloc"></a>CinC 2023 transportation: MORE INFORMATION TO COME
 ### <a name="36"></a>Public transportation: MARTA 36 bus 
-MARTA 36 is a public transportation connecting Atlanta Midtown and Emory university. The bus departs from the midtown every 40 minutes from **Midtown Station**. The Sunday schedule of MARTA 36 is available [here](https://www.itsmarta.com/36.aspx){: target="_blank"}.
+MARTA bus #36 is a public transportation system that connects Atlanta Midtown and Emory University. The bus departs from Midtown Station every 40 minutes. The Sunday schedule for MARTA 36 is available every 40 minutes. The Sunday schedule for MARTA 36 is available  [here](https://www.itsmarta.com/36.aspx){: target="_blank"}.
 {: .text-justify}
 The map below will help you understand how to find a station to get on MARTA 36 and get off to get the venue. 
 {: .text-justify}
@@ -42,13 +42,13 @@ To see **COVID-19 guidance, testing and vaccine**, please visit [Georgia Departm
 The conference venue, the Georgia Tech Global Learning Center, is easily accessible from Hartsfield-Jackson Atlanta International Airport.
 {: .text-justify}
 
-Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit, MARTA, from [Hartsfield-Jackson Atlanta International Airport](#airport). The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines travel frequently between the **Airport Station** and **Midtown Station** throughout the day (and night). Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
+Attendees easily can reach the conference venue and hotels in Midtown Atlanta by rail public transit, MARTA, from [Hartsfield-Jackson Atlanta International Airport](#airport). The [MARTA](https://www.itsmarta.com){: target="_blank"} [Red](https://www.itsmarta.com/Red-Line.aspx){: target="_blank"} and [Gold](https://www.itsmarta.com/Gold-Line.aspx){: target="_blank"} train lines offer frequent travel between the **Airport Station** and **Midtown Station** throughout both the day and night. Each trip takes approximately 30 minutes and costs $2.50. Please see [here](https://www.itsmarta.com/fare-programs.aspx){: target="_blank"} for MARTA ticket information.
 {: .text-justify}
 
 <p class="notice--warning">
 	<strong>Tip:</strong> With <a href= "https://www.itsmarta.com/breeze-mobile.aspx" target="_blank">Breeze Mobile 2.0</a> app, you can purchase MARTA fare directly on your phone and the given QR code is your ticket.</p>
 
-Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-40 minutes.
+Attendees can also take Uber, Lyft, taxi, or other private services, which typically take 20-30 minutes.
 {: .text-justify}
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d106211.49353821258!2d-84.50041541823782!3d33.706123846292044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x88f4fd2fe1035901%3A0x4117a3ef1892b048!2sHartsfield%E2%80%93Jackson%20Atlanta%20International%20Airport%20(ATL)%20(ATL)%2C%20North%20Terminal%20Parkway%2C%20Atlanta%2C%20GA!3m2!1d33.636149599999996!2d-84.4293764!4m5!1s0x88f50466c0af66b3%3A0xdca0422f536055f5!2s84%205th%20St%20NW%2C%20Atlanta%2C%20GA%2030308!3m2!1d33.7761528!2d-84.38952259999999!5e0!3m2!1sen!2sus!4v1689268679774!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -6,7 +6,7 @@ permalink: /sunday/
 ---
 <a name="top"></a>
 ## Sunday Symposium
-The Sunday Symposium will address cardiovascular health equity.**
+The Sunday Symposium will address **cardiovascular health equity**.
 
 1. When: Sunday, October 1st, 2023 at 12pm-5:30pm
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University

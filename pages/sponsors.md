@@ -23,7 +23,22 @@ For any questions about sponsorship and payment
 <br>Emory University
 <br><a href="mailto: ocfr@emory.edu" target="_blank">ocfr@emory.edu</a>
 </p>
+---
 
+# Sponsors
+<style>
+table {border: none!important;}
+table, th, td {border: none!important;}
+blockquote {
+    border: none!;
+    padding-left: 10px;
+}
+</style>
+
+| <img src="/assets/img/baxter.png" alt="" height=150 width=150/> || <img src="/assets/img/mathworks.png" alt="" height=150 width=150/> || <img src="/assets/img/moore.png" alt="" height=150 width=150/> |
+
+&nbsp;
+&nbsp;
 
 [Top of Page](#top){: .btn}
 

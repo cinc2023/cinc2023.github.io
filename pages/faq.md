@@ -43,6 +43,16 @@ The [visa wizard](https://travel.state.gov/content/travel/en/us-visas/visa-infor
 For the dates of the conference, the average high is 24°C, and the average low is 16°C. Short rain storms are possible.
 {: .text-justify}
 
+## Time Zone
+### What time zone is Atlanta operation in?
+Atlanta operates in the Eastern Time Zone (ET) within the United States, UTC -4:00. 
+{: .text-justify}
+
+## Electric stadards
+The standard electric voltage in Atlanta is 120 volts at a frequency of 60Hz. The plug type commonly used is the Type A and Type B plugs. You might need a plug adapter and potentially a voltage converter to ensure your electronic devices work properly.
+{: .text-justify}
+![plugs](/assets/img/plugs.png)
+
 ## Transportation
 ### How can I find public transportation at Hartsfield-Jackson Atlanta International Airport?
 Atlanta's public transit rail system [MARTA](https://www.itsmarta.com){: target="_blank"} is at the domestic terminal. Airport shuttles and Plane Trains are running from the International terminal to the domestic terminal.

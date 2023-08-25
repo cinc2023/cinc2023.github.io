@@ -12,7 +12,7 @@ The Sunday Symposium will address **cardiovascular health equity**.
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
 4. Transportation: 
-* **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue.
+* **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)
 * **Public transportation:** MARTA bus #36 is a public transportation system that connects Atlanta Midtown and Emory University. The bus departs from Midtown Station every 40 minutes.\
 Getting on MARTA 36: Midtown Station\
 Getting off MARTA 36: N Decatur Rd NE & Clifton Rd\

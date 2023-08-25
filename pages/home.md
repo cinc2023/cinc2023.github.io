@@ -50,8 +50,15 @@ blockquote {
 
 &nbsp;
 
+## Organizers
+
 | <img src="/assets/img/emory.jpg" alt="" height=150 width=150/> || <img src="/assets/img/msm.png" alt="" height=150 width=150/> || <img src="/assets/img/gt.png" alt="" height=170 width=170/> || <img src="assets/img/wg-ecardiology.png" alt="" height=200 width=200/> |
 
+&nbsp;
+
+## Sponsors
+
+| <img src="/assets/img/baxter.png" alt="" height=150 width=150/> || <img src="/assets/img/mathworks.png" alt="" height=150 width=150/> || <img src="/assets/img/moore.png" alt="" height=150 width=150/> |
 
 &nbsp;
 

@@ -5,7 +5,7 @@ author_profile: true
 permalink: /programme/
 ---
 
-[PhysioNet Challenge Hackathon](https://moody-challenge.physionet.org/2023/#hackathon){: .btn .btn--x-large}\
+[PhysioNet Challenge Hackathon](../hackathon){: .btn .btn--x-large}\
 [Sunday Symposium and Reception](../sunday){: .btn .btn--x-large}\
 [The Scientific Program](https://cinc.org/prelim_program_2023/){: .btn .btn--x-large}\
 [Special Sessions](../special){: .btn .btn--x-large}\

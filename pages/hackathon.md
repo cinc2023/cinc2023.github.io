@@ -18,7 +18,7 @@ This year, we are reintroducing a final opportunity to win a prize in the Challe
 * Refreshments and technical support will be available. 
 
 <p class="notice--warning">
-	<strong>Note:</strong> The Hackathon is not the same as the Sunday Symposium, but it is in the same building as the symposium and occurring on the morning of the symposium. You may attend both, of course.</p>
+	<strong>Note:</strong> The Hackathon is not same as the Sunday Symposium, but it is in the same building as the symposium and occurring on the morning of the symposium. You may attend both, of course.</p>
 
 
 [Top of Page](#top){: .btn}

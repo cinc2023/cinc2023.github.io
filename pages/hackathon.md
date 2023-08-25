@@ -10,7 +10,7 @@ permalink: /hackathon/
 
 This year, we are reintroducing a final opportunity to win a prize in the Challenge. On the Sunday morning before Computing in Cardiology starts (the 1st of October), there will be an all-day hackathon (with on-site support from 9am–1pm local time) on Emory’s campus, adjacent to the Sunday Symposium. It will have the same objective as the current Challenge. This event is, once again, generously sponsored by the [Gordon and Betty Moore Foundation](https://www.moore.org/){: target="_blank"} and [MathWorks](https://www.mathworks.com/){: target="_blank"}.
 {: .text-justify}
-**For registration details, please visit [George B. Moody PhysioNet Challenge - Hackathon](https://moody-challenge.physionet.org/2023/#hackathon){: target="_blank"}.**
+**To access registration details and rules, please visit [George B. Moody PhysioNet Challenge - Hackathon](https://moody-challenge.physionet.org/2023/#hackathon){: target="_blank"}.**
 
 * When: Sunday, October 1, 2023 from 9:00 AM to 1:00PM 
 * Where: Rooms **A169** and **A170**, James B. Williams Medical Education Building, Emory School of Medicine

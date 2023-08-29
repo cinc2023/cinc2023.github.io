@@ -1,32 +1,19 @@
 ---
-title: "Important dates and calendar"
+title: "Calendar"
 layout: single
 author_profile: true
 permalink: /dates/
 ---
 <a name="top"></a>
 
-You may want to consider the dates below to attend CinC 2023 conference. More information for authors and registration is available at [CinC main website](https://cinc.org/inf_authors/){: target="_blank"}. 
-{: .text-justify}
-
-> **Before August 15, 2023**
-
-- **Early registration for in-person attendance**\
-Please visit [CinC main website](https://cinc.org/inf_authors/#:~:text=5.%20Register%20to%20attend%20CinC){: target="_blank"} for details regarding registration.\
-To register [click here](https://softconf.com/n/cinc2023/user/){: target="_blank"}.
-{: .text-justify}
-
-
-> **Full paper submission deadline**
-
-* Authors of accepted abstracts are invited to submit full papers (up to 4 pages) to the conference. More information about full paper submission is available on [Information for Authors page](https://cinc.org/inf_authors/){: target="_blank"} of CinC main website.
+**For important dates for authors and registration, please visit [CinC main website](https://cinc.org/inf_authors/){: target="_blank"}.** 
 {: .text-justify}
 
 &nbsp;
 
 ## CinC 2023 Conference Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&dates=20231001/20231031&showCalendars=0&showNav=0&mode=WEEK&src=Y19hYzE0Y2VkMWIyMWYyMDk3MzJhNTE4M2RjYzY0ZGE4MDQ2NWE0MmQ4OGI4OWZjOWYwM2RmZmM2NGRkNTJkZDMyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&dates=20231001/20231031&showCalendars=0&showNav=0&mode=AGENDA&src=Y19hYzE0Y2VkMWIyMWYyMDk3MzJhNTE4M2RjYzY0ZGE4MDQ2NWE0MmQ4OGI4OWZjOWYwM2RmZmM2NGRkNTJkZDMyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <script src="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fadd-to-calendar-button%402&data=05%7C01%7Chyelyon.lee%40emory.edu%7Cfd729f0cad8949876c3a08db5d8054af%7Ce004fb9cb0a4424fbcd0322606d5df38%7C0%7C0%7C638206577984266219%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BJmbzbIfkNXgglaFk5PvzZlz%2BzPdfaLwCyPM8s0lUVM%3D&reserved=0" async defer></script>
 
@@ -34,6 +21,13 @@ To register [click here](https://softconf.com/n/cinc2023/user/){: target="_blank
 <add-to-calendar-button
   name="Event Series"
   dates='[
+     {
+      "name":"PhysioNet Challenge Hackathon",
+      "description":"James B. William Medical Education Building, 100 Woodruff Cir, Atlanta, GA 30322, USA [url]https://goo.gl/maps/FGFmEzeobMZMayJ2A[/url]",
+      "startDate":"2023-10-01",
+      "startTime":"09:00",
+      "endTime":"13:00"
+    },    
     {
       "name":"Sunday Symposium",
       "description":"James B. William Medical Education Building, 100 Woodruff Cir, Atlanta, GA 30322, USA [url]https://goo.gl/maps/FGFmEzeobMZMayJ2A[/url]",
@@ -42,7 +36,7 @@ To register [click here](https://softconf.com/n/cinc2023/user/){: target="_blank
       "endTime":"17:00"
     },
     {
-      "name":"Sunday Dinner Reception",
+      "name":"Sunday Evening Reception",
       "description":"The Michael C. Carlos Museum [url]https://goo.gl/maps/b5yyzFoghCdBDBrRA[/url]",
       "startDate":"2023-10-01",
       "startTime":"18:30",

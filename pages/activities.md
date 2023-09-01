@@ -26,7 +26,7 @@ As Atlanta is often called the cradle of the modern Civil Rights Movement, you w
 
 ### [Six Flags Over Georgia](https://www.sixflags.com/overgeorgia?utm_source=googlebusinessprofile&utm_medium=organic&utm_campaign=Google+Business+Profile){: target='blank'}
 
-**Unleash your thrill-seeking spirit at Six Flags!** - *limited to 150 participants*
+**Unleash your thrill-seeking spirit at Six Flags!** - *limited to 56 participants*
 
 Experience an adrenaline-fueled adventure like never before at Six Flags, where thrill-seekers indulge in heart-pounding rides, jaw-dropping attractions, and unforgettable moments that will leave you exhilarated.
 {: .text-justify}
@@ -64,7 +64,7 @@ If you have a passion for diving, we have an exciting opportunity for you. **Onl
 
 ### [Atlanta Civil Rights Movement Bus Tour](https://www.greatexplorationtoursatlanta.com/){: target='blank'}
 
-**Journey through history, reliving the struggle and celebrating the heroes!** - *limited to 50 participants*
+**Journey through history, reliving the struggle and celebrating the heroes!** - *limited to 24 participants*
 
 Step back in time and relive the pivotal moments of the Atlanta Civil Rights Movement on our captivating bus tour. Journey through the historic streets where heroes walked, as passionate guides share powerful stories of courage, resilience, and social change.
 {: .text-justify}

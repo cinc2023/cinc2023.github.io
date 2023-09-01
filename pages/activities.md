@@ -20,9 +20,9 @@ You will find information about Monday afternoon activities. CinC 2023 provides 
 
 As Atlanta is often called the cradle of the modern Civil Rights Movement, you will be able to join on a revealing journey to learn stories about the 1960's Civil Rights movement. Pedal through history as passionate guides illuminate the significant landmarks where courageous activists fought for justice and equality.
 {: .text-justify}
-**Please note that we will request your first name and height to set up a bike for you in advance.**
+
+**Tour Guideline**: Bicycle Tours of Atlanta will place your bikes in the outside open area of the venue (a sign will be displayed). Participants should arrive at the open area by 1:00pm for fitting and a bike safety review. The vendor will divide the participants into two groups, with 25 in each group. Tours will depart at 1:30pm and 1:45pm, respectively.
 {: .text-justify}
- 
 
 ### [Six Flags Over Georgia](https://www.sixflags.com/overgeorgia?utm_source=googlebusinessprofile&utm_medium=organic&utm_campaign=Google+Business+Profile){: target='blank'}
 
@@ -47,9 +47,9 @@ The Piedmont Park History Walking Tour introduces the Park's vibrant past and pr
 Dive into an aquatic wonderland and embark on an unforgettable adventure at the Georgia Aquarium. Immerse yourself in a world teeming with awe-inspiring marine life, where majestic whales glide through vast exhibits, playful dolphins captivate your heart, and vibrant tropical fish create a mesmerizing kaleidoscope of colors.
 {: .text-justify}
 
-&nbsp;
+**Tour Guideline**: To enter the Georgia Aquarium, you will need to wear a wristband. Wristbands will be distributed at the registration desk on the 2nd floor of the venue starting at 12:00pm. A shuttle bus will run between the Global Learning Center and the Georgia Aquarium, with only a 10-minute distance between them, starting at 12:30pm. You can use the bus to reach the aquarium at your preferred time. 
 
-**SPECIAL ACTIVITY: [Dive With Gentle Giants](https://www.georgiaaquarium.org/experience/journey-with-gentle-giants-dive/){: target='blank'}**\
+#### SPECIAL ACTIVITY: [Dive With Gentle Giants](https://www.georgiaaquarium.org/experience/journey-with-gentle-giants-dive/){: target='blank'}
 If you have a passion for diving, we have an exciting opportunity for you. **Only 7 dive spots** are reserved at 3PM on October 2, 2023, under CinC 2023. If you are interested in diving with marine animals at the Georgia Aquarium, please directly contact to the aquarium.
 {: .text-justify}
 -  Contact info: Madison McClellan, Manager, Education Sales, Georgia Aquarium at [MMcClellan@georgiaaquarium.org](mailto: MMcClellan@georgiaaquarium.org)

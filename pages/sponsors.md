@@ -35,7 +35,7 @@ blockquote {
 }
 </style>
 
-| <img src="/assets/img/baxter.png" alt="" height=150 width=150/> || <img src="/assets/img/mathworks.png" alt="" height=150 width=150/> || <img src="/assets/img/moore.png" alt="" height=150 width=150/> |
+| <img src="/assets/img/baxter.png" alt="" height=150 width=150/> || <img src="/assets/img/alivecor.png" alt="" height=170 width=170/> || <img src="/assets/img/mathworks.png" alt="" height=170 width=170/> || <img src="/assets/img/moore.png" alt="" height=150 width=150/> |
 
 &nbsp;
 &nbsp;

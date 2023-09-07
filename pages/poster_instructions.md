@@ -29,7 +29,7 @@ You will be able to input your information, add your abstract, and upload poster
 
 ## On mobile app
 * **Step 1: Down load Whova app**\
-Search and download Whova on Google Play or the App Store or visit the [Whova App download page](https://whova.com/faq/why-should-i-download-whova-app/){: target='blank'}.
+Search and download Whova app on Google Play or the App Store or visit the [Whova App download page](https://whova.com/faq/why-should-i-download-whova-app/){: target='blank'}.
 {: .text-justify}
 * **Step 2: Sign up Whova**\
 Follow the same steps above to access your poster booth to upload your posters and videos. 

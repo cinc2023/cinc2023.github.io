@@ -28,8 +28,8 @@ Computing in Cardiology publishes short papers (4 pages maximum) that have been 
 * The session chairpersons need to know who will present each scheduled paper. Help them by introducing yourself, and letting them know which paper you will present. 
 * There will also be a local person available to provide technical assistance. 
 
-### Poster Presentation
-* All presenters (remote and onsite) will upload their poster as a pdf file (max size of 10MB) to the conference hosting site, Whova, and have the option of also uploading a 3-minute video (mp4 format highly recommended) presenting the poster.
+### Poster Presentation - **[Poster upload instructions](../instructions/)**
+* All presenters (remote and onsite) will upload their poster as a pdf file (max size of 10MB) to the conference hosting site, Whova, and have the option of also uploading a 3-minute video (mp4 format highly recommended, 50MB limited) presenting the poster.
 * Each poster will have a chat/mailbox for communicating with the authors on Whova. 
 In-person presenters will come to their poster session and present and discuss their study with conference attendees. 
 * Remote participants will be able to communicate with conference attendees (remote and in-person) via the chat/mailbox on Whova. 

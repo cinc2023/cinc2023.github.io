@@ -1,5 +1,5 @@
 ---
-title: "Poster Upload Instructions"
+title: "Poster Upload Instructions - Whova"
 layout: single
 author_profile: true
 permalink: /instructions/
@@ -9,7 +9,7 @@ permalink: /instructions/
 ## On desktop
 
 ### Option 1
-* **Step 1: Open a personal link**
+* **Step 1: Open a personal link**\
 As a registered poster presenter, you will receive a personal link from CinC 2023 conference organizers. This link will enable you to access your poster booth. When you open the link, you will find **"The 50th Computing in Cardiology (CinC) 2023, Atlanta, GA, USA"** at the top of the page, followed by your poster title. No sign-in is required: the link will allow you to set up your booth.
 {: .text-justify}
 * **Step 2: Edit your poster booth**\
@@ -29,10 +29,10 @@ You will be able to input your information, add your abstract, and upload poster
 
 ## On mobile app
 * **Step 1: Down load Whova app**\
-Search and download Whova on Google Play, App Store, or the Web or visit [Whova App download page](https://whova.com/faq/why-should-i-download-whova-app/){: target='blank'}.
+Search and download Whova on Google Play or the App Store or visit the [Whova App download page](https://whova.com/faq/why-should-i-download-whova-app/){: target='blank'}.
 {: .text-justify}
 * **Step 2: Sign up Whova**\
-Follow the same step above to access your poster booth to upload your posters and videos. 
+Follow the same steps above to access your poster booth to upload your posters and videos. 
 {: .text-justify}
 
 If you need a step-by-step guideline to upload posters and videos, please visit [Whova Artifact Center Presenter Guide](https://whova.com/pages/whova-app-artifact-center-presenter-guide/){: target='blank'}.

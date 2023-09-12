@@ -36,7 +36,7 @@ In-person presenters will come to their poster session and present and discuss t
 * Onsite posters must be in portrait (i.e., vertical) orientation and be no larger than A0 size. A0 is equivalent to 841 (width) X 1189 (height) mm or 33.1 X 46.8 inches. 
 
 <p class="notice--warning">
-	<strong>Note</strong>: A link will be sent to each poster presenter, allowing you to upload your posters and 3-minute videos on the conference hosting site, Whova.</p>
+	<strong>Note</strong>: A personal link will be sent to each poster presenter on September 15, allowing you to upload your posters and 3-minute videos on the conference hosting site, Whova.</p>
 
 ### Onsite Poster Presentation Chech-in
 * Authors presenting posters must check in with the session chair in the exhibition center during the 30 minutes prior to the poster sessions in which their presentations are scheduled. 

@@ -6,6 +6,8 @@ permalink: /instructions/
 ---
 <a name="top"></a>
 
+Please upload your poster on Whova by **October 1, 2023**. 
+
 ## On desktop
 
 ### Option 1

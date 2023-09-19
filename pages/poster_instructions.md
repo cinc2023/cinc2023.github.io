@@ -6,7 +6,8 @@ permalink: /instructions/
 ---
 <a name="top"></a>
 
-Please upload your poster on Whova by **October 1, 2023**. 
+Please upload your poster on Whova by **October 1, 2023**. If you need a step-by-step guideline to upload posters and videos, please visit [**Whova Artifact Center Presenter Guide**](https://whova.com/pages/whova-app-artifact-center-presenter-guide/){: target='blank'}.
+{: .text-justify}
 
 ## On desktop
 
@@ -49,9 +50,6 @@ Search and download Whova app on Google Play or the App Store or visit the [Whov
 {: .text-justify}
 * **Step 2: Sign up Whova**\
 Follow the same steps above to access your poster booth to upload your posters and videos. 
-{: .text-justify}
-
-If you need a step-by-step guideline to upload posters and videos, please visit [Whova Artifact Center Presenter Guide](https://whova.com/pages/whova-app-artifact-center-presenter-guide/){: target='blank'}.
 {: .text-justify}
 
 

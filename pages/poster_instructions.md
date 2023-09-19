@@ -17,6 +17,8 @@ As a registered poster presenter, you will receive a personal link from CinC 202
 * **Step 2: Edit your poster booth**\
 You will be able to input your information, add your abstract, upload posters and a 3-minute video. If you have additional presenters registered for the conference, you can add them to help manage your poster. 
 {: .text-justify}
+<p class="notice--warning">
+	<strong>Note:</strong> <strong>SoftConf and Whova are not synchronized.</strong> If you update the poster title on SoftConf, please also update it in the Whova mobile app. The Whova web portal does not allow you to change poster title but the Whoa mobile app does.</p> 
 
 <div class="notice--warning">
   <h4 class="no_toc">Recommendations:</h4>

@@ -9,6 +9,8 @@ permalink: /instructions/
 Please upload your poster on Whova by **October 1, 2023**. If you need a step-by-step guideline to upload posters and videos, please visit [**Whova Artifact Center Presenter Guide**](https://whova.com/pages/whova-app-artifact-center-presenter-guide/){: target='blank'}.
 {: .text-justify}
 
+Click to access the [**CinC 2023 Whova web portal**](https://whova.com/portal/webapp/compu_202310/){: target='blank'}.
+
 ## On desktop
 
 ### Option 1

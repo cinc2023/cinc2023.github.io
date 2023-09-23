@@ -24,13 +24,6 @@ As Atlanta is often called the cradle of the modern Civil Rights Movement, you w
 **Tour Guideline**: Bicycle Tours of Atlanta will place your bikes in the outside open area of the venue (a sign will be displayed). Participants should arrive at the open area by 1:00pm for fitting and a bike safety review. The vendor will divide the participants into two groups, with 25 in each group. Tours will depart at 1:30pm and 1:45pm, respectively.
 {: .text-justify}
 
-### [Six Flags Over Georgia](https://www.sixflags.com/overgeorgia?utm_source=googlebusinessprofile&utm_medium=organic&utm_campaign=Google+Business+Profile){: target='blank'}
-
-**Unleash your thrill-seeking spirit at Six Flags!** - *limited to 56 participants*
-
-Experience an adrenaline-fueled adventure like never before at Six Flags, where thrill-seekers indulge in heart-pounding rides, jaw-dropping attractions, and unforgettable moments that will leave you exhilarated.
-{: .text-justify}
-
 ## For In-between-ist
 ### [Piedmont Park Historic Tour](https://piedmontpark.org/){: target='blank'}
 

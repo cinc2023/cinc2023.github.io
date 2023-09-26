@@ -9,12 +9,18 @@ permalink: /dates/
 **For important dates for authors and registration, please visit [CinC main website](https://cinc.org/inf_authors/){: target="_blank"}.** 
 {: .text-justify}
 
-&nbsp;
 
-## CinC 2023 Conference Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&dates=20231001/20231031&showNav=0&showTabs=1&showCalendars=0&mode=AGENDA&src=Y18wYzc3YjI2ODhlZmRiY2Q4MDdmZjc5YjY2YTU3ZGNlZTExYTk2MDc0NDE3MmU3YjkwM2MxNDFiNzNlNDA0MjEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<div>
+  <div title="Whova event and conference app" id="whova-agendawidget">
+  <p id="whova-loading">Loading...</p>
+  </div>
+ <script src="https://whova.com/static/frontend/xems/js/embed/embedagenda.js?eid=-YYNmmhtM7WFEzWuEal-N5VgMbsrpYQYDKE0bceFpXM%3D&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script">
+        </script>
+ <div id="whova-wrap" class="whova-wrap-class">
+            
+        </div>
+    </div>
 
 
 

@@ -9,7 +9,7 @@ permalink: /gala/
 1. When: Monday, October 2nd, 2023 at 6:30pm-9:30pm
 2. Where: Ocean Ballroom at Georgia Aquarium
 3. Address: [246 Ivan Allen jr. Blvd NW](https://maps.app.goo.gl/PiDRUqyJpbZRCNm49){: target="_blank"}
-4. Transportation: Two charters shuttle between the Georgia Tech Hotel and the aquarium for the gala event. **CinC 2023** signs are displayed at the front window of the charters. You will be able to enter the Ocean Ballroom at 6:30pm. Please note that the security at the Ocean Ballroom of the Georgia Aquarium will not let you in before 6:30pm.
+4. Transportation: Two charters shuttle between the Georgia Tech Hotel and the aquarium for the gala event from 6pm to 9:30pm. **CinC 2023** signs are displayed at the front window of the charters. You will be able to enter the Ocean Ballroom at 6:30pm. Please note that the security at the Ocean Ballroom of the Georgia Aquarium will not let you in before 6:30pm.
 
 * **Pick up:** at the entrance of the Georgia Tech Hotel\
 <img src="/assets/img/gt_hotel.png" alt="GT Hotel" width="400" height="400">

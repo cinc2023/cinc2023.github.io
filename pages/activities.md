@@ -39,7 +39,7 @@ The Piedmont Park History Walking Tour introduces the Park's vibrant past and pr
 Dive into an aquatic wonderland and embark on an unforgettable adventure at the Georgia Aquarium. Immerse yourself in a world teeming with awe-inspiring marine life, where majestic whales glide through vast exhibits, playful dolphins captivate your heart, and vibrant tropical fish create a mesmerizing kaleidoscope of colors.
 {: .text-justify}
 
-**Tour Guideline**: Two volunteers holding a "Georgia Aquarium" will meet you on the first floor of the venue to distribute the aquarium tickets at 12:15pm. After distributing the tickets, these volunteers will be waiting for you in front of the two charters at the entrance of Georgia Tech Hotel.
+**Tour Guideline**: Two volunteers holding a "Georgia Aquarium" will meet you on the first floor of the venue to distribute the aquarium tickets at 12:15pm. After distributing the tickets, these volunteers will be waiting for you in front of the two charters at the entrance of Georgia Tech Hotel. The charters will shuttle between the Georgia Tech Hotel and the Georgia Aquarium from 1pm to 6pm. As the aquarium will close at 5pm, you will need to exit the aquarium by 5pm.
 {: .text-justify}
 Please note that to enter the Georgia Aquarium, you will need to present your ticket to the aquarium's security. Lost tickets cannot be replaced or reissued. Therefore, once you receive your tickets, it is advisable to take a photo of the bardo as a precaution in case of loss. While the aquarium may accept the barcode for entry, this is not guaranteed by the local organizers." 
 {: .text-justify}

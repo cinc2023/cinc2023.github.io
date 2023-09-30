@@ -7,19 +7,27 @@ permalink: /sunday/
 <a name="top"></a>
 ## Sunday Symposium
 The Sunday Symposium will address **cardiovascular health equity**.
-
+![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpg)
 1. When: Sunday, October 1st, 2023 at 12pm-5:30pm
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
 4. Transportation: 
-* **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)
+
+* **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle named **"CinC 2023-Sunday Symposium"** to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf).
+* **Getting On:** [Georgia Tech Global Learning Center entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6). Please look for [Amazon Locker](https://maps.app.goo.gl/h95A36ExANwF6ErJ7) on the 5th street.\
+<img src="/assets/img/amazon.png" alt="Amazon Locker" width="400" height="400">
+
+* **Shuttles:** Take one of the charters that you see. **"CinC2023 Sunday Symposium"** sign will be on the charter door and window.\
+<img src="/assets/img/emory shuttle1.png" alt="Shuttle1" width="300" height="300"> 
+<img src="/assets/img/emory shuttle2.png" alt="Shuttle1" width="310" height="310">
+
+* **Taking Off:** Take off the shuttle at "Woodruff Circle" in Emory campus, and Emory School of Medicine building will be on your right.\
+<img src="/assets/img/som.png" alt="Shuttle1" width="400" height="400">
+
 * **Public transportation:** MARTA bus #36 is a public transportation system that connects Atlanta Midtown and Emory University. The bus departs from Midtown Station every 40 minutes.\
 Getting on MARTA 36: Midtown Station\
 Getting off MARTA 36: N Decatur Rd NE & Clifton Rd\
 MARTA 36 [bus route](https://www.itsmarta.com/pdfs/maps/36.pdf) and [schedule](https://www.itsmarta.com/36.aspx)
-
-
-![Sunday Symposium Flyer](../assets/img/flyer_landscape.jpg)
 
 ## Sunday evening reception
 The reception will be ready at the Michael C. Carlos Museum on the Emory University campus, 10 minutes walk from the Sunday Symposium venue, James B. Williams Medical Education Building (map below). 

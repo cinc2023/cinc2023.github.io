@@ -10,8 +10,6 @@ You will find information about Monday afternoon activities. CinC 2023 provides 
 <p class="notice--warning">
 	<strong>Note:</strong> <strong>Every activity will have limit number of participants</strong>. Once the participant count reaches the limit, you will not be able to join the activity. The <strong>"first-come first-served"</strong> rule will be applied for all activities.</p>
 
-**Transportation information and tour guideline will be available shortly.**
-
 ## For Activists
 
 ### [Bike Tours of Atlanta](https://biketoursatl.com/){: target='blank'} 
@@ -20,16 +18,17 @@ You will find information about Monday afternoon activities. CinC 2023 provides 
 
 As Atlanta is often called the cradle of the modern Civil Rights Movement, you will be able to join on a revealing journey to learn stories about the 1960's Civil Rights movement. Pedal through history as passionate guides illuminate the significant landmarks where courageous activists fought for justice and equality.
 {: .text-justify}
-
-**Tour Guideline**: Bicycle Tours of Atlanta will place your bikes in the outside open area of the venue (a sign will be displayed). Participants should arrive at the open area by 1:00pm for fitting and a bike safety review. The vendor will divide the participants into two groups, with 25 in each group. Tours will depart at 1:30pm and 1:45pm, respectively.
+**Tour Guideline**: Two volunteers holding a "Bike Tour" signs will be waiting for you in the outdoor open area of the venue at 12:15pm. The participants will be divided into two groups, and each group will depart 15 minutes apart. To reach the location where bikes are set up, participants should arrive at the open area by 12:45pm. After undergoing a brief bike fitting and safety review with the vendor, the tour will commence.
 {: .text-justify}
 
 ## For In-between-ist
 ### [Piedmont Park Historic Tour](https://piedmontpark.org/){: target='blank'}
 
 **Unveiling Piedmont Park's untold stories!** - *limited to 50 participants*
-
 The Piedmont Park History Walking Tour introduces the Park's vibrant past and present to visitors and natives alike. Join us and discover how Piedmont Park's rich history is undeniably intertwined with the development of Atlanta. On the tour, you will explore the fascinating historical and physical evolution of iconic Piedmont Park and how it went from forest to farmland to now being a premier urban green space. The tour will take 60-90 minutes, and be prepared to walk about a mile during that time.
+{: .text-justify}
+
+**Tour Guideline**: Two volunteers holding a "Piedmont Park" sign will meet you on the first floor of the venue at 12:15pm. Once everyone has gathered, you will begin walking to Piedmont Park. Upon arrival at the park, two tour guides will be waiting for you. The tour will start after dividing the participants into two groups for a better experience.
 {: .text-justify}
 
 ## **For Passivists**
@@ -40,7 +39,10 @@ The Piedmont Park History Walking Tour introduces the Park's vibrant past and pr
 Dive into an aquatic wonderland and embark on an unforgettable adventure at the Georgia Aquarium. Immerse yourself in a world teeming with awe-inspiring marine life, where majestic whales glide through vast exhibits, playful dolphins captivate your heart, and vibrant tropical fish create a mesmerizing kaleidoscope of colors.
 {: .text-justify}
 
-**Tour Guideline**: To enter the Georgia Aquarium, you will need to wear a wristband. Wristbands will be distributed at the registration desk on the 2nd floor of the venue starting at 12:00pm. A shuttle bus will run between the Global Learning Center and the Georgia Aquarium, with only a 10-minute distance between them, starting at 12:30pm. You can use the bus to reach the aquarium at your preferred time. 
+**Tour Guideline**: Two volunteers holding a "Georgia Aquarium" will meet you on the first floor of the venue to distribute the aquarium tickets at 12:15pm. After distributing the tickets, these volunteers will be waiting for you in front of the two charters at the entrance of Georgia Tech Hotel.
+{: .text-justify}
+Please note that to enter the Georgia Aquarium, you will need to present your ticket to the aquarium's security. Lost tickets cannot be replaced or reissued. Therefore, once you receive your tickets, it is advisable to take a photo of the bardo as a precaution in case of loss. While the aquarium may accept the barcode for entry, this is not guaranteed by the local organizers." 
+{: .text-justify}
 
 #### SPECIAL ACTIVITY: [Dive With Gentle Giants](https://www.georgiaaquarium.org/experience/journey-with-gentle-giants-dive/){: target='blank'}
 If you have a passion for diving, we have an exciting opportunity for you. **Only 7 dive spots** are reserved at 3PM on October 2, 2023, under CinC 2023. If you are interested in diving with marine animals at the Georgia Aquarium, please directly contact to the aquarium.
@@ -60,6 +62,8 @@ If you have a passion for diving, we have an exciting opportunity for you. **Onl
 **Journey through history, reliving the struggle and celebrating the heroes!** - *limited to 24 participants*
 
 Step back in time and relive the pivotal moments of the Atlanta Civil Rights Movement on our captivating bus tour. Journey through the historic streets where heroes walked, as passionate guides share powerful stories of courage, resilience, and social change.
+{: .text-justify}
+**Tour Guideline**: A volunteer holding a "Bus Tour" sign will meet you on the first floor of the venue at 12:15pm. You will walk to the entrance of the Georgia Tech Hotel, where the charter with "CinC 2023 Bus Tour sign on the door or window is located. 
 {: .text-justify}
 
 &nbsp;

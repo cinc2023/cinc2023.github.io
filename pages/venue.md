@@ -17,7 +17,17 @@ CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, w
 Sunday Symposium will be held at James B. Williams Medical Education Building, situated on the Emory Campus, which is approximately 40-45 minutes away from Atlanta Midtown. The building address is [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}. CinC 2023 will provide own **[transportation](#transloc)** to connect Midtown and the James B. Williams Medical Educational Building (more information to come) . You can also use public transportation **[MARTA 36 bus](#36)** to get the Sunday Symposium venue from midtown if you miss CinC 2023 bus. 
 {: .text-justify}
 
-### <a name="transloc"></a>CinC 2023 transportation: MORE INFORMATION TO COME
+### <a name="transloc"></a>CinC 2023 transportation: 
+Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)
+* **Getting On:** [Georgia Tech Global Learning Center entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6). Please look for [Amazon Locker](https://maps.app.goo.gl/h95A36ExANwF6ErJ7) on the 5th street.\
+<img src="/assets/img/amazon.png" alt="Amazon Locker" width="400" height="400">
+* **Shuttles:** Take one of the charters that you see. **"CinC2023 Sunday Symposium"** sign will be on the charter door and window.\
+<img src="/assets/img/emory shuttle1.png" alt="Shuttle1" width="300" height="300"> 
+<img src="/assets/img/emory shuttle2.png" alt="Shuttle1" width="310" height="310">
+* **Taking Off:** Take off the shuttle at "Woodruff Circle" in Emory campus, and Emory School of Medicine building will be on your right.\
+<img src="/assets/img/som.png" alt="Shuttle1" width="400" height="400">
+
+
 ### <a name="36"></a>Public transportation: MARTA 36 bus 
 MARTA bus #36 is a public transportation system that connects Atlanta Midtown and Emory University. The bus departs from Midtown Station every 40 minutes. The Sunday schedule for MARTA 36 is available every 40 minutes. The Sunday schedule for MARTA 36 is available  [here](https://www.itsmarta.com/36.aspx){: target="_blank"}.
 {: .text-justify}

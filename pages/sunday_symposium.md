@@ -11,7 +11,9 @@ The Sunday Symposium will address **cardiovascular health equity**.
 1. When: Sunday, October 1st, 2023 at 12pm-5:30pm
 2. Where: [James B. Williams Medical Education Building](https://www.med.emory.edu/about/location/directions/index.html){: target="_blank"}, School of Medicine, Emory University
 3. Address: [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}
-4. Transportation: 
+4. Parking:
+There is no parking in the immediate vicinity of the building. The closest parking options are the [Michael Street Deck](https://maps.app.goo.gl/qkrLkJNkCoRrnqPC8) and the [WHSCAB parking lot](https://maps.app.goo.gl/5JB95s3M2WgqWRXCA). The parking deck is free on weekends, while the WHSCAB parking lot will be closed at 6pm.
+5. Transportation: 
 
 * **CinC 2023 designated bus:** Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle named **"CinC 2023-Sunday Symposium"** to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf).
 * **Getting On:** [Georgia Tech Global Learning Center entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6). Please look for [Amazon Locker](https://maps.app.goo.gl/h95A36ExANwF6ErJ7) on the 5th street.\
@@ -28,6 +30,7 @@ The Sunday Symposium will address **cardiovascular health equity**.
 Getting on MARTA 36: Midtown Station\
 Getting off MARTA 36: N Decatur Rd NE & Clifton Rd\
 MARTA 36 [bus route](https://www.itsmarta.com/pdfs/maps/36.pdf) and [schedule](https://www.itsmarta.com/36.aspx)
+
 
 ## Sunday evening reception
 The reception will be ready at the Michael C. Carlos Museum on the Emory University campus, 10 minutes walk from the Sunday Symposium venue, James B. Williams Medical Education Building (map below). 

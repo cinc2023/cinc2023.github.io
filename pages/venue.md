@@ -14,8 +14,11 @@ CinC 2023 will be mostly held in the Midtown neighborhood of Atlanta, GA, USA, w
 
 ## <a name="symposium"></a>Sunday Symposium venue: [James B. Williams Medical Education Building, Emory University](https://goo.gl/maps/k21b1gQBTsn33TGa8){: target="_blank"}
 
-Sunday Symposium will be held at James B. Williams Medical Education Building, situated on the Emory Campus, which is approximately 40-45 minutes away from Atlanta Midtown. The building address is [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}. CinC 2023 will provide own **[transportation](#transloc)** to connect Midtown and the James B. Williams Medical Educational Building (more information to come) . You can also use public transportation **[MARTA 36 bus](#36)** to get the Sunday Symposium venue from midtown if you miss CinC 2023 bus. 
+Sunday Symposium will be held at James B. Williams Medical Education Building, situated on the Emory Campus, which is approximately 40-45 minutes away from Atlanta Midtown. The building address is [100 Woodruff Circle Atlanta, GA 30322](https://goo.gl/maps/s3ojFmzesXYqnWjG7){: target="_blank"}. CinC 2023 will provide own **[transportation](#transloc)** to connect Midtown and the James B. Williams Medical Educational Building. You can also use public transportation **[MARTA 36 bus](#36)** to get the Sunday Symposium venue from midtown if you miss CinC 2023 bus. 
 {: .text-justify}
+
+### Parking:
+There is no parking in the immediate vicinity of the building. The closest parking options are the [Michael Street Deck](https://maps.app.goo.gl/qkrLkJNkCoRrnqPC8) and the [WHSCAB parking lot](https://maps.app.goo.gl/5JB95s3M2WgqWRXCA). The parking deck is free on weekends, while the WHSCAB parking lot will be closed at 6pm.
 
 ### <a name="transloc"></a>CinC 2023 transportation: 
 Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)

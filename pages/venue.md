@@ -21,9 +21,9 @@ Sunday Symposium will be held at James B. Williams Medical Education Building, s
 There is no parking in the immediate vicinity of the building. The closest parking options are the [Michael Street Deck](https://maps.app.goo.gl/qkrLkJNkCoRrnqPC8) and the [WHSCAB parking lot](https://maps.app.goo.gl/5JB95s3M2WgqWRXCA). The parking deck is free on weekends, while the WHSCAB parking lot will be closed at 6pm.
 
 ### <a name="transloc"></a>CinC 2023 transportation: 
-Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} you will find a dedicated CinC 2023 vehicle to select. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)
-* **Getting On:** [Georgia Tech Global Learning Center entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6). Please look for [Amazon Locker](https://maps.app.goo.gl/h95A36ExANwF6ErJ7) on the 5th street.\
-<img src="/assets/img/amazon.png" alt="Amazon Locker" width="400" height="400">
+Transportation designated for the CinC 2023 Sunday Symposium will be provided to all conference attendees for the entire day. On the Emory [TransLoc.com](https://emory.transloc.com/m/){: target="_blank"} site or [TransLoc app](https://emory.transloc.com/info/mobile){: target="_blank"} go to search box and find **"Biomedical Informatics"** shuttle. This feature offers real-time location tracking and a concise map of the route for transportation to the Sunday Symposium venue. [CinC 2023 designated bus schedule](https://cinc2023.github.io/assets/img/sunday_transportation.pdf)
+* **Getting On:** [Georgia Tech Hotel entrance](https://maps.app.goo.gl/4on2MC8iAbRpJufb6).\
+<img src="/assets/img/gt_hotel.png" alt="GT Hotel" width="400" height="400">
 * **Shuttles:** Take one of the charters that you see. **"CinC2023 Sunday Symposium"** sign will be on the charter door and window.\
 <img src="/assets/img/emory shuttle1.png" alt="Shuttle1" width="300" height="300"> 
 <img src="/assets/img/emory shuttle2.png" alt="Shuttle1" width="310" height="310">

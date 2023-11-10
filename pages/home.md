@@ -12,6 +12,13 @@ permalink: /
 
 </div>
 
+<div align="middle">
+<span style="font-weight:500; font-size:25px"><a href="https://photos.app.goo.gl/ugzN6ZujA6fBQdnr9">Photos during CinC 2023 are now available!!</a></span>
+</div>
+
+&nbsp;
+
+&nbsp;
 We warmly invite you to the **50th Computing in Cardiology conference** in **Atlanta, Georgia, USA** on **1st - 4th October 2023**.
 {: .text-justify}
 
